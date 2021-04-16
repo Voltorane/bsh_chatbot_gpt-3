@@ -8,7 +8,7 @@ class Bot:
 
     def __init__(self):
         with open("/resources/api_v.txt", 'r') as f:
-        api_key = f.readline()
+            self.api_key = f.readline()
     
 b = Bot()
 
