@@ -73,11 +73,21 @@ class ManualFormatter:
                 pass
                 # raise RuntimeError('Incorrect type of data')
         
-        with jsonlines.open('resources/manuals/temp.jsonl', mode='w') as writer:
+        with open('resources/manuals/temp.jsonl', mode='w') as writer:
             # writer.write_all(formatted_texts)
             for text in jsonl_texts:
                 for line in text:
-                    writer.write("{text:" + line + "}")
+                    inserted_line = line
+                    char_limit = 700
+                    # while len(inserted_line) >= char_limit:
+                    #     writer.write("{\"text\":\"" + inserted_line[:char_limit-1]+ "\"}\n")
+                    #     inserted_line = inserted_line[char_limit-1:]
+                    # writer.write("{\"text\":\"" + inserted_line + "\"}\n")
+                    while len(inserted_line) >= char_limit:
+                        writer.write(inserted_line[:char_limit-1])
+                        inserted_line = inserted_line[char_limit-1:]
+                    writer.write(inserted_line)
+                    # writer.write(line)
         
         # for text in unformatted_texts:
         #     formatted_text = tokenize.sent_tokenize(text, language="english")
