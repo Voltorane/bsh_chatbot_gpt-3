@@ -32,7 +32,7 @@ time.sleep(10)
 print(openai.Answer.create(
     search_model="ada",
     model="curie",
-    question="What is the max volume?",
+    question="What is the way to turn it on?",
     file=response['id'],
     examples_context="In 2017, U.S. life expectancy was 78.6 years.",
     examples=[["What is human life expectancy in the United States?", "78 years."]],

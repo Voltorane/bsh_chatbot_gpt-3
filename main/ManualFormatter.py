@@ -32,7 +32,9 @@ class ManualFormatter:
             pdfReader = PyPDF2.PdfFileReader(m)
             for pageNum in range(pdfReader.numPages):
                 text = pdfReader.getPage(pageNum).extractText()
-                text = text.replace("\n", '')
+                text = text.replace("\n", ' ')
+                text = text.replace("\"", "\\\"")
+                text.encode('ascii', 'ignore')
 
 
                 texts.append(text)
@@ -52,7 +54,9 @@ class ManualFormatter:
                     texts = f.readlines()
                     f_texts = []
                     for text in texts:
-                        text = text.replace("\n", '')
+                        text = text.replace("\n", ' ')
+                        text = text.replace("\"", "\\\"")
+                        text.encode('ascii', 'ignore')
                         text_lowercase = text.lower()
                         if text_lowercase.islower():
                             f_texts.append(text)
