@@ -4,10 +4,11 @@ import openai
 import json
 
 class Bot:
-    api_key = "sk-OXawTe7IHhSE6c4rlCZ9kb7lItrskyEdvIeXDHR2"
+    api_key = ""
 
     def __init__(self):
-        pass
+        with open("/resources/api_v.txt", 'r') as f:
+        api_key = f.readline()
     
 b = Bot()
 
