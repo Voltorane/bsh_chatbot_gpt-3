@@ -56,9 +56,10 @@ class ManualFormatter:
                     for text in texts:
                         text = text.replace("\n", ' ')
                         text = text.replace("\"", "\\\"")
+                        text = text.replace("  ", "")
                         text.encode('ascii', 'ignore')
                         text_lowercase = text.lower()
-                        if text_lowercase.islower():
+                        if text_lowercase.islower() and not text.__contains__("@") and text.__contains__("$"):
                             f_texts.append(text)
                     jsonl_texts.append(f_texts)
             elif manual.endswith(".txt"):
@@ -92,29 +93,6 @@ class ManualFormatter:
                     #     inserted_line = inserted_line[char_limit-1:]
                     # writer.write(inserted_line)
                     # writer.write(line)
-        
-        # for text in unformatted_texts:
-        #     formatted_text = tokenize.sent_tokenize(text, language="english")
-        #     chars = 0
-        #     new_text = ""
-        #     for f_text in formatted_text:
-        #         if len(f_text) + chars <= char_limit:
-        #             new_text += f_text
-        #             chars += len(f_text)
-        #         else:
-        #             formatted_texts.append(new_text + "}\n")
-        #             new_text = "{\"text\":"
-        #             chars = 0
-        #     if chars != 0:
-        #         formatted_texts.append(new_text + "}\n")
-        #print(formatted_texts)
-        # print(len(formatted_texts))
-        # print(sum(len(s) for s in formatted_texts))
-        # return formatted_texts
-    
-    def jsonl_write(self, formatted_texts):
-        with jsonlines.open('resources/manuals/temp.jsonl', mode='w') as writer:
-            writer.write_all(formatted_texts)
 
 
         
