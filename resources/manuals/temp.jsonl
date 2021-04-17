@@ -1,610 +1,613 @@
-{"text":"\"shortdesc\": {\"$\": \"Alle Schritte vom Auspacken bis zum ersten Gebrauch Ihres Geräts sind hier für Sie zusammengestellt.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Sicherheit\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Packen Sie Ihr Gerät aus und prüfen Sie alle Teile auf Transportschäden.\"}, "}
-{"text":"{\"$\": \"Die Verpackung entfernen.\"}, "}
-{"text":"{\"$\": \"Die Informationsprodukte aus dem Geräteinnenraum entfernen.\"}, "}
-{"text":"{\"$\": \"Alle Teile auf Transportschäden prüfen. Wenden Sie sich bei Beanstandungen an den Händler, bei dem Sie das Gerät erworben haben oder an unseren Kundendienst. Kundendienst\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Schließen Sie das Gerät für einen ordnungsgemäßen Betrieb fachgerecht an Strom und Wasser an. Beachten Sie die geforderten Kriterien und die Montageanleitung.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Prüfen Sie nach dem Auspacken alle Teile auf Transportschäden und die Vollständigkeit der Lieferung.\"}, "}
-{"text":"\"p\": {\"$\": \"Wenden Sie sich bei Beanstandungen an den Händler, bei dem Sie das Gerät erworben haben oder an unseren Kundendienst.\"}, "}
-{"text":"\"hint\": {\"$\": \"Das Gerät wurde im Werk auf seine einwandfreie Funktion überprüft. Hierbei können Wasserflecken auf dem Gerät zurückgeblieben sein. Die Wasserflecken verschwinden nach dem ersten Spülgang.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Sie können Ihr Unterbaugerät oder integrierbares Gerät in der Küchenzeile zwischen Holzwänden und Kunststoffwänden einbauen. Wenn Sie Ihr Gerät nachträglich als Standgerät aufstellen, müssen Sie Ihr Gerät gegen Umkippen sichern, z. B. durch Verschraubungen an der Wand oder durch den Einbau unter einer durchgehenden Arbeitsplatte, die mit den Nachbarschränken fest verbunden ist.\"}, "}
-{"text":"{\"$\": \"Die Sicherheitshinweise beachten.\"}, "}
-{"text":"{\"$\": \"Die Hinweise zum elektrischen Anschluss beachten.\"}, "}
-{"text":"{\"$\": \"Den und den Zustand des Geräts prüfen.\"}, "}
-{"text":"{\"$\": \"Die erforderlichen Einbaumaße aus der Montageanleitung entnehmen.\"}, "}
-{"text":"{\"$\": \"Das Gerät mit Hilfe der verstellbaren Füße waagrecht aufstellen. Auf einen sicheren Stand achten.\"}, "}
-{"text":"{\"$\": \"Den Abwasseranschluss installieren.\"}, "}
-{"text":"{\"$\": \"Den Trinkwasseranschluss installieren.\"}, "}
-{"text":"{\"$\": \"Das Gerät an Strom anschließen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Schließen Sie Ihr Gerät an einen Abwasseranschluss an, damit durch den Spülgang verschmutztes Wasser abfließen kann.\"}, "}
-{"text":"{\"$\": \"Die erforderlichen Schritte aus der mitgelieferten Montageanleitung entnehmen.\"}, "}
-{"text":"{\"$\": \"Den Abwasserschlauch mit Hilfe der beiliegenden Teile an den Ablaufstutzen des Siphons anschließen.\"}, "}
-{"text":"{\"$\": \"Darauf achten, dass der Ablaufschlauch nicht geknickt, gequetscht oder in sich verschlungen ist.\"}, "}
-{"text":"{\"$\": \"Darauf achten, dass kein Verschlussdeckel im Ablauf das Abfließen des Abwassers verhindert.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Schließen Sie Ihr Gerät an einen Trinkwasseranschluss an.\"}, "}
-{"text":"{\"$\": \"Die erforderlichen Schritte aus der mitgelieferten Montageanleitung entnehmen.\"}, "}
-{"text":"{\"$\": \"Das Gerät mit Hilfe der beiliegenden Teile an den Trinkwasseranschluss anschließen. Die Technischen Daten beachten.\"}, "}
-{"text":"{\"$\": \"Darauf achten, dass der Trinkwasseranschluss nicht geknickt, gequetscht oder in sich verschlungen ist.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Schließen Sie Ihr Gerät an das Stromnetz an.\"}, "}
-{"text":"{\"$\": \"Am Gerät den Kaltgerätestecker der Netzanschlussleitung einstecken.\"}, "}
-{"text":"{\"$\": \"Den Netzstecker des Geräts in eine Steckdose in der Nähe des Geräts stecken. Die Anschlussdaten des Geräts stehen auf dem Typenschild.\"}, "}
-{"text":"{\"$\": \"Den Netzstecker auf festen Sitz prüfen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Bei der ersten Inbetriebnahme oder nach dem Zurückstellen auf Werkseinstellungen müssen Sie Einstellungen vornehmen.\"}, "}
-{"text":"\"hint\": {\"$\": \"Verbinden Sie Ihr Gerät mit einem mobilen Endgerät. Über die Home Connect App können Sie alle Einstellungen komfortabel vornehmen. Schnellstart\"}, "}
-{"text":"\"precondition\": {\"$\": \"Das Gerät ist aufgestellt und angeschlossen.\"}, "}
-{"text":"{\"$\": \"Spezialsalz einfüllen.\"}, "}
-{"text":"{\"$\": \"Klarspüler einfüllen.\"}, "}
-{"text":"{\"$\": \"Das Gerät einschalten. Das Display zeigt die Einstellungen für die erste Inbetriebnahme.\"}, "}
-{"text":"{\"$\": \"so oft drücken, bis das Display die gewünschte Einstellung zeigt. Wenn Sie bei der Einstellung Erstinbetriebnahme Home Connect wählen, nehmen Sie die weiteren Einstellungen über die Home Connect App Ihres mobilen Endgeräts vor. Die Einstellungen für die Erstinbetriebnahme und weitere Grundeinstellungen können Sie jederzeit am Gerät oder über die Home Connect App Ihres mobilen Endgeräts ändern.\"}, "}
-{"text":"{\"$\": \"oder so oft drücken, bis das Display den passenden Wert zeigt. Sie können mehrere Einstellungen ändern.\"}, "}
-{"text":"{\"$\": \"Um die Einstellungen zu speichern, ca. 3 Sekunden drücken.\"}, "}
-{"text":"{\"$\": \"Den Reiniger einfüllen .\"}, "}
-{"text":"{\"$\": \"Das ohne Geschirr starten. Wir empfehlen, aufgrund von möglichen Wasserflecken und anderen Rückständen das Gerät ohne Geschirr vor dem ersten Gebrauch zu betreiben.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Um von unserem umfangreichen Angebot zu profitieren, registrieren Sie Ihr Gerät ohne jegliche Verpflichtung.\"}, "}
-{"text":"{\"$\": \"Entdecken Sie alle Vorteile auf . Rabatte in unserem Online-Shop für passendes Zubehör Tipps und Tricks für Ihr Gerät Bosch Kundenservice immer zur Hand ... und vieles mehr\"}, "}
-{"text":"{\"$\": \"Um sich zu registrieren, auf den Link klicken.\"}, "}
-{"text":"{\"$\": \"Auf \"Kostenlos registrieren\" klicken.\"}, "}
-{"text":"{\"$\": \"Daten zur Registrierung eingeben.\"}, "}
-{"text":"{\"$\": \"Auf \"Senden\" klicken und den Angaben auf der Webseite folgen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Beachten Sie die Informationen zum Thema Sicherheit, um Ihr Gerät sicher gebrauchen zu können.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Hier finden Sie allgemeine Informationen zu dieser Anleitung.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Um das Gerät sicher und richtig zu verwenden, beachten Sie die Hinweise zum bestimmungsgemäßen Gebrauch.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Vermeiden Sie Risiken für Kinder und gefährdete Personen.\"}, "}
-{"text":"{\"$\": \"Dieses Gerät kann von Kindern ab 8 Jahren und darüber und von Personen mit reduzierten physischen, sensorischen oder mentalen Fähigkeiten oder Mangel an Erfahrung und/oder Wissen benutzt werden, wenn sie beaufsichtigt oder bezüglich des sicheren Gebrauchs des Geräts unterwiesen wurden und die daraus resultierenden Gefahren verstanden haben.\"}, "}
-{"text":"{\"$\": \"Kinder dürfen nicht mit dem Gerät spielen.\"}, "}
-{"text":"{\"$\": \"Reinigung und Benutzerwartung dürfen nicht durch Kinder ohne Beaufsichtigung durchgeführt werden.\"}, "}
-{"text":"{\"$\": \"Kinder jünger als 8 Jahre vom Gerät und der Anschlussleitung fernhalten.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Beachten Sie die Sicherheitshinweise, wenn Sie das Gerät installieren.\"}, "}
-{"text":"\"cause\": {\"$\": \"Unsachgemäße Installationen können zu Verletzungen führen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Beim Aufstellen und Anschließen des Geräts den Anweisungen der Gebrauchsanleitung und Montageanleitung folgen.\"} "}
-{"text":"{\"$\": \"Unsachgemäße Installationen sind gefährlich.\"}, "}
-{"text":"{\"$\": \"Das Durchtrennen des Zulaufschlauchs oder das Tauchen des Aquastop-Ventils in Wasser ist gefährlich.\"} "}
-{"text":"{\"$\": \"Das Gerät nur gemäß den Angaben auf dem Typenschild anschließen und betreiben. Das Gerät nur über eine vorschriftsmäßig installierte Steckdose mit Erdung an ein Stromnetz mit Wechselstrom anschließen. Das Schutzleitersystem der elektrischen Hausinstallation muss vorschriftsmäßig installiert sein. Nie das Gerät über eine externe Schaltvorrichtung versorgen, z. B. Zeitschaltuhr oder Fernsteuerung. Wenn das Gerät eingebaut ist, muss der Netzstecker der Netzanschlussleitung frei zugänglich sein, oder falls der freie Zugang nicht möglich ist, muss in der festverlegten elektrischen Installation eine allpolige Trennvorrichtung nach den Errichtungsbestimmungen eingebaut werden. Beim Aufst"}
-{"text":"ellen des Geräts darauf achten, dass die Netzanschlussleitung nicht eingeklemmt oder beschädigt wird.\"}, "}
-{"text":"{\"$\": \"Nie das Kunststoffgehäuse in Wasser tauchen. Das Kunststoffgehäuse am Zulaufschlauch enthält ein elektrisches Ventil. Nie den Zulaufschlauch durchtrennen. Im Zulaufschlauch befinden sich elektrische Anschlussleitungen.\"} "}
-{"text":"\"cause\": {\"$\": \"Eine verlängerte Netzanschlussleitung und nicht zugelassene Adapter zu verwenden, ist gefährlich.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Keine Verlängerungskabel oder Mehrfachsteckdosenleisten verwenden. Wenn die Netzanschlussleitung zu kurz ist, den Kundendienst kontaktieren. Nur vom Hersteller zugelassene Adapter verwenden.\"} "}
-{"text":"\"cause\": {\"$\": \"Unsachgemäße Installation des Geräts kann zu Verbrennungen führen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Bei freistehenden Geräten darauf achten, dass die Geräte mit der Rückseite an einer Wand stehen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Beachten Sie diese Sicherheitshinweise, wenn Sie das Gerät verwenden.\"}, "}
-{"text":"\"cause\": {\"$\": \"Das nicht Beachten von Sicherheitshinweisen und Gebrauchshinweisen auf Verpackungen von Reinigerprodukten und Klarspülerprodukten kann zu schweren Gesundheitsschäden führen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Auf Verpackungen von Reinigerprodukten und Klarspülerprodukten die Sicherheitshinweise und Gebrauchshinweise beachten.\"} "}
-{"text":"{\"$\": \"Lösungsmittel im Spülraum des Geräts kann zu Explosionen führen.\"}, "}
-{"text":"{\"$\": \"Stark ätz-alkalische oder stark säurehaltige Reinigungsmittel in Verbindung mit Aluminiumteile im Spülraum des Geräts können zu Explosionen führen.\"} "}
-{"text":"{\"$\": \"Nie Lösungsmittel in den Spülraum des Geräts geben.\"}, "}
-{"text":"{\"$\": \"Nie stark ätz-alkalische oder stark säurehaltige Reinigungsmittel, insbesondere aus dem Gewerbebereich oder Industriebereich, in Verbindung mit Aluminiumteile (z. B. Fettfilter von Dunstabzugshauben oder Aluminium-Töpfe) verwenden, z. B. zur Maschinenpflege.\"} "}
-{"text":"{\"$\": \"Geöffnete Gerätetür kann zu Verletzungen führen.\"}, "}
-{"text":"{\"$\": \"Messer und Utensilien mit scharfen Spitzen können Verletzungen verursachen.\"} "}
-{"text":"{\"$\": \"Die Gerätetür nur zum Einräumen und Ausräumen von Geschirr öffnen, um Unfälle zu verhinden, z.ºB. durch Stolpern. Nicht auf die geöffnete Gerätetür sitzen oder stehen.\"}, "}
-{"text":"{\"$\": \"Messer und Utensilien mit scharfen Spitzen mit der spitzen Seite nach unten in den Besteckkorb, in die Messerablage oder in die Besteckschublade einräumen.\"} "}
-{"text":"\"cause\": {\"$\": \"Heißes Wasser kann beim Öffnen der Gerätetür während des Programmablaufs aus dem Gerät spritzen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Die Gerätetür während des Programmablaufs vorsichtig öffnen.\"} "}
-{"text":"\"cause\": {\"$\": \"Überladene Geschirrkörbe können zum Kippen des Geräts führen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Nie bei freistehenden Geräten die Geschirrkörbe überladen.\"} "}
-{"text":"{\"$\": \"Eindringende Feuchtigkeit kann einen Stromschlag verursachen.\"}, "}
-{"text":"{\"$\": \"Eine beschädigte Isolierung der Netzanschlussleitung ist gefährlich.\"} "}
-{"text":"{\"$\": \"Das Gerät nur in geschlossenen Räumen verwenden. Nie das Gerät großer Hitze und Nässe aussetzen. Keinen Dampfreiniger oder Hochdruckreiniger verwenden, um das Gerät zu reinigen.\"}, "}
-{"text":"{\"$\": \"Nie die Netzanschlussleitung mit heißen Geräteteilen oder Wärmequellen in Kontakt bringen. Nie die Netzanschlussleitung mit scharfen Spitzen oder Kanten in Kontakt bringen. Nie die Netzanschlussleitung knicken, quetschen oder verändern.\"} "}
-{"text":"\"cause\": {\"$\": \"Die Ausblasöffnung des Zeolith-Behälters wird heiß und kann zu Verbrennungen führen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Nie die Ausblasöffnung des Zeolith-Behälters berühren.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Beachten Sie die Sicherheitshinweise, wenn das Gerät beschädigt ist.\"}, "}
-{"text":"{\"$\": \"Ein beschädigtes Gerät oder eine beschädigte Netzanschlussleitung ist gefährlich.\"}, "}
-{"text":"{\"$\": \"Unsachgemäße Reparaturen sind gefährlich.\"} "}
-{"text":"{\"$\": \"Nie ein beschädigtes Gerät betreiben. Nie ein Gerät mit gerissener oder gebrochener Oberfläche betreiben. Nie an der Netzanschlussleitung ziehen, um das Gerät vom Stromnetz zu trennen. Immer am Netzstecker der Netzanschlussleitung ziehen. Wenn das Gerät oder die Netzanschlussleitung beschädigt ist, sofort den Netzstecker der Netzanschlussleitung ziehen oder die Sicherung im Sicherungskasten ausschalten und den Wasserhahn schließen. Den Kundendienst rufen. Nur dafür geschultes Fachpersonal darf Reparaturen am Gerät durchführen.\"}, "}
-{"text":"{\"$\": \"Nur dafür geschultes Fachpersonal darf Reparaturen am Gerät durchführen. Nur Original-Ersatzteile dürfen zur Reparatur des Geräts verwendet werden. Wenn die Netzanschlussleitung dieses Geräts beschädigt wird, muss sie durch eine besondere Anschlussleitung ersetzt werden, die beim Hersteller oder bei seinem Kundendienst erhältlich ist.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Beachten Sie die Sicherheitshinweise, wenn Kinder in Ihrem Haushalt leben.\"}, "}
-{"text":"{\"$\": \"Kinder können sich Verpackungsmaterial über den Kopf ziehen oder sich darin einwickeln und ersticken.\"}, "}
-{"text":"{\"$\": \"Kinder können Kleinteile einatmen oder verschlucken und dadurch ersticken.\"}, "}
-{"text":"{\"$\": \"Kinder können sich im Gerät einschließen und ersticken.\"} "}
-{"text":"{\"$\": \"Verpackungsmaterial von Kindern fernhalten. Kinder nicht mit Verpackungsmaterial spielen lassen.\"}, "}
-{"text":"{\"$\": \"Kleinteile von Kindern fernhalten. Kinder nicht mit Kleinteilen spielen lassen.\"}, "}
-{"text":"{\"$\": \"Falls vorhanden, die Kindersicherung nutzen. Nie Kinder mit dem Gerät spielen oder es bedienen lassen.\"} "}
-{"text":"\"cause\": {\"$\": \"Kinder können sich im Gerät einsperren und in Lebensgefahr geraten.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Bei ausgedienten Geräten den Netzstecker der Netzanschlussleitung ziehen, danach die Netzanschlussleitung durchtrennen und das Schloss der Gerätetür so weit zerstören, dass die Gerätetür nicht mehr schließt.\"} "}
-{"text":"\"cause\": {\"$\": \"Kinder können sich bei hocheingebauten Geräten zwischen Gerätetür und darunter liegenden Schranktüren quetschen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Beim Öffnen und Schließen der Gerätetür auf Kinder achten.\"} "}
-{"text":"\"cause\": {\"$\": \"Klarspüler und Reiniger können zu Verätzungen von Mund, Rachen und Augen führen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Kinder von Klarspülerprodukten und Reinigerprodukten fernhalten. Kinder vom geöffneten Gerät fernhalten. Das Wasser im Spülraum ist kein Trinkwasser. Es können sich noch Reste von Reiniger und Klarspüler darin befinden.\"} "}
-{"text":"\"cause\": {\"$\": \"Kinder können sich mit ihren kleinen Fingern in den Schlitzen der Tab-Auffangschale einklemmen und verletzen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Kinder vom geöffneten Gerät fernhalten.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Um Sachschäden an Ihrem Gerät, Zubehör oder Küchengegenständen zu vermeiden, beachten Sie diese Hinweise.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Beachten Sie die Hinweise, wenn Sie das Gerät installieren.\"}, "}
-{"text":"{\"$\": \"Unsachgemäße Installationen des Geräts können zu Beschädigungen führen.\"}, "}
-{"text":"{\"$\": \"Veränderte oder beschädigte Wasserschläuche können zu Sach- und Geräteschäden führen.\"}, "}
-{"text":"{\"$\": \"Ein zu geringer oder zu hoher Wasserdruck kann die Gerätefunktion beeinträchtigen.\"} "}
-{"text":"{\"$\": \"Wenn der Geschirrspüler unter oder über anderen Haushaltsgeräten eingebaut wird, Informationen zum Einbau in Kombination mit dem Geschirrspüler in der Montageanleitung der jeweiligen Haushaltsgeräte befolgen. Liegen keine Informationen vor oder enthält die Montageanleitung keine entsprechenden Hinweise, muss beim Hersteller dieser Haushaltsgeräte nachgefragt werden, um sicherzustellen, dass der Geschirrspüler über oder unter anderen Haushaltsgeräten eingebaut werden kann. Falls keine Informationen vom Hersteller zur Verfügung stehen, darf der Geschirrspüler nicht über oder unter diesen Haushaltsgeräten eingebaut werden. Um den sicheren Betrieb aller Haushaltsgeräte zu gewährleiste"}
-{"text":"n, weiterhin die Montageanleitung des Geschirrspülers beachten. Den Geschirrspüler nicht unter einem Kochfeld einbauen. Den Geschirrspüler nicht in der Nähe von Wärmequellen, z.B. Heizkörper, Wärmespeicher, Öfen oder anderen Geräten, die Wärme erzeugen, installieren.\"}, "}
-{"text":"{\"$\": \"Nie Wasserschläuche knicken, quetschen, verändern oder durchschneiden. Nur mitgelieferte Wasserschläuche oder Original-Ersatzschläuche verwenden. Nie benutzte Wasserschläuche wiederverwenden.\"}, "}
-{"text":"{\"$\": \"Sicherstellen, dass der Wasserdruck an der Wasserversorgungsanlage mindestens 50  kPa ( 0,5  bar) und maximal 1000  kPa ( 10  bar) beträgt. Wenn der Wasserdruck den angegebenen Höchstwert überschreitet, muss ein Druckminderungsventil zwischen Trinkwasseranschluss und Schlauchset des Geräts installiert werden.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Beachten Sie die Hinweise, wenn Sie das Gerät gebrauchen.\"}, "}
-{"text":"{\"$\": \"Austretender Wasserdampf kann Einbaumöbel beschädigen.\"}, "}
-{"text":"{\"$\": \"Spezialsalz kann den Spülbehälter durch Korrosion beschädigen.\"}, "}
-{"text":"{\"$\": \"Reiniger kann die Enthärtungsanlage beschädigen.\"}, "}
-{"text":"{\"$\": \"Ungeeignete Reinigungsmittel können das Gerät beschädigen.\"} "}
-{"text":"{\"$\": \"Das Gerät nach Programmende etwas abkühlen lassen vor dem Öffnen der Gerätetür.\"}, "}
-{"text":"{\"$\": \"Damit übergelaufenes Spezialsalz aus dem Spülbehälter gespült wird, das Spezialsalz unmittelbar vor dem Programmstart in den Vorratsbehälter für Spezialsalz füllen.\"}, "}
-{"text":"{\"$\": \"Nur mit Spezialsalz für Geschirrspüler den Vorratsbehälter der Enhärtungsanlage füllen.\"}, "}
-{"text":"{\"$\": \"Keinen Dampfreiniger verwenden. Um die Geräteoberfläche nicht zu zerkratzen, keine Schwämme mit rauer Oberfläche sowie keine scheuernden Reinigungsmittel verwenden. Um Korrosion zu vermeiden, bei Geschirrspülern mit Edelstahlfront keine Schwammtücher verwenden oder diese vor dem ersten Gebrauch mehrmals gründlich ausspülen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Lernen Sie die Komponenten und Funktionen Ihres Geräts kennen.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Lernen Sie die Bestandteile Ihres Geräts kennen.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Hier finden Sie eine Übersicht über die Bestandteile Ihres Geräts.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Über das Bedienfeld stellen Sie alle Funktionen Ihres Geräts ein und erhalten Informationen zum Betriebszustand.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Hier erhalten Sie einen Überblick über die mögliche Ausstattung Ihres Geräts und dessen Verwendung.\"}, "}
-{"text":"\"p\": {\"$\": \"Die Ausstattung ist abhängig von Ihrer Gerätevariante.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Um große Geschirrteile in den Geschirrkörben zu spülen, stellen Sie die Einschubhöhe des oberen Geschirrkorbs ein.\"}, "}
-{"text":"{\"$\": \"Den oberen Geschirrkorb herausziehen.\"}, "}
-{"text":"{\"$\": \"Um ein ruckartiges nach unten fallen des Geschirrkorbs zu vermeiden, den Geschirrkorb seitlich am oberen Rand festhalten.\"}, "}
-{"text":"\"$\": \"Die Hebel links und rechts auf der Geschirrkorbaußenseite nach innen drücken. Der Geschirrkorb kann sich leicht absenken.\", "}
-{"text":"\"shortdesc\": {\"$\": \"Um mehr Platz für höhere und breitere Besteckteile zu erhalten, können Sie die seitlichen Ablagen herunterklappen und die vorderen Stachelreihen umklappen.\"}, "}
-{"text":"{\"$\": \"Wenn Sie die Besteckschublade in die Originalstellung bringen wollen, klappen Sie die seitliche Ablage nach oben, bis diese hörbar einrastet.\"}, "}
-{"text":"{\"$\": \"Um die seitliche Ablage herunterzuklappen, den Hebel nach vorn drücken und die seitliche Ablage herunterklappen .\"}, "}
-{"text":"\"$\": \"Um die vorderen Stachelreihen umzuklappen, den Hebel nach vorne drücken und die Klappstacheln umklappen .\", "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn Sie die Klappstacheln nicht benötigen, klappen Sie diese um.\"}, "}
-{"text":"\"$\": \"Den Hebel nach vorn drücken und die Klappstacheln umklappen .\", "}
-{"text":"{\"$\": \"Den oberen Geschirrkorb herausziehen.\"}, "}
-{"text":"\"$\": \"Den Schieber auf ON oder OFF stellen.\", "}
-{"text":"\"shortdesc\": {\"$\": \"Kalk und Verunreinigungen aus dem Spülwasser können die Düsen verstopfen.\"}, "}
-{"text":"\"hint\": {\"$\": \"Betreiben Sie das Gerät immer mit montierter Extra Clean Zone.\"}, "}
-{"text":"{\"$\": \"Den oberen Geschirrkorb herausziehen.\"}, "}
-{"text":"\"$\": \"Die Lasche an der Extra Clean Zone nach oben ziehen und nach vorne abziehen .\", "}
-{"text":"\"shortdesc\": {\"$\": \"Stellen Sie die Geschirrkörbe auf die passende Höhe ein.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Zahlen und Fakten zu Ihrem Gerät finden Sie hier.\"}, "}
-{"text":"{\"$\": \"Dieses Produkt enthält Lichtquellen der Energie-Effizienzklasse G. Die Lichtquellen sind als Ersatzteil verfügbar und nur durch dafür geschultes Fachpersonal auszutauschen.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Dieses Produkt enthält Software-Komponenten, die von den Urheberrechtsinhabern als freie oder Open Source-Software lizenziert sind.\"}, "}
-{"text":"{\"$\": \"Der Quellcode wird auf Anforderung zur Verfügung gestellt.\"}, "}
-{"text":"{\"$\": \"Betreff: „OSSREQUEST“\"}, "}
-{"text":"{\"$\": \"Die Kosten für die Bearbeitung Ihrer Anforderung werden Ihnen in Rechnung gestellt. Dieses Angebot gilt drei Jahre ab dem Kaufdatum bzw. mindestens für den Zeitraum, in dem wir Support und Ersatzteile für das entsprechende Gerät anbieten.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Hiermit erklärt Robert Bosch Hausgeräte GmbH , dass sich das Gerät mit Home Connect Funktionalität in Übereinstimmung mit den grundlegenden Anforderungen und den übrigen einschlägigen Bestimmungen der Richtlinie 2014/53/EU befindet.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Hartes, kalkhaltiges Wasser hinterlässt Kalkrückstände auf dem Geschirr sowie dem Spülbehälter und kann Geräteteile verstopfen.\"}, "}
-{"text":"\"p\": {\"$\": \"Um gute Spülergebnisse zu erhalten, können Sie Wasser mit der Enthärtungsanlage und Spezialsalz enthärten. Um Schäden am Gerät zu vermeiden, muss Wasser mit einem Härtegrad oberhalb von 7   °dH enthärtet werden.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Hier finden Sie eine Übersicht über die einstellbaren Werte des Wasserhärtegrads.\"}, "}
-{"text":"\"p\": {\"$\": \"Den Wasserhärtegrad können Sie beim örtlichen Wasserwerk erfragen oder mit einem Wasserhärtetester bestimmen.\"}, "}
-{"text":"{\"$\": \"Stellen Sie Ihr Gerät auf den ermittelten Wasserhärtegrad ein. Enthärtungsanlage einstellen\"}, "}
-{"text":"{\"$\": \"Bei einem Wasserhärtegrad von 0 - 6   °dH können Sie auf Spezialsalz verzichten und die Enthärtungsanlage ausschalten. Enthärtungsanlage ausschalten\"}, "}
-{"text":"{\"$\": \"Stellen Sie Ihr Gerät auf den ermittelten Wasserhärtegrad ein. Enthärtungsanlage einstellen\"}, "}
-{"text":"{\"$\": \"Bei einem Wasserhärtegrad von 0 - 6   °dH können Sie auf Spezialsalz verzichten und die Enthärtungsanlage ausschalten. Enthärtungsanlage ausschalten\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Stellen Sie das Gerät auf den Wasserhärtegrad ein.\"}, "}
-{"text":"{\"$\": \"Den Wasserhärtegrad und den passenden Einstellwert ermitteln. Übersicht der Wasserhärteeinstellungen\"}, "}
-{"text":"{\"$\": \"drücken.\"}, "}
-{"text":"{\"$\": \"Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken.\"}, "}
-{"text":"{\"$\": \"so oft drücken, bis das Display \"Wasserhärte\" zeigt.\"}, "}
-{"text":"{\"$\": \"oder so oft drücken, bis der passende Wasserhärtegrad eingestellt ist. Werksseitig ist der Wert 13 - 16 eingestellt.\"}, "}
-{"text":"{\"$\": \"Um die Einstellungen zu speichern, ca. 3 Sekunden drücken.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Mit Spezialsalz können Sie Wasser enthärten.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn die Spezialsalznachfüllanzeige leuchtet, füllen Sie unmittelbar vor dem Programmstart Spezialsalz in den Vorratsbehälter für Spezialsalz. Die benötigte Spezialsalzmenge ist abhängig vom Wasserhärtegrad. Je höher der Wasserhärtegrad, desto höher die benötigte Spezialsalzzugabemenge.\"}, "}
-{"text":"{\"$\": \"Den Deckel vom Vorratsbehälter für Spezialsalz aufdrehen und entnehmen.\"}, "}
-{"text":"{\"$\": \"Bei der ersten Inbetriebnahme: Den Vorratsbehälter komplett mit Wasser füllen.\"}, "}
-{"text":"\"$\": \"Das Spezialsalz in den Vorratsbehälter füllen. Den Vorratsbehälter komplett mit Spezialsalz füllen. Das Wasser im Vorratsbehälter wird verdrängt und läuft ab.\", "}
-{"text":"{\"$\": \"Nur mit Spezialsalz für Geschirrspüler den Vorratsbehälter der Enhärtungsanlage füllen.\"}, "}
-{"text":"{\"$\": \"Damit übergelaufenes Spezialsalz aus dem Spülbehälter gespült wird, das Spezialsalz unmittelbar vor dem Programmstart in den Vorratsbehälter für Spezialsalz füllen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn Sie die Salznachfüllanzeige stört, z. B. wenn Sie kombinierte Reiniger mit Salzersatzstoffen verwenden, können Sie die Salznachfüllanzeige ausschalten.\"}, "}
-{"text":"{\"$\": \"Der Wasserhärtegrad beträgt maximal 21   °dH und Sie verwenden einen kombinierten Reiniger mit Salzersatzstoffen. Kombinierte Reiniger mit Salzersatzstoffen können Sie laut Herstellerangaben meist nur bis zu einem Wasserhärtegrad von 21   °dH ohne die Zugabe von Spezialsalz verwenden. Der Wasserhärtegrad beträgt 0 - 6   °dH . Sie können auf Spezialsalz verzichten.\"}, "}
-{"text":"{\"$\": \"Der Wasserhärtegrad beträgt maximal 21   °dH und Sie verwenden einen kombinierten Reiniger mit Salzersatzstoffen. Kombinierte Reiniger mit Salzersatzstoffen können Sie laut Herstellerangaben meist nur bis zu einem Wasserhärtegrad von 21   °dH ohne die Zugabe von Spezialsalz verwenden. Der Wasserhärtegrad beträgt 0 - 6   °dH . Sie können auf Spezialsalz verzichten.\"} "}
-{"text":"{\"$\": \"drücken.\"}, "}
-{"text":"{\"$\": \"Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken.\"}, "}
-{"text":"{\"$\": \"so oft drücken, bis das Display \"Wasserhärte\" zeigt.\"}, "}
-{"text":"{\"$\": \"oder so oft drücken, bis das Display 0 - 6 zeigt.\"}, "}
-{"text":"{\"$\": \"Um die Einstellungen zu speichern, ca. 3 Sekunden drücken.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Um die störungsfreie Funktion der Enthärtungsanlage zu erhalten, führt das Gerät in regelmäßigen Abständen ein Regenerieren der Enthärtungsanlage durch.\"}, "}
-{"text":"\"p\": {\"$\": \"Das Regenerieren der Enthärtungsanlage erfolgt in allen Programmen vor Ende des Hauptspülgangs. Es erhöhen sich die Laufzeit und die Verbrauchswerte, z. B. Wasser und Strom.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Hier finden Sie eine Übersicht der maximal zusätzlichen Laufzeit und Verbrauchswerte beim Regenerieren der Enthärtungsanlage.\"}, "}
-{"text":"\"p\": {\"$\": \"Die angegebenen Verbrauchswerte sind Labormesswerte nach aktuell gültigem Standard und anhand des Programms Eco 50° sowie dem werkseitig eingestellten Wert des Wasserhärtegrads 13 - 16 °dH ermittelt.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Geschirr und Gläser können Sie mit der Klarspüleranlage sowie Klarspüler fleckenlos und klar spülen.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Um optimale Trocknungsergebnisse zu erhalten, verwenden Sie Klarspüler.\"}, "}
-{"text":"\"p\": {\"$\": \"Verwenden Sie nur Klarspüler für Haushaltsgeschirrspüler.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn das Display \"Bitte Klarspüler nachfüllen. \" zeigt, füllen Sie Klarspüler nach. Verwenden Sie nur Klarspüler für Haushaltsgeschirrspüler.\"}, "}
-{"text":"\"$\": \"Die Lasche am Deckel des Vorratsbehälters für Klarspüler drücken und anheben .\", "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn Schlieren oder Wasserflecken auf dem Geschirr zurückbleiben, ändern Sie die Klarspülerzugabemenge.\"}, "}
-{"text":"{\"$\": \"drücken.\"}, "}
-{"text":"{\"$\": \"Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken.\"}, "}
-{"text":"{\"$\": \"so oft drücken, bis das Display \"Klarspülerzugabe\" zeigt.\"}, "}
-{"text":"{\"$\": \"oder so oft drücken, bis die passende Klarspülerzugabemenge eingestellt ist. Eine niedrige Stufe gibt dem Spülgang weniger Klarspüler zu und reduziert Schlieren auf dem Geschirr. Eine höhere Stufe gibt dem Spülgang mehr Klarspüler zu, reduziert Wasserflecken und erzeugt ein höheres Trocknungsergebnis.\"}, "}
-{"text":"{\"$\": \"Um die Einstellungen zu speichern, ca. 3 Sekunden drücken.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn Sie die Klarspülernachfüllanzeige stört, z.B. wenn Sie kombinierte Reiniger mit Klarspülerkomponente verwenden, können Sie die Klarspüleranlage ausschalten.\"}, "}
-{"text":"\"hint\": {\"$\": \"Die Funktion des Klarspülers ist bei kombinierten Reinigern begrenzt. Wenn Sie Klarspüler verwenden, erreichen Sie meist bessere Ergebnisse.\"}, "}
-{"text":"{\"$\": \"drücken.\"}, "}
-{"text":"{\"$\": \"Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken.\"}, "}
-{"text":"{\"$\": \"so oft drücken, bis das Display \"Klarspülerzugabe\" zeigt.\"}, "}
-{"text":"{\"$\": \"oder so oft drücken, bis das Display 0 zeigt.\"}, "}
-{"text":"{\"$\": \"Um die Einstellungen zu speichern, ca. 3 Sekunden drücken.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Hier finden Sie eine Übersicht über die einstellbaren Programme. Je nach Gerätekonfiguration sind verschiedene Programme verfügbar, welche Sie auf der Bedienblende Ihres Geräts finden.\"}, "}
-{"text":"{\"$\": \"Abhängig vom gewählten Programm kann die Laufzeit variieren. Die Laufzeit hängt von der Wassertemperatur, der Geschirrmenge, dem Verschmutzungsgrad und der gewählten Zusatzfunktion ab. Bei ausgeschalteter Klarspüleranlage oder bei Klarspülermangel verändert sich die Laufzeit.\"}, "}
-{"text":"{\"$\": \"Die Verbrauchswerte finden Sie in der Kurzanleitung. Die Verbrauchswerte beziehen sich auf Normalbedingungen und den Wasserhärtewert 13 - 16   °dH . Unterschiedliche Einflussfaktoren können zu Abweichungen führen, z. B. Wassertemperatur oder Leitungsdruck.\"} "}
-{"text":"\"hint\": {\"$\": \"Die vergleichsweise längere Laufzeit im Eco 50° Programm ergibt sich durch längere Einweichzeiten und Trocknungszeiten. Dies ermöglicht ein Optimum an Verbrauchswerten.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Testinstitute erhalten die Hinweise für Vergleichsprüfungen, zum Beispiel nach EN60436.\"}, "}
-{"text":"{\"$\": \"Hierbei handelt es sich um die Bedingungen zur Durchführung der Tests, jedoch nicht um die Ergebnisse oder Verbrauchswerte.\"}, "}
-{"text":"{\"$\": \"Benötigt werden die Erzeugnisnummer (E-Nr.) und die Fertigungsnummer (FD), die sich auf dem Typenschild an der Gerätetür befinden.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Sie können eine Kombination aus Programm und Zusatzfunktion auf der Taste speichern.\"}, "}
-{"text":"{\"$\": \"Speichern Sie das Programm über die Home Connect App oder am Gerät.\"}, "}
-{"text":"{\"$\": \"Werkseitig ist das Programm Vorspülen auf dieser Taste hinterlegt. Vorspülen ist für alle Geschirrarten geeignet. Durch kaltes Abspülen wird das Geschirr zwischengereinigt.\"}, "}
-{"text":"{\"$\": \"Bei heruntergeladenen Programmen und im Auslieferungszustand wird der Programmname in der App angezeigt. Das Display zeigt abwechselnd \"App-Program\" und die Restlaufzeit.\"} "}
-{"text":"\"hint\": {\"$\": \"Über die Home Connect App können Sie zusätzliche Programme herunterladen und auf der Taste speichern.\"}, "}
-{"text":"{\"$\": \"drücken.\"}, "}
-{"text":"{\"$\": \"Die passende Programmtaste drücken. Programme\"}, "}
-{"text":"{\"$\": \"Auf die Taste der passenden Zusatzfunktion drücken. Zusatzfunktionen\"}, "}
-{"text":"{\"$\": \"3 Sekunden drücken. Das gewählte Programm und die Zusatzfunktion blinken. blinkt.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Hier finden Sie eine Übersicht über die einstellbaren Zusatzfunktionen. Je nach Gerätekonfiguration sind verschiedene Zusatzfunktionen verfügbar, welche Sie auf der Bedienblende Ihres Geräts finden.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Hier erfahren Sie alles über die Funktionen und die Bedienung Ihres Geräts.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Einen Überblick über Tätigkeiten eines Standardbedienungsablaufs erhalten Sie hier.\"}, "}
-{"text":"\"precondition\": {\"$\": \"Die Inbetriebnahme ist abgeschlossen. Erste Schritte\"}, "}
-{"text":"{\"$\": \"Das Geschirr einräumen. \"}, "}
-{"text":"{\"$\": \"Den Reiniger einfüllen.\"}, "}
-{"text":"{\"$\": \"Das Gerät einschalten.\"}, "}
-{"text":"{\"$\": \"Ein Programm einstellen.\"}, "}
-{"text":"{\"$\": \"Bei Bedarf eine Zusatzfunktion einstellen.\"}, "}
-{"text":"{\"$\": \"Das Programm starten.\"}, "}
-{"text":"{\"$\": \"Nach dem Programmende das Geschirr ausräumen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Hier erfahren Sie das Wesentliche zur Bedienung Ihres Geräts.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Die Gerätetür öffnen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"drücken. Das Programm Eco 50° ist voreingestellt. Das Eco 50° Programm ist ein besonders umweltschonendes Programm und hervorragend geeignet für normal angeschmutztes Geschirr. Es ist das effizienteste Programm in der Kombination Energieverbrauch und Wasserverbrauch für diesen Typ von Geschirr und belegt die Konformität mit der EU Ökodesign Verordnung. Wenn Sie das Gerät 10 Minuten nicht bedienen, schaltet sich das Gerät automatisch aus.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Um den Spülgang auf die Verschmutzung des Geschirrs anzupassen, stellen Sie ein passendes Programm ein.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Die passende Programmtaste drücken. Programme\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Um das gewählte Spülprogramm zu ergänzen, können Sie Zusatzfunktionen einstellen.\"}, "}
-{"text":"\"hint\": {\"$\": \"Die zuschaltbaren Zusatzfunktionen hängen vom gewählten Programm ab. Programme\"}, "}
-{"text":"\"instruction\": {\"$\": \"Auf die Taste der passenden Zusatzfunktion drücken. Zusatzfunktionen Die Zusatzfunktion ist eingestellt und die Zusatzfunktionstaste blinkt.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Sie können den Programmstart bis zu 24 Stunden verschieben.\"}, "}
-{"text":"\"hint\": {\"$\": \"Die Zeitvorwahl deaktivieren Sie, indem Sie ca. 4 Sekunden drücken.\"}, "}
-{"text":"{\"$\": \"drücken.\"}, "}
-{"text":"{\"$\": \"oder so oft drücken, bis das Display die passende Zeit zeigt. Je nach Einstellung der Zeitanzeige wird das Programmende im Display \"Fertig in\" (zum Beispiel 3h 25min) \"Fertig um\" (zum Beispiel 15:20 Uhr) angezeigt. Die Einstellung können Sie in den Grundeinstellungen ändern.\"}, "}
-{"text":"{\"$\": \"Um die Zeitvorwahl zu aktivieren, drücken.\"} "}
-{"text":"\"instruction\": {\"$\": \"drücken. Das Programm ist beendet, wenn das Display \"Fertig\" anzeigt.\"}, "}
-{"text":"{\"$\": \"drücken. Das Programm wird gespeichert und das Gerät schaltet sich aus.\"}, "}
-{"text":"{\"$\": \"Um das Programm fortzusetzen, drücken.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Um ein Programm vorzeitig zu beenden oder um ein gestartetes Programm zu wechseln, müssen Sie dieses abbrechen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"ca. 4 Sekunden drücken.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Sie können sich im Display Informationen zu Programmen und Zusatzfunktionen anzeigen lassen.\"}, "}
-{"text":"{\"$\": \"drücken.\"}, "}
-{"text":"{\"$\": \"Die Programmtaste oder Zusatzfunktion drücken.\"} "}
-{"text":"{\"$\": \"Die Hinweise zum sicheren Gebrauch beachten.\"}, "}
-{"text":"{\"$\": \"drücken.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Sie können Ihr Gerät auf Ihre Bedürfnisse einstellen.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Die Grundeinstellungen sind von der Ausstattung Ihres Geräts abhängig.\"}, "}
-{"text":"{\"$\": \"drücken.\"}, "}
-{"text":"{\"$\": \"Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken.\"}, "}
-{"text":"{\"$\": \"so oft drücken, bis das Display die gewünschte Einstellung zeigt.\"}, "}
-{"text":"{\"$\": \"oder so oft drücken, bis das Display den passenden Wert zeigt. Sie können mehrere Einstellungen ändern.\"}, "}
-{"text":"{\"$\": \"Um die Einstellungen zu speichern, ca. 3 Sekunden drücken.\"} "}
-{"text":"{\"$\": \"Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken.\"}, "}
-{"text":"{\"$\": \"so oft drücken, bis das Display \"Uhrzeiteinstellung\" zeigt.\"}, "}
-{"text":"{\"$\": \"oder so oft drücken, bis das Display die gewünschte Uhrzeit zeigt. Durch längeres Drücken von und ändern sich die Einstellwerte in 10-Minuten-Schritten.\"}, "}
-{"text":"{\"$\": \"Um die Einstellungen zu speichern, ca. 3 Sekunden drücken.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Dieses Gerät ist netzwerkfähig. Verbinden Sie Ihr Gerät mit einem mobilen Endgerät, um Funktionen über die Home Connect App zu bedienen.\"}, "}
-{"text":"{\"$\": \"Die Home Connect Dienste sind nicht in jedem Land verfügbar. Die Verfügbarkeit der Home Connect Funktion ist abhängig von der Verfügbarkeit der Home Connect Dienste in Ihrem Land. Informationen dazu finden Sie auf: .\"}, "}
-{"text":"{\"$\": \"Um Home Connect nutzen zu können, richten Sie zunächst die Verbindung zum WLAN-Heimnetzwerk (Wi-Fi ) und zur Home Connect App ein.\"}, "}
-{"text":"{\"$\": \"Die Home Connect App leitet Sie durch den gesamten Anmeldeprozess. Folgen Sie den Anweisungen in der Home Connect App, um die Einstellungen vorzunehmen.\"} "}
-{"text":"{\"$\": \"Beachten Sie die mitgelieferten Unterlagen von Home Connect .\"}, "}
-{"text":"{\"$\": \"Beachten Sie auch die Hinweise in der Home Connect App.\"}, "}
-{"text":"{\"$\": \"Beachten Sie die Sicherheitshinweise dieser Gebrauchsanleitung und stellen Sie sicher, dass diese auch dann eingehalten werden, wenn Sie das Gerät über die Home Connect App bedienen. Sicherheit\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Verbinden Sie Ihr Gerät schnell und unkompliziert mit einem mobilen Endgerät.\"}, "}
-{"text":"\"$\": \"Home Connect App auf dem mobilen Endgerät installieren.\", "}
-{"text":"\"$\": \"Mit Hilfe der Home Connect App den QR-Code scannen.\", "}
-{"text":"\"shortdesc\": {\"$\": \"Passen Sie Home Connect Ihren Bedürfnissen an.\"}, "}
-{"text":"\"p\": {\"$\": \"Sie finden die Home Connect Einstellungen in den Grundeinstellungen Ihres Geräts. Welche Einstellungen das Display zeigt, hängt davon ab, ob Home Connect eingerichtet ist und ob das Gerät mit dem Heimnetzwerk verbunden ist.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Über die Home Connect App können Sie mit Ihrem mobilen Endgerät das Gerät starten.\"}, "}
-{"text":"\"hint\": {\"$\": \"Wenn Sie in den Grundeinstellungen dieser Funktion \"Dauerhaft\" einstellen, ist die Funktion dauerhaft aktiviert und Sie können ihr Gerät jederzeit mit einem mobilen Endgerät starten.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn Sie in den Grundeinstellungen dieser Funktion \"Manuell\" eingestellt haben, aktivieren Sie die Funktion an Ihrem Gerät.\"}, "}
-{"text":"\"hint\": {\"$\": \"Um die Funktion zu deaktivieren, drücken.\"}, "}
-{"text":"{\"$\": \"Das Gerät ist mit Ihrem WLAN-Heimnetzwerk verbunden.\"}, "}
-{"text":"{\"$\": \"Das Gerät ist mit der Home Connect App verbunden.\"}, "}
-{"text":"{\"$\": \"In den Grundeinstellungen dieser Funktion ist \"Manuell\" eingestellt.\"}, "}
-{"text":"{\"$\": \"Ein Programm ist gewählt.\"} "}
-{"text":"\"instruction\": {\"$\": \"drücken. Wenn Sie die Gerätetür öffnen, ist die Funktion automatisch deaktiviert.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Der Kundendienst kann über die Ferndiagnose auf Ihr Gerät zugreifen, wenn Sie sich mit dem entsprechenden Wunsch an den Kundendienst wenden, Ihr Gerät mit dem Home Connect Server verbunden ist und die Ferndiagnose in dem Land, in dem Sie das Gerät verwenden, verfügbar ist.\"}, "}
-{"text":"\"hint\": {\"$\": \"Weitere Informationen sowie Hinweise zur Verfügbarkeit der Ferndiagnose in Ihrem Land finden Sie im Service/Support-Bereich der lokalen Webseite:\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Mit dieser Funktion können Sie die Software Ihres Geräts aktualisieren, z. B. für Optimierungen, Fehlerbehebungen oder sicherheitsrelevante Updates.\"}, "}
-{"text":"\"p\": {\"$\": \"Die Home Connect App informiert Sie über verfügbare Software Updates.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Beachten Sie die Hinweise zum Datenschutz.\"}, "}
-{"text":"\"p\": {\"$\": \"Diese Erstregistrierung bereitet die Nutzung der Home Connect Funktionalitäten vor und ist erst zu dem Zeitpunkt erforderlich, zu dem Sie Home Connect Funktionalitäten erstmals nutzen möchten.\"}, "}
-{"text":"\"hint\": {\"$\": \"Beachten Sie, dass die Home Connect Funktionalitäten nur in Verbindung mit der Home Connect App nutzbar sind. Informationen zum Datenschutz können in der Home Connect App abgerufen werden.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Erfahren Sie, welche Reiniger für Ihr Gerät geeignet sind.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Verwenden Sie nur Reiniger, der für Geschirrspüler geeignet ist. Geeignet sind sowohl Solo-Reiniger als auch kombinierte Reiniger.\"}, "}
-{"text":"{\"$\": \"Um optimale Spülergebnisse und Trockungsergebnisse zu erzielen, verwenden Sie Solo-Reiniger in Verbindung mit getrennter Anwendung von Spezialsalz und Klarspüler .\"}, "}
-{"text":"{\"$\": \"Moderne, leistungsfähige Reiniger verwenden überwiegend eine niederalkalische Rezeptur mit Enzymen. Enzyme bauen Stärke ab und lösen Eiweiß. Zur Entfernung farbiger Flecken werden meist Bleichmittel auf Sauerstoffbasis verwendet, z. B. für Tee oder Ketchup.\"} "}
-{"text":"{\"$\": \"Beachten Sie bei jedem Reiniger die Herstellerhinweise.\"}, "}
-{"text":"{\"$\": \"Geeignete Reinigungsmittel können online über unsere Internetseite oder über den Kundendienst bezogen werden.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Solo-Reiniger sind Produkte, die neben dem Reiniger keine weiteren Komponenten enthalten, z. B. Pulverreiniger oder Flüssigreiniger.\"}, "}
-{"text":"{\"$\": \"Mit Pulverreiniger und Flüssigreiniger kann die Dosierung an den Verschmutzungsgrad des Geschirrs individuell angepasst werden.\"}, "}
-{"text":"{\"$\": \"Um ein besseres Spülergebnis und Trocknungsergebnis zu erhalten und um Geräteschäden zu vermeiden, verwenden Sie zusätzlich Spezialsalz und Klarspüler .\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Neben herkömmlichen Solo-Reinigern werden eine Reihe von Produkten mit zusätzlichen Funktionen angeboten. Diese Produkte enthalten neben dem Reiniger auch Klarspüler und Salzersatzstoffe (3in1) und je nach Kombination (4in1, 5in1, ...) zusätzliche Komponenten, wie z. B. Glasschutz oder Edelstahlglanz.\"}, "}
-{"text":"\"p\": {\"$\": \"Kombinierte Reiniger funktionieren laut Herstellerangabe in der Regel nur bis zu einem Wasserhärtegrad von 21   °dH . Über einem Wasserhärtegrad von 21   °dH müssen Sie Spezialsalz und Klarspüler zugeben. Für beste Spülergebnisse und Trocknungsergebnisse empfehlen wir ab einem Wasserhärtegrad von 14   °dH die Verwendung von Spezialsalz und Klarspüler. Wenn Sie kombinierte Reiniger verwenden, passt sich das Spülprogramm automatisch an, um das bestmögliche Spülergebnis und Trocknungsergebnis zu erhalten.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Verwenden Sie keine Reiniger, die Geräteschäden verursachen können oder die Gesundheit gefährden.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Beachten Sie die Hinweise zu Reinigern im täglichen Gebrauch.\"}, "}
-{"text":"{\"$\": \"Um die Reinigerkammer zu öffnen, den Verschlussriegel drücken.\"}, "}
-{"text":"{\"$\": \"Reiniger in die trockene Reinigerkammer füllen. Wenn Sie Tabs verwenden, genügt eine Tablette. Tabs quer einlegen. Wenn Sie Pulverreiniger oder Flüssigreiniger verwenden, beachten Sie die Dosierungshinweise des Herstellers und die Dosierungseinteilung der Reinigerkammer. Bei normaler Verschmutzung genügen 20 ml – 25 ml Reiniger. Bei wenig verschmutztem Geschirr genügt eine etwas geringere als die angegebene Reinigermenge.\"}, "}
-{"text":"{\"$\": \"Den Deckel der Reinigerkammer schließen. Der Deckel rastet hörbar ein. Die Reinigerkammer öffnet sich programmabhängig automatisch zum optimalen Zeitpunkt während des Programmablaufs. Pulverreiniger oder Flüssigreiniger verteilen sich im Spülbehälter und werden aufgelöst. Tabs fallen in die Tab-Auffangschale und lösen sich dosiert auf. Legen Sie keine Gegenstände in die Tab-Auffangschale, damit sich das Tab gleichmäßig auflösen kann.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Spülen Sie nur Geschirr, das für die Spülmaschine geeignet ist.\"}, "}
-{"text":"\"hint\": {\"$\": \"Aufglasdekore, Aluminiumteile und Silberteile können beim Spülen verblassen oder sich verfärben. Empfindliche Glassorten können nach einigen Spülgängen trüb werden.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Vermeiden Sie Glasschäden und Geschirrschäden.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Räumen Sie das Geschirr richtig ein, um das Spülergebnis zu optimieren und Schäden an Geschirr sowie dem Gerät zu vermeiden.\"}, "}
-{"text":"{\"$\": \"Wenn Sie das Gerät nutzen, sparen Sie Energie und Wasser im Vergleich zur Handwäsche.\"}, "}
-{"text":"{\"$\": \"Auf unserer Internetseite finden Sie kostenlose Beispiele, wie Sie Ihr Gerät effizient einräumen können.\"}, "}
-{"text":"{\"$\": \"Um Energie und Wasser zu sparen, beladen Sie das Gerät bis zur angegeben Anzahl der Maßgedecke. Technische Daten\"}, "}
-{"text":"{\"$\": \"Um bessere Spülergebnisse und Trocknungsergebnisse zu erhalten, stellen Sie Teile mit Wölbungen und Vertiefungen schräg, damit Wasser ablaufen kann.\"} "}
-{"text":"{\"$\": \"Grobe Speisereste vom Geschirr entfernen. Um Ressourcen zu sparen, das Geschirr nicht unter fließendem Wasser vorspülen.\"}, "}
-{"text":"{\"$\": \"Das Geschirr einräumen und dabei Folgendes beachten: Räumen Sie stark verschmutztes Geschirr in den unteren Geschirrkorb ein, z. B. Töpfe. Aufgrund des stärkeren Sprühstrahls erhalten Sie ein besseres Spülergebnis. Um Geschirrschäden zu vermeiden, räumen Sie Geschirr mit einem sicheren und kippfesten Stand ein. Um Verletzungen zu vermeiden, räumen Sie Besteck mit der spitzen und scharfen Seite nach unten ein. Stellen Sie Gefäße mit Öffnungen nach unten, damit sich kein Wasser im Gefäß ansammelt. Blockieren Sie nicht die Sprüharme, damit sich diese drehen können. Legen Sie keine Kleinteile in die Tab-Auffangschale und versperren Sie diese nicht mit Geschirr, um den Deckel der Reini"}
-{"text":"gerkammer nicht zu blockieren.\"} "}
-{"text":"{\"$\": \"Um herabfallende Wassertropfen auf dem Geschirr zu vermeiden, das Geschirr von unten nach oben ausräumen.\"}, "}
-{"text":"{\"$\": \"Den Spülbehälter und das Zubehör auf Verschmutzungen prüfen und gegebenenfalls reinigen. Reinigen und Pflegen\"} "}
-{"text":"\"cause\": {\"$\": \"Heißes Geschirr kann Verbrennungen auf der Haut verursachen. Heißes Geschirr ist stoßempfindlich, kann zerbrechen und zu Verletzungen führen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Geschirr nach Programmende noch etwas abkühlen lassen und dann erst ausräumen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Damit Ihr Gerät lange funktionsfähig bleibt, reinigen und pflegen Sie es sorgfältig.\"}, "}
-{"text":"{\"$\": \"Grobe Verunreinigungen im Innenraum mit einem feuchten Tuch entfernen.\"}, "}
-{"text":"{\"$\": \"Reiniger in die Reinigerkammer füllen.\"}, "}
-{"text":"{\"$\": \"Programm mit höchster Temperatur wählen. Programme\"}, "}
-{"text":"{\"$\": \"Das Programm ohne Geschirr starten.\"} "}
-{"text":"\"cause\": {\"$\": \"Die Verwendung von chlorhaltigen Reinigern kann zu Gesundheitsschäden führen.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Nie chlorhaltige Reiniger verwenden.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Verwenden Sie nur geeignete Reinigungsmittel für die Gerätereinigung.\"}, "}
-{"text":"\"p\": {\"$\": \"Sicherer Gebrauch\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Beachten Sie die Tipps zur Gerätepflege, um die Funktion Ihres Geräts dauerhaft zu erhalten.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Ablagerungen können zu Störungen an Ihrem Gerät führen, z. B. durch Speiserückstände und Kalk. Um Störungen zu vermeiden und die Geruchsbildung zu reduzieren, reinigen Sie das Gerät in regelmäßigen Abständen.\"}, "}
-{"text":"{\"$\": \"Maschinenpflege ist in Verbindung mit Maschinenpflegemitteln und Maschinenreinigern das geeignete Programm zur Pflege Ihres Geräts.\"}, "}
-{"text":"{\"$\": \"Maschinenpflege ist ein Programm, das in einem Spülgang unterschiedliche Ablagerungen entfernt. Die Reinigung erfolgt in zwei Phasen:\"}, "}
-{"text":"{\"$\": \"Für die optimale Reinigungsleistung dosiert das Programm die Reiniger getrennt voneinander in der entsprechenden Reinigungsphase. Hierfür ist die richtige Platzierung der Reiniger erforderlich.\"}, "}
-{"text":"{\"$\": \"Wenn die Anzeige für Maschinenpflege in der Bedienblende leuchtet oder das Display dazu rät, führen Sie die Maschinenpflege ohne Geschirr durch. Nachdem Sie die Maschinenpflege durchgeführt haben, erlischt die Anzeige. Wenn Ihr Gerät keine Erinnerungsfunktion besitzt, empfehlen wir, die Maschinenpflege alle 2 Monate durchzuführen.\"} "}
-{"text":"\"hint\": {\"$\": \"Unseren getesteten und freigegebenen Maschinenpfleger und Maschinenreiniger für Geschirrspülmaschinen erhalten Sie im Internet unter oder über den Kundendienst.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn die Anzeige für Maschinenpflege in der Bedienblende leuchtet oder das Display dazu rät, führen Sie das Programm Maschinenpflege durch.\"}, "}
-{"text":"{\"$\": \"Führen Sie das Programm Maschinenpflege ohne eingeräumtes Geschirr durch.\"}, "}
-{"text":"{\"$\": \"Verwenden Sie nur speziell für Geschirrspüler geeignete Maschinenpflegemittel und Maschinenreiniger.\"}, "}
-{"text":"{\"$\": \"Achten Sie darauf, dass sich keine Aluminiumteile, z. B. Fettfilter von Dunstabzugshauben oder Aluminium-Töpfe, im Spülraum des Geräts befinden.\"}, "}
-{"text":"{\"$\": \"Wenn Sie die Maschinenpflege nach 3 Spülgängen nicht durchgeführt haben, erlischt die Anzeige für Maschinenpflege automatisch.\"}, "}
-{"text":"{\"$\": \"Um die optimale Reinigungsleistung zu erhalten, achten Sie auf die korrekte Platzierung der Reiniger.\"}, "}
-{"text":"{\"$\": \"Beachten Sie die Sicherheitshinweise auf den Verpackungen von Maschinenpflegemitteln und Maschinenreinigern.\"}, "}
-{"text":"{\"$\": \"Schalten Sie die Funktion Extra Clean Zone zu.\"} "}
-{"text":"{\"$\": \"Grobe Verunreinigungen im Innenraum mit einem feuchten Tuch entfernen.\"}, "}
-{"text":"{\"$\": \"Die Siebe reinigen.\"}, "}
-{"text":"{\"$\": \"Das Maschinenpflegemittel im Innenraum des Geräts platzieren. Verwenden Sie nur speziell für Geschirrspüler geeignete Maschinenpflegemittel.\"}, "}
-{"text":"{\"$\": \"Den Maschinenreiniger in die Reinigerkammer füllen bis diese vollständig gefüllt ist. Keinen Maschinenreiniger zusätzlich in den Innenraum des Geräts geben.\"}, "}
-{"text":"{\"$\": \"drücken.\"}, "}
-{"text":"{\"$\": \"drücken.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Das Siebsystem filtert grobe Verunreinigungen aus dem Spülkreislauf.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Verunreinigungen aus dem Spülwasser können die Siebe verstopfen.\"}, "}
-{"text":"{\"$\": \"Nach jedem Spülen die Siebe auf Rückstände kontrollieren.\"}, "}
-{"text":"{\"$\": \"Das Grobsieb gegen den Uhrzeigersinn drehen und das Siebsystem herausnehmen . Darauf achten, dass keine Fremdkörper in den Pumpentopf fallen.\"}, "}
-{"text":"{\"$\": \"Das Mikrosieb nach unten abziehen.\"}, "}
-{"text":"{\"$\": \"Die Rastnasen zusammendrücken und das Grobsieb nach oben herausnehmen .\"}, "}
-{"text":"{\"$\": \"Unter fließendem Wasser die Siebelemente reinigen. Den Schmutzrand zwischen Grobsieb und Feinsieb sorgfältig reinigen.\"}, "}
-{"text":"{\"$\": \"Das Siebsystem zusammenbauen. Beachten Sie, dass am Grobsieb die Rastnasen eingerastet sind.\"}, "}
-{"text":"{\"$\": \"Das Siebsystem in das Gerät einsetzen und das Grobsieb im Uhrzeigersinn drehen. Beachten Sie, dass sich die Pfeilmarkierungen gegenüberstehen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Kalk und Verunreinigungen aus dem Spülwasser können die Düsen und Lagerungen der Sprüharme blockieren. Reinigen Sie die Sprüharme regelmäßig.\"}, "}
-{"text":"{\"$\": \"Den oberen Sprüharm abschrauben und nach unten abziehen .\"}, "}
-{"text":"{\"$\": \"Den unteren Sprüharm nach oben abziehen.\"}, "}
-{"text":"{\"$\": \"Unter fließendem Wasser die Austrittsdüsen der Sprüharme auf Verstopfungen prüfen und gegebenenfalls Fremdkörper entfernen.\"}, "}
-{"text":"{\"$\": \"Den unteren Sprüharm einsetzen. Der Sprüharm rastet hörbar ein.\"}, "}
-{"text":"{\"$\": \"Den oberen Sprüharm einsetzen und festschrauben.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Erfahren Sie hier, wie Sie bei Störungen an Ihrem Gerät vorgehen können\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Kleinere Störungen an Ihrem Gerät können Sie selbst beheben. Nutzen Sie die Informationen zur Störungsbehebung, bevor Sie den Kundendienst kontaktieren. So vermeiden Sie unnötige Kosten.\"}, "}
-{"text":"\"cause\": {\"$\": \"Unsachgemäße Reparaturen sind gefährlich.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Nur dafür geschultes Fachpersonal darf Reparaturen am Gerät durchführen. Nur Original-Ersatzteile dürfen zur Reparatur des Geräts verwendet werden. Wenn die Netzanschlussleitung dieses Geräts beschädigt wird, muss sie durch eine besondere Anschlussleitung ersetzt werden, die beim Hersteller oder bei seinem Kundendienst erhältlich ist.\"} "}
-{"text":"\"instruction\": {\"$\": \"Aktivieren Sie die automatische Türöffnung. Übersicht der Grundeinstellungen\"}, "}
-{"text":"\"instruction\": {\"$\": \"Stellen Sie die Gerätetür mit Hilfe der Montageanleitung richtig ein. Der Türspalt muss mindestens 70 mm bis 100 mm betragen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Reinigen Sie die Gerätetür und die Türdichtung mit einem feuchten Tuch und etwas Spülmittel.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Verwenden Sie zum Einstellen des Türspalts die Schrauben in der Größe 4X30. Die Schrauben sind im Lieferumfang enthalten. Wenn Sie zu lange Schrauben verwenden, kann das die Funktion der automatischen Türöffnung deaktivieren.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Rufen Sie den Kundendienst.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Stellen Sie die Gerätetür mit Hilfe der Montageanleitung richtig ein. Der Türspalt muss mindestens 70 mm bis 100 mm betragen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Verwenden Sie zum Einstellen des Türspalts die Schrauben in der Größe 4X30. Die Schrauben sind im Lieferumfang enthalten. Wenn Sie zu lange Schrauben verwenden, kann das die Funktion der automatischen Türöffnung deaktivieren.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Räumen Sie die Geschirrteile so in das Gerät, dass die Ansaugöffnung des Zeolith-Behälters frei ist.\"}, "}
-{"text":"{\"$\": \"Entkalken Sie das Gerät.\"}, "}
-{"text":"{\"$\": \"Betreiben Sie das Gerät mit der .\"} "}
-{"text":"{\"$\": \"Schließen Sie den Wasserhahn.\"}, "}
-{"text":"{\"$\": \"Rufen Sie den Kundendienst .\"} "}
-{"text":"{\"$\": \"Schließen Sie den Wasserhahn.\"}, "}
-{"text":"{\"$\": \"Rufen Sie den Kundendienst .\"} "}
-{"text":"{\"$\": \"Schließen Sie den Wasserhahn.\"}, "}
-{"text":"{\"$\": \"Rufen Sie den Kundendienst .\"} "}
-{"text":"\"instruction\": {\"$\": \"Verlegen Sie den Zulaufschlauch knickfrei.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Öffnen Sie den Wasserhahn.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Öffnen Sie den Wasserhahn. Die Durchflussmenge muss bei geöffnetem Wasserzulauf mindestens 10 l/min betragen.\"}, "}
-{"text":"{\"$\": \"Schalten Sie das Gerät aus.\"}, "}
-{"text":"{\"$\": \"Ziehen Sie den Netzstecker.\"}, "}
-{"text":"{\"$\": \"Drehen Sie den Wasserhahn zu.\"}, "}
-{"text":"{\"$\": \"Schrauben Sie den Wasseranschluss ab.\"}, "}
-{"text":"\"$\": \"Nehmen Sie das Sieb aus dem Zulaufschlauch\", "}
-{"text":"\"instruction\": {\"$\": \"Reinigen Sie die Siebe. Siebe reinigen\"}, "}
-{"text":"{\"$\": \"Verlegen Sie den Abwasserschlauch knickfrei.\"}, "}
-{"text":"{\"$\": \"Entfernen Sie Rückstände.\"} "}
-{"text":"\"instruction\": {\"$\": \"Prüfen Sie den Anschluss am Siphon und öffnen Sie diesen bei Bedarf.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Rasten Sie die Abdeckung der Abwasserpumpe richtig ein.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Reinigen Sie die Abwasserpumpe. Abwasserpumpe reinigen\"}, "}
-{"text":"\"instruction\": {\"$\": \"Rasten Sie die Abdeckung der Abwasserpumpe richtig ein.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Es liegt kein Gerätefehler vor.\"}, "}
-{"text":"{\"$\": \"Rufen Sie einen Elektriker.\"}, "}
-{"text":"{\"$\": \"Lassen Sie die Netzspannung und die Elektroinstallation durch den Elektriker prüfen.\"} "}
-{"text":"{\"$\": \"Drücken Sie .\"}, "}
-{"text":"{\"$\": \"Ziehen Sie den Netzstecker des Geräts oder schalten Sie die Sicherung aus.\"}, "}
-{"text":"{\"$\": \"Warten Sie mindestens 2 Minuten.\"}, "}
-{"text":"{\"$\": \"Den Netzstecker des Geräts in eine Steckdose stecken oder die Sicherung einschalten.\"}, "}
-{"text":"{\"$\": \"Schalten Sie das Gerät ein.\"}, "}
-{"text":"{\"$\": \"Wenn das Problem erneut auftritt: Drücken Sie . Schließen Sie den Wasserhahn. Ziehen Sie den Netzstecker. Kontaktieren Sie den Kundendienst und nennen Sie den Fehlercode.\"} "}
-{"text":"{\"$\": \"Füllen Sie Klarspüler ein.\"}, "}
-{"text":"{\"$\": \"Stellen Sie die Klarspülerzugabemenge ein. Klarspülerzugabemenge einstellen\"} "}
-{"text":"\"instruction\": {\"$\": \"Wählen Sie ein Programm mit Trocknung, z. B. Intensiv-, Stark- oder ECO Programm. Einige Optionstasten verringern das Trockenergebnis, z. B. Variospeed.\"}, "}
-{"text":"\"$\": \"Räumen Sie Geschirr möglichst schräg ein.\", "}
-{"text":"{\"$\": \"Verwenden Sie Klarspüler um die Trocknungsleistung zu erhöhen.\"}, "}
-{"text":"{\"$\": \"Verwenden Sie einen anderen kombinierten Reiniger mit einer besseren Trocknungsleistung.\"} "}
-{"text":"\"instruction\": {\"$\": \"Aktivieren Sie Extratrocknen .\"}, "}
-{"text":"{\"$\": \"Warten Sie das Programmende ab.\"}, "}
-{"text":"{\"$\": \"Entnehmen Sie das Geschirr erst 30 Minuten nach Programmende.\"} "}
-{"text":"\"instruction\": {\"$\": \"Verwenden Sie Markenklarspüler. Öko-Produkte können eine eingeschränkte Wirkungsleistung aufweisen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Stellen Sie die Gerätetür mit Hilfe der Montageanleitung richtig ein. Der Türspalt muss mindestens 70 mm bis 100 mm betragen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Keine Abhilfe möglich.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"An den Anlagestellen des Bestecks können sich Tropfen bilden.\"}, "}
-{"text":"{\"$\": \"Räumen Sie das Besteck nach Möglichkeit vereinzelt ein. \"}, "}
-{"text":"{\"$\": \"Vermeiden Sie Anlagestellen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Keine Handlung notwendig.\"}, "}
-{"text":"{\"$\": \"Räumen Sie das Geschirr mit ausreichend Freiraum ein. Die Sprühstrahlen müssen die Geschirroberfläche erreichen.\"}, "}
-{"text":"{\"$\": \"Vermeiden Sie Anlagestellen.\"} "}
-{"text":"\"instruction\": {\"$\": \"Räumen Sie das Geschirr so ein, dass das Geschirr die Sprüharmdrehung nicht behindert.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Reinigen Sie die Sprüharme .\"}, "}
-{"text":"\"instruction\": {\"$\": \"Reinigen Sie die Siebe. Siebe reinigen\"}, "}
-{"text":"{\"$\": \"Setzen Sie die Siebe richtig ein. Siebsystem\"}, "}
-{"text":"{\"$\": \"Verrasten Sie die Siebe.\"} "}
-{"text":"\"instruction\": {\"$\": \"Wählen Sie ein stärkeres Spülprogramm. Programme\"}, "}
-{"text":"\"instruction\": {\"$\": \"Passen Sie die Empfindlichkeit der Sensorik an. Sensoren\"}, "}
-{"text":"\"instruction\": {\"$\": \"Entfernen Sie nur grobe Speisereste und spülen Sie das Geschirr nicht vor.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Passen Sie die Empfindlichkeit der Sensorik an. Sensoren\"}, "}
-{"text":"\"instruction\": {\"$\": \"Räumen Sie hohe, schmale Gefäße nicht zu schräg und nicht im Eckbereich ein.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Oberen Geschirrkorb links und rechts auf die gleiche Höhe einstellen.\"}, "}
-{"text":"{\"$\": \"Räumen Sie Geschirr im oberen Geschirrkorb so ein, dass die Tab-Auffangschale nicht durch Geschirr versperrt wird. Geschirr einräumen Die Geschirrteile blockieren den Reinigerdeckel.\"}, "}
-{"text":"{\"$\": \"Platzieren Sie kein Geschirr und keine Duftspender in der Tab-Auffangschale.\"} "}
-{"text":"\"instruction\": {\"$\": \"Legen Sie den Tab quer in die Reinigerkammer und nicht hochkant.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Wählen Sie ein stärkeres Programm oder verwenden Sie Pulverreiniger .\"}, "}
-{"text":"\"instruction\": {\"$\": \"Wechseln Sie den Reiniger .\"}, "}
-{"text":"\"instruction\": {\"$\": \"Stärkeres Programm wählen. Programme\"}, "}
-{"text":"\"instruction\": {\"$\": \"Räumen Sie das Geschirr schräg ein. Geschirr einräumen\"}, "}
-{"text":"\"instruction\": {\"$\": \"Verwenden Sie Klarspüler. Klarspüler \"}, "}
-{"text":"\"instruction\": {\"$\": \"Stellen Sie die Enthärtungsanlage höher ein.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Wechseln Sie den Reiniger .\"}, "}
-{"text":"\"instruction\": {\"$\": \"Reinigen Sie das Gerät mechanisch.\"}, "}
-{"text":"{\"$\": \"Stellen Sie die Enthärtungsanlage richtig ein. In den meisten Fällen müssen Sie die Einstellung erhöhen.\"}, "}
-{"text":"{\"$\": \"Wechseln Sie bei Bedarf den Reiniger.\"} "}
-{"text":"\"instruction\": {\"$\": \"Drehen Sie den Spezialsalzbehälter zu.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Wechseln Sie den Reiniger .\"}, "}
-{"text":"\"instruction\": {\"$\": \"Reinigen Sie das Gerät mechanisch.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Stellen Sie die auf die Wasserhärte ein oder füllen Sie Spezialsalz nach.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Stellen Sie die auf die Wasserhärte ein und verwenden Sie getrennte Mittel (Markenreiniger, Spezialsalz, Klarspüler).\"}, "}
-{"text":"\"instruction\": {\"$\": \"Erhöhen Sie die Dosierung des Reinigers oder wechseln Sie den Reiniger .\"}, "}
-{"text":"\"instruction\": {\"$\": \"Wählen Sie ein stärkeres Spülprogramm. Programme\"}, "}
-{"text":"\"instruction\": {\"$\": \"Passen Sie die Empfindlichkeit der Sensorik an. Sensoren\"}, "}
-{"text":"\"instruction\": {\"$\": \"Wählen Sie ein Programm mit höherer Spültemperatur. Programme \"}, "}
-{"text":"\"instruction\": {\"$\": \"Verwenden Sie einen geeigneten Reiniger und dosieren Sie diesen nach den Herstellerangaben.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Entfernen Sie nur grobe Speisereste und spülen Sie das Geschirr nicht vor.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Passen Sie die Empfindlichkeit der Sensorik an. Sensoren\"}, "}
-{"text":"\"instruction\": {\"$\": \"Reinigen Sie das Gerät. Sie können die Beläge mit einer mechanischen Reinigung oder einem Maschinenreiniger entfernen. Die Beläge sind nicht immer vollständig entfernbar, jedoch gesundheitlich unbedenklich.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Reinigen Sie das Gerät. Sie können die Beläge mit einer mechanischen Reinigung oder einem Maschinenreiniger entfernen. Die Beläge sind nicht immer vollständig entfernbar, jedoch gesundheitlich unbedenklich.\"}, "}
-{"text":"{\"$\": \"Prüfen Sie die Einstellung der Enthärtungsanlage.\"}, "}
-{"text":"{\"$\": \"Füllen Sie Spezialsalz ein. Spezialsalz einfüllen\"}, "}
-{"text":"{\"$\": \"Wenn Sie kombinierte Reiniger verwenden (Tabs), aktivieren Sie die Enthärtungsanlage. Beachten Sie die Hinweise zu Reinigern . Hinweise zu Reinigern\"} "}
-{"text":"\"instruction\": {\"$\": \"Verfärbungen können auftreten und beeinträchtigen nicht die Funktion des Geräts.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Wählen Sie ein Programm mit höherer Spültemperatur. Programme \"}, "}
-{"text":"\"instruction\": {\"$\": \"Entfernen Sie nur grobe Speisereste und spülen Sie das Geschirr nicht vor.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Passen Sie die Empfindlichkeit der Sensorik an. Sensoren\"}, "}
-{"text":"\"instruction\": {\"$\": \"Stellen Sie die Klarspüleranlage auf eine niedrigere Stufe.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Klarspüler einfüllen \"}, "}
-{"text":"{\"$\": \"Räumen Sie Geschirr im oberen Geschirrkorb so ein, dass die Tab-Auffangschale nicht durch Geschirr versperrt wird. Geschirr einräumen Die Geschirrteile blockieren den Reinigerdeckel.\"}, "}
-{"text":"{\"$\": \"Platzieren Sie kein Geschirr und keine Duftspender in der Tab-Auffangschale.\"} "}
-{"text":"\"instruction\": {\"$\": \"Entfernen Sie nur grobe Speisereste und spülen Sie das Geschirr nicht vor.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Passen Sie die Empfindlichkeit der Sensorik an. Sensoren\"}, "}
-{"text":"\"instruction\": {\"$\": \"Verwenden Sie spülmaschinenfeste Gläser. Gläser sind meist nur spülmaschinengeeignet, d.h. mit Langzeitverschleiß oder Langzeitveränderungen muss gerechnet werden.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Vermeiden Sie eine lange Dampfphase (Standzeit) nach dem Spülgangende.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Verwenden Sie ein Programm mit niedrigerer Temperatur. Programme \"}, "}
-{"text":"\"instruction\": {\"$\": \"Stellen Sie die Enthärtungsanlage auf den Wasserhärtegrad ein.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Verwenden Sie einen Reiniger mit Glasschutzkomponente.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Verwenden Sie rostbeständiges Geschirr.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Spülen Sie keine rostenden Teile.\"}, "}
-{"text":"{\"$\": \"Entfernen Sie verschüttetes Spezialsalz aus dem Spülbehälter.\"}, "}
-{"text":"{\"$\": \"Drehen Sie den Verschluss des Spezialsalzbehälters fest zu.\"} "}
-{"text":"\"instruction\": {\"$\": \"Stellen Sie sicher, dass die Sprüharme nicht blockiert sind und sich frei drehen können.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Füllen Sie Reiniger nur in eine trockene Reinigerkammer.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Füllen Sie umgehend Klarspüler in den Vorratsbehälter. Klarspüler einfüllen \"}, "}
-{"text":"\"instruction\": {\"$\": \"Entfernen Sie den Klarspüler mit einem Tuch.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Wechseln Sie die Reinigermarke.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Prüfen Sie die drathlose Netzwerkverbindung Ihres Routers.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Aktivieren Sie die drahtlose Netzwerkverbindung an Ihrem Router.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Beachten Sie die für Home Connect mitgelieferten Unterlagen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Beachten Sie die Supportangaben bei den für Home Connect mitgelieferten Unterlagen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Füllen Sie Spezialsalz ein.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Verwenden Sie keine Spezialsalztabletten.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Führen Sie weitere Spülgänge durch, bis die Nachfüllanzeige für Spezialsalz leuchtet.\"}, "}
-{"text":"{\"$\": \"Füllen Sie Klarspüler ein.\"}, "}
-{"text":"{\"$\": \"Stellen Sie die Klarspülerzugabemenge ein. Klarspülerzugabemenge einstellen\"} "}
-{"text":"\"instruction\": {\"$\": \"Klarspülerzugabemenge einstellen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Führen Sie weitere Spülgänge durch, bis die Nachfüllanzeige für Klarspüler leuchtet.\"}, "}
-{"text":"{\"$\": \"Reinigen Sie die Siebe .\"}, "}
-{"text":"{\"$\": \"Reinigen Sie die Abwasserpumpe .\"} "}
-{"text":"\"instruction\": {\"$\": \"Warten Sie das Programmende ab oder brechen Sie das Programm mit ab.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Programm abbrechen \"}, "}
-{"text":"\"instruction\": {\"$\": \"Warten Sie, bis das Software-Update abgeschlossen ist.\"}, "}
-{"text":"{\"$\": \"Ziehen Sie den Netzstecker oder schalten Sie die Sicherung aus.\"}, "}
-{"text":"{\"$\": \"Warten Sie mindestens 2 Minuten.\"}, "}
-{"text":"{\"$\": \"Schließen Sie das Gerät an das Stromnetz an.\"}, "}
-{"text":"{\"$\": \"Schalten Sie das Gerät ein.\"} "}
-{"text":"\"instruction\": {\"$\": \"Prüfen Sie die Sicherung im Haus.\"}, "}
-{"text":"{\"$\": \"Prüfen Sie, ob die Steckdose funktioniert.\"}, "}
-{"text":"{\"$\": \"Prüfen Sie, ob das Netzkabel vollständig in die Steckdose und an der Geräterückseite eingesteckt ist.\"} "}
-{"text":"\"instruction\": {\"$\": \"Schließen Sie die Gerätetür.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Programm abbrechen \"}, "}
-{"text":"\"instruction\": {\"$\": \"Schließen Sie die Gerätetür.\"}, "}
-{"text":"{\"$\": \"Prüfen Sie die Stromzufuhr.\"}, "}
-{"text":"{\"$\": \"Prüfen Sie die Wasserzufuhr.\"} "}
-{"text":"\"instruction\": {\"$\": \"Prüfen, ob die Geräterückwand durch eine Steckdose oder nicht demontierten Schlauchhalter eingedrückt wird.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Räumen Sie Geschirr so ein, dass keine Geschirrteile über den Geschirrkorb ragen und die sichere Schließung der Gerätetür verhindern.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Schließen Sie die Gerätetür mit erhöhtem Kraftaufwand.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Prüfen Sie, ob das Gerät richtig eingebaut wurde. Die Gerätetür, das Türdekor oder die Anbauteile dürfen beim Schließen nicht an den Nachbarschränken und der Arbeitsplatte anstoßen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Entfernen Sie Reinigerreste.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Abhilfe nur in der Hausinstallation möglich.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Räumen Sie Geschirr so ein, dass die Sprüharme nicht am Geschirr anschlagen.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Verteilen Sie das Geschirr gleichmäßig.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Laden Sie mehr Geschirr in das Gerät.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Räumen Sie leichtes Geschirr standsicher ein.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Grobe Speisereste oder Fremdkörper können die Abwasserpumpe blockieren. Sobald das Spülwasser nicht mehr richtig abläuft, müssen Sie die Abwasserpumpe reinigen.\"}, "}
-{"text":"{\"$\": \"Das Gerät vom Stromnetz trennen.\"}, "}
-{"text":"{\"$\": \"Den oberen und unteren Geschirrkorb entnehmen.\"}, "}
-{"text":"{\"$\": \"Das Siebsystem entnehmen.\"}, "}
-{"text":"{\"$\": \"Vorhandenes Wasser ausschöpfen. Gegebenenfalls einen Schwamm zu Hilfe nehmen.\"}, "}
-{"text":"\"$\": \"Die Pumpenabdeckung mit Hilfe eines Löffels aushebeln und am Steg fassen.\", "}
-{"text":"\"safety-instruction\": {\"$\": \"Fremkörper vorsichtig entfernen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn Sie Fragen haben, eine Störung am Gerät nicht selbst beheben können oder das Gerät repariert werden muss, wenden Sie sich an unseren Kundendienst.\"}, "}
-{"text":"{\"$\": \"Viele Probleme können Sie durch die Information zur Störungsbehebung in dieser Anleitung oder auf unserer Webseite selbst beheben. Falls dies nicht der Fall ist, wenden Sie sich an unseren Kundendienst.\"}, "}
-{"text":"{\"$\": \"Wir finden immer eine passende Lösung und versuchen unnötige Besuche der Kundendiensttechniker zu vermeiden.\"}, "}
-{"text":"{\"$\": \"Wir stellen sicher, dass Ihr Gerät mit Original-Ersatzteilen von geschultem Kundendienstpersonal im Garantiefall und nach Ablauf der Herstellergarantie repariert wird.\"}, "}
-{"text":"{\"$\": \"Aus Sicherheitsgründen darf nur geschultes Fachpersonal Reparaturen am Gerät durchführen. Der Garantieanspruch erlischt, wenn Reparaturen oder Eingriffe von Personen vorgenommen werden, die hierzu von uns nicht ermächtigt sind, oder wenn unsere Geräte mit Ersatzteilen, Ergänzungs- oder Zubehörteilen versehen werden, die keine Originalteile sind und dadurch ein Defekt verursacht wird.\"}, "}
-{"text":"{\"$\": \"Funktionsrelevante Original-Ersatzteile gemäß der entsprechenden Ökodesign-Verordnung erhalten Sie bei unserem Kundendienst für die Dauer von mindestens 10 Jahren ab dem Inverkehrbringen Ihres Geräts innerhalb des Europäischen Wirtschaftsraums.\"}, "}
-{"text":"{\"$\": \"Detaillierte Informationen über die Garantiezeit und die Garantiebedingungen in Ihrem Land erhalten Sie bei unserem Kundendienst, Ihrem Händler oder auf unserer Webseite.\"}, "}
-{"text":"{\"$\": \"Wenn Sie den Kundendienst kontaktieren, benötigen Sie die Erzeugnisnummer (E-Nr.), die Fertigungsnummer (FD) und die Zählnummer (Z-Nr.) Ihres Geräts.\"}, "}
-{"text":"{\"$\": \"Die Kontaktdaten des Kundendiensts finden Sie im beiliegenden Kundendienstverzeichnis oder auf unserer Webseite.\"} "}
-{"text":"\"hint\": {\"$\": \"Der Einsatz des Kundendiensts ist im Rahmen der Herstellergarantiebedingungen kostenfrei.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Die Erzeugnisnummer (E-Nr.), die Fertigungsnummer (FD) und die Zählnummer (Z-Nr.) finden Sie auf dem Typenschild des Geräts.\"}, "}
-{"text":"{\"$\": \"Das Typenschild finden Sie auf der Innenseite der Gerätetür.\"}, "}
-{"text":"{\"$\": \"Um Ihre Gerätedaten und die Kundendienst-Telefonnummer schnell wiederzufinden, können Sie die Daten notieren.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Zusätzlich zu Gewährleistungsansprüchen gegen den Verkäufer aus dem Kaufvertrag und zusätzlich zu unserer Herstellergarantie leisten wir Ersatz zu folgenden Bedingungen.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Erfahren Sie hier, wie Sie die Umwelt schonen\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Schonen Sie die Umwelt, indem Sie Ihr Gerät ressourcenschonend gebrauchen und wiederverwendbare Materialien richtig entsorgen.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Die Verpackungsmaterialien sind umweltverträglich und wiederverwertbar.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Die einzelnen Bestandteile getrennt nach Sorten entsorgen.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn Sie diese Hinweise beachten, verbraucht Ihr Gerät weniger Strom und Wasser.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Das Gerät ist mit einem Zeolith-Behälter ausgestattet. Mit der Zeolith-Trocknung kann Energie gespart werden.\"}, "}
-{"text":"{\"$\": \"Zeolith ist ein Mineral, das Feuchtigkeit und Wärmeenergie speichern und wieder abgeben kann.\"}, "}
-{"text":"{\"$\": \"Im Reinigungsschritt wird Wärmeenergie genutzt, um das Spülwasser aufzuheizen und das Mineral zu trocknen.\"}, "}
-{"text":"{\"$\": \"Während der Trocknungsphase wird Feuchtigkeit aus dem Spülraum im Mineral gespeichert und Wärmeenergie freigesetzt. Die Wärmeenergie wird in den Spülraum mit trockener Luft ausgeblasen. Dadurch ist eine schnelle und verbesserte Trocknung möglich.\"}, "}
-{"text":"{\"$\": \"Die Zeolith-Trocknung ist somit sehr energiesparend.\"} "}
-{"text":"{\"$\": \"Um die Funktionsfähigkeit der Zeolith-Trocknung nicht zu beeinträchtigen, stellen Sie keine Geschirrteile direkt vor die Ansaugöffnung und Ausblasöffnung des Zeolith-Behälters.\"}, "}
-{"text":"{\"$\": \"Stellen Sie keine temperaturempfindlichen Geschirrteile direkt vor die Ausblasöffnung des Zeolith-Behälters. Gerät\"}, "}
-{"text":"{\"$\": \"Um die Funktionsfähigkeit der Zeolith-Trocknung nicht zu beeinträchtigen, stellen Sie keine Geschirrteile direkt vor die Ansaugöffnung und Ausblasöffnung des Zeolith-Behälters.\"}, "}
-{"text":"{\"$\": \"Stellen Sie keine temperaturempfindlichen Geschirrteile direkt vor die Ausblasöffnung des Zeolith-Behälters. Gerät\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Der Aquasensor ist eine optische Messeinrichtung (Lichtschranke), mit der die Trübung des Spülwassers gemessen wird. Mit dem Aquasensor kann Wasser gespart werden.\"}, "}
-{"text":"\"p\": {\"$\": \"Der Einsatz des Aquasensors erfolgt programmspezifisch. Ist die Verschmutzung stark, wird das Spülwasser abgepumpt und durch Frischwasser ersetzt. Ist die Verschmutzung geringer, wird das Spülwasser in den nächsten Spülgang übernommen und der Wasserverbrauch kann um 3-6 Liter gesenkt werden. In den Automatikprogrammen werden zusätzlich Temperatur und Laufzeit dem Verschmutzungsgrad angepasst.\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Die Sensorik passt den Programmablauf und die Programmstärke in den Auto-Programmen je nach Schmutzmenge und Schmutzart an.\"}, "}
-{"text":"\"p\": {\"$\": \"Die Sensorik hat verschiedene Empfindlichkeitsstufen, die Sie in den Grundeinstellungen ändern können. Grundeinstellungen ändern\"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Die Gerätetür öffnet sich während der Trocknungsphase automatisch. Dadurch wird eine besonders ökonomische Trocknung erreicht.\"}, "}
-{"text":"{\"$\": \"Für beste Trocknungsergebnisse warten Sie das Programmende ab, bevor Sie das Geschirr ausräumen. Das Programm ist beendet, wenn das Display \"Fertig\" zeigt.\"}, "}
-{"text":"{\"$\": \"Wenn die automatische Türöffnung deaktiviert ist, erhöht sich der Energieverbrauch und die Trocknungsphase wird meist verkürzt.\"}, "}
-{"text":"{\"$\": \"Übersicht der Grundeinstellungen\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Erfahren Sie hier, wie Sie Ihr Gerät für den Transport und die Lagerung vorbereiten. Außerdem erfahren Sie, wie sie Altgeräte entsorgen.\"}, "}
-{"text":"{\"$\": \"Das Gerät vom Stromnetz trennen.\"}, "}
-{"text":"{\"$\": \"Den Wasserhahn zudrehen.\"}, "}
-{"text":"{\"$\": \"Den Abwasseranschluss lösen.\"}, "}
-{"text":"{\"$\": \"Den Trinkwasseranschluss lösen.\"}, "}
-{"text":"{\"$\": \"Wenn vorhanden, die Befestigungsschrauben zu den Möbelteilen lösen.\"}, "}
-{"text":"{\"$\": \"Wenn vorhanden, das Sockelbrett demontieren.\"}, "}
-{"text":"{\"$\": \"Das Gerät vorsichtig herausziehen und den Schlauch nachziehen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Wenn das Gerät in einem frostgefährdeten Raum steht, z. B. in einem Ferienhaus, entleeren Sie das Gerät vollständig.\"}, "}
-{"text":"\"instruction\": {\"$\": \"Das Gerät entleeren. \"}, "}
-{"text":"\"shortdesc\": {\"$\": \"Um Geräteschäden zu vermeiden, entleeren Sie das Gerät vor dem Transport.\"}, "}
-{"text":"\"hint\": {\"$\": \"Damit kein Restwasser in die Maschinensteuerung gelangt und zu Geräteschäden führt, das Gerät nur aufrecht transportieren.\"}, "}
-{"text":"{\"$\": \"Geschirr aus dem Gerät entnehmen.\"}, "}
-{"text":"{\"$\": \"Lose Teile sichern.\"}, "}
-{"text":"{\"$\": \"Das Gerät einschalten.\"}, "}
-{"text":"{\"$\": \"Das Programm mit der höchsten Temperatur wählen. Programme\"}, "}
-{"text":"{\"$\": \"Das Programm starten.\"}, "}
-{"text":"{\"$\": \"Um das Gerät zu entleeren, das Programm nach ca. 4 Minuten abbrechen. Programm abbrechen\"}, "}
-{"text":"{\"$\": \"Das Gerät ausschalten.\"}, "}
-{"text":"{\"$\": \"Den Wasserhahn schließen.\"}, "}
-{"text":"{\"$\": \"Um das Restwasser aus dem Gerät zu entleeren, den Zulaufschlauch lösen und auslaufen lassen.\"} "}
-{"text":"\"shortdesc\": {\"$\": \"Durch umweltgerechte Entsorgung können wertvolle Rohstoffe wiederverwendet werden.\"}, "}
-{"text":"{\"$\": \"Den Netzstecker der Netzanschlussleitung ziehen.\"}, "}
-{"text":"{\"$\": \"Die Netzanschlussleitung durchtrennen.\"}, "}
-{"text":"{\"$\": \"Das Gerät umweltgerecht entsorgen.\"} "}
-{"text":"\"cause\": {\"$\": \"Kinder können sich im Gerät einsperren und in Lebensgefahr geraten.\"}, "}
-{"text":"\"safety-instruction\": {\"$\": \"Bei ausgedienten Geräten den Netzstecker der Netzanschlussleitung ziehen, danach die Netzanschlussleitung durchtrennen und das Schloss der Gerätetür so weit zerstören, dass die Gerätetür nicht mehr schließt.\"} "}
+{"text":"  Alle Schritte vom Auspacken bis zum ersten Gebrauch Ihres Geräts sind hier für Sie zusammengestellt., "}
+{"text":"  Sicherheit, "}
+{"text":"  Packen Sie Ihr Gerät aus und prüfen Sie alle Teile auf Transportschäden., "}
+{"text":" Die Verpackung entfernen., "}
+{"text":" Die Informationsprodukte aus dem Geräteinnenraum entfernen., "}
+{"text":" Alle Teile auf Transportschäden prüfen. Wenden Sie sich bei Beanstandungen an den Händler, bei dem Sie das Gerät erworben haben oder an unseren Kundendienst. Kundendienst "}
+{"text":"  Schließen Sie das Gerät für einen ordnungsgemäßen Betrieb fachgerecht an Strom und Wasser an. Beachten Sie die geforderten Kriterien und die Montageanleitung., "}
+{"text":"  Prüfen Sie nach dem Auspacken alle Teile auf Transportschäden und die Vollständigkeit der Lieferung., "}
+{"text":"p  Wenden Sie sich bei Beanstandungen an den Händler, bei dem Sie das Gerät erworben haben oder an unseren Kundendienst., "}
+{"text":"hint  Das Gerät wurde im Werk auf seine einwandfreie Funktion überprüft. Hierbei können Wasserflecken auf dem Gerät zurückgeblieben sein. Die Wasserflecken verschwinden nach dem ersten Spülgang., "}
+{"text":"  Sie können Ihr Unterbaugerät oder integrierbares Gerät in der Küchenzeile zwischen Holzwänden und Kunststoffwänden einbauen. Wenn Sie Ihr Gerät nachträglich als Standgerät aufstellen, müssen Sie Ihr Gerät gegen Umkippen sichern, z. B. durch Verschraubungen an der Wand oder durch den Einbau unter einer durchgehenden Arbeitsplatte, die mit den Nachbarschränken fest verbunden ist., "}
+{"text":" Die Sicherheitshinweise beachten., "}
+{"text":" Die Hinweise zum elektrischen Anschluss beachten., "}
+{"text":" Den und den Zustand des Geräts prüfen., "}
+{"text":" Die erforderlichen Einbaumaße aus der Montageanleitung entnehmen., "}
+{"text":" Das Gerät mit Hilfe der verstellbaren Füße waagrecht aufstellen. Auf einen sicheren Stand achten., "}
+{"text":" Den Abwasseranschluss installieren., "}
+{"text":" Den Trinkwasseranschluss installieren., "}
+{"text":" Das Gerät an Strom anschließen. "}
+{"text":"  Schließen Sie Ihr Gerät an einen Abwasseranschluss an, damit durch den Spülgang verschmutztes Wasser abfließen kann., "}
+{"text":" Die erforderlichen Schritte aus der mitgelieferten Montageanleitung entnehmen., "}
+{"text":" Den Abwasserschlauch mit Hilfe der beiliegenden Teile an den Ablaufstutzen des Siphons anschließen., "}
+{"text":" Darauf achten, dass der Ablaufschlauch nicht geknickt, gequetscht oder in sich verschlungen ist., "}
+{"text":" Darauf achten, dass kein Verschlussdeckel im Ablauf das Abfließen des Abwassers verhindert. "}
+{"text":"  Schließen Sie Ihr Gerät an einen Trinkwasseranschluss an., "}
+{"text":" Die erforderlichen Schritte aus der mitgelieferten Montageanleitung entnehmen., "}
+{"text":" Das Gerät mit Hilfe der beiliegenden Teile an den Trinkwasseranschluss anschließen. Die Technischen Daten beachten., "}
+{"text":" Darauf achten, dass der Trinkwasseranschluss nicht geknickt, gequetscht oder in sich verschlungen ist. "}
+{"text":"  Schließen Sie Ihr Gerät an das Stromnetz an., "}
+{"text":" Am Gerät den Kaltgerätestecker der Netzanschlussleitung einstecken., "}
+{"text":" Den Netzstecker des Geräts in eine Steckdose in der Nähe des Geräts stecken. Die Anschlussdaten des Geräts stehen auf dem Typenschild., "}
+{"text":" Den Netzstecker auf festen Sitz prüfen. "}
+{"text":"  Bei der ersten Inbetriebnahme oder nach dem Zurückstellen auf Werkseinstellungen müssen Sie Einstellungen vornehmen., "}
+{"text":"hint  Verbinden Sie Ihr Gerät mit einem mobilen Endgerät. Über die Home Connect App können Sie alle Einstellungen komfortabel vornehmen. Schnellstart, "}
+{"text":"precondition  Das Gerät ist aufgestellt und angeschlossen., "}
+{"text":" Spezialsalz einfüllen., "}
+{"text":" Klarspüler einfüllen., "}
+{"text":" Das Gerät einschalten. Das Display zeigt die Einstellungen für die erste Inbetriebnahme., "}
+{"text":" so oft drücken, bis das Display die gewünschte Einstellung zeigt. Wenn Sie bei der Einstellung Erstinbetriebnahme Home Connect wählen, nehmen Sie die weiteren Einstellungen über die Home Connect App Ihres mobilen Endgeräts vor. Die Einstellungen für die Erstinbetriebnahme und weitere Grundeinstellungen können Sie jederzeit am Gerät oder über die Home Connect App Ihres mobilen Endgeräts ändern., "}
+{"text":" oder so oft drücken, bis das Display den passenden Wert zeigt. Sie können mehrere Einstellungen ändern., "}
+{"text":" Um die Einstellungen zu speichern, ca. 3 Sekunden drücken., "}
+{"text":" Den Reiniger einfüllen ., "}
+{"text":" Das ohne Geschirr starten. Wir empfehlen, aufgrund von möglichen Wasserflecken und anderen Rückständen das Gerät ohne Geschirr vor dem ersten Gebrauch zu betreiben. "}
+{"text":"  Um von unserem umfangreichen Angebot zu profitieren, registrieren Sie Ihr Gerät ohne jegliche Verpflichtung., "}
+{"text":" Entdecken Sie alle Vorteile auf . Rabatte in unserem Online-Shop für passendes Zubehör Tipps und Tricks für Ihr Gerät Bosch Kundenservice immer zur Hand ... und vieles mehr, "}
+{"text":" Um sich zu registrieren, auf den Link klicken., "}
+{"text":" Auf Kostenlos registrieren klicken., "}
+{"text":" Daten zur Registrierung eingeben., "}
+{"text":" Auf Senden klicken und den Angaben auf der Webseite folgen. "}
+{"text":"  Beachten Sie die Informationen zum Thema Sicherheit, um Ihr Gerät sicher gebrauchen zu können., "}
+{"text":"  Hier finden Sie allgemeine Informationen zu dieser Anleitung., "}
+{"text":"  Um das Gerät sicher und richtig zu verwenden, beachten Sie die Hinweise zum bestimmungsgemäßen Gebrauch., "}
+{"text":"  Vermeiden Sie Risiken für Kinder und gefährdete Personen., "}
+{"text":" Dieses Gerät kann von Kindern ab 8 Jahren und darüber und von Personen mit reduzierten physischen, sensorischen oder mentalen Fähigkeiten oder Mangel an Erfahrung und/oder Wissen benutzt werden, wenn sie beaufsichtigt oder bezüglich des sicheren Gebrauchs des Geräts unterwiesen wurden und die daraus resultierenden Gefahren verstanden haben., "}
+{"text":" Kinder dürfen nicht mit dem Gerät spielen., "}
+{"text":" Reinigung und Benutzerwartung dürfen nicht durch Kinder ohne Beaufsichtigung durchgeführt werden., "}
+{"text":" Kinder jünger als 8 Jahre vom Gerät und der Anschlussleitung fernhalten. "}
+{"text":"  Beachten Sie die Sicherheitshinweise, wenn Sie das Gerät installieren., "}
+{"text":"  Unsachgemäße Installationen können zu Verletzungen führen., "}
+{"text":"safety-  Beim Aufstellen und Anschließen des Geräts den Anweisungen der Gebrauchsanleitung und Montageanleitung folgen. "}
+{"text":" Unsachgemäße Installationen sind gefährlich., "}
+{"text":" Das Durchtrennen des Zulaufschlauchs oder das Tauchen des Aquastop-Ventils in Wasser ist gefährlich. "}
+{"text":" Das Gerät nur gemäß den Angaben auf dem Typenschild anschließen und betreiben. Das Gerät nur über eine vorschriftsmäßig installierte Steckdose mit Erdung an ein Stromnetz mit Wechselstrom anschließen. Das Schutzleitersystem der elektrischen Hausinstallation muss vorschriftsmäßig installiert sein. Nie das Gerät über eine externe Schaltvorrichtung versorgen, z. B. Zeitschaltuhr oder Fernsteuerung. Wenn das Gerät eingebaut ist, muss der Netzstecker der Netzanschlussleitung frei zugänglich sein, oder falls der freie Zugang nicht möglich ist, muss in der festverlegten elektrischen Installation eine allpolige Trennvorrichtung nach den Errichtungsbestimmungen eingebaut werden. Beim Aufstellen des"}
+{"text":" Geräts darauf achten, dass die Netzanschlussleitung nicht eingeklemmt oder beschädigt wird., "}
+{"text":" Nie das Kunststoffgehäuse in Wasser tauchen. Das Kunststoffgehäuse am Zulaufschlauch enthält ein elektrisches Ventil. Nie den Zulaufschlauch durchtrennen. Im Zulaufschlauch befinden sich elektrische Anschlussleitungen. "}
+{"text":"  Eine verlängerte Netzanschlussleitung und nicht zugelassene Adapter zu verwenden, ist gefährlich., "}
+{"text":"safety-  Keine Verlängerungskabel oder Mehrfachsteckdosenleisten verwenden. Wenn die Netzanschlussleitung zu kurz ist, den Kundendienst kontaktieren. Nur vom Hersteller zugelassene Adapter verwenden. "}
+{"text":"  Unsachgemäße Installation des Geräts kann zu Verbrennungen führen., "}
+{"text":"safety-  Bei freistehenden Geräten darauf achten, dass die Geräte mit der Rückseite an einer Wand stehen. "}
+{"text":"  Beachten Sie diese Sicherheitshinweise, wenn Sie das Gerät verwenden., "}
+{"text":"  Das nicht Beachten von Sicherheitshinweisen und Gebrauchshinweisen auf Verpackungen von Reinigerprodukten und Klarspülerprodukten kann zu schweren Gesundheitsschäden führen., "}
+{"text":"safety-  Auf Verpackungen von Reinigerprodukten und Klarspülerprodukten die Sicherheitshinweise und Gebrauchshinweise beachten. "}
+{"text":" Lösungsmittel im Spülraum des Geräts kann zu Explosionen führen., "}
+{"text":" Stark ätz-alkalische oder stark säurehaltige Reinigungsmittel in Verbindung mit Aluminiumteile im Spülraum des Geräts können zu Explosionen führen. "}
+{"text":" Nie Lösungsmittel in den Spülraum des Geräts geben., "}
+{"text":" Nie stark ätz-alkalische oder stark säurehaltige Reinigungsmittel, insbesondere aus dem Gewerbebereich oder Industriebereich, in Verbindung mit Aluminiumteile (z. B. Fettfilter von Dunstabzugshauben oder Aluminium-Töpfe) verwenden, z. B. zur Maschinenpflege. "}
+{"text":" Geöffnete Gerätetür kann zu Verletzungen führen., "}
+{"text":" Messer und Utensilien mit scharfen Spitzen können Verletzungen verursachen. "}
+{"text":" Die Gerätetür nur zum Einräumen und Ausräumen von Geschirr öffnen, um Unfälle zu verhinden, z.ºB. durch Stolpern. Nicht auf die geöffnete Gerätetür sitzen oder stehen., "}
+{"text":" Messer und Utensilien mit scharfen Spitzen mit der spitzen Seite nach unten in den Besteckkorb, in die Messerablage oder in die Besteckschublade einräumen. "}
+{"text":"  Heißes Wasser kann beim Öffnen der Gerätetür während des Programmablaufs aus dem Gerät spritzen., "}
+{"text":"safety-  Die Gerätetür während des Programmablaufs vorsichtig öffnen. "}
+{"text":"  Überladene Geschirrkörbe können zum Kippen des Geräts führen., "}
+{"text":"safety-  Nie bei freistehenden Geräten die Geschirrkörbe überladen. "}
+{"text":" Eindringende Feuchtigkeit kann einen Stromschlag verursachen., "}
+{"text":" Eine beschädigte Isolierung der Netzanschlussleitung ist gefährlich. "}
+{"text":" Das Gerät nur in geschlossenen Räumen verwenden. Nie das Gerät großer Hitze und Nässe aussetzen. Keinen Dampfreiniger oder Hochdruckreiniger verwenden, um das Gerät zu reinigen., "}
+{"text":" Nie die Netzanschlussleitung mit heißen Geräteteilen oder Wärmequellen in Kontakt bringen. Nie die Netzanschlussleitung mit scharfen Spitzen oder Kanten in Kontakt bringen. Nie die Netzanschlussleitung knicken, quetschen oder verändern. "}
+{"text":"  Die Ausblasöffnung des Zeolith-Behälters wird heiß und kann zu Verbrennungen führen., "}
+{"text":"safety-  Nie die Ausblasöffnung des Zeolith-Behälters berühren. "}
+{"text":"  Beachten Sie die Sicherheitshinweise, wenn das Gerät beschädigt ist., "}
+{"text":" Ein beschädigtes Gerät oder eine beschädigte Netzanschlussleitung ist gefährlich., "}
+{"text":" Unsachgemäße Reparaturen sind gefährlich. "}
+{"text":" Nie ein beschädigtes Gerät betreiben. Nie ein Gerät mit gerissener oder gebrochener Oberfläche betreiben. Nie an der Netzanschlussleitung ziehen, um das Gerät vom Stromnetz zu trennen. Immer am Netzstecker der Netzanschlussleitung ziehen. Wenn das Gerät oder die Netzanschlussleitung beschädigt ist, sofort den Netzstecker der Netzanschlussleitung ziehen oder die Sicherung im Sicherungskasten ausschalten und den Wasserhahn schließen. Den Kundendienst rufen. Nur dafür geschultes Fachpersonal darf Reparaturen am Gerät durchführen., "}
+{"text":" Nur dafür geschultes Fachpersonal darf Reparaturen am Gerät durchführen. Nur Original-Ersatzteile dürfen zur Reparatur des Geräts verwendet werden. Wenn die Netzanschlussleitung dieses Geräts beschädigt wird, muss sie durch eine besondere Anschlussleitung ersetzt werden, die beim Hersteller oder bei seinem Kundendienst erhältlich ist. "}
+{"text":"  Beachten Sie die Sicherheitshinweise, wenn Kinder in Ihrem Haushalt leben., "}
+{"text":" Kinder können sich Verpackungsmaterial über den Kopf ziehen oder sich darin einwickeln und ersticken., "}
+{"text":" Kinder können Kleinteile einatmen oder verschlucken und dadurch ersticken., "}
+{"text":" Kinder können sich im Gerät einschließen und ersticken. "}
+{"text":" Verpackungsmaterial von Kindern fernhalten. Kinder nicht mit Verpackungsmaterial spielen lassen., "}
+{"text":" Kleinteile von Kindern fernhalten. Kinder nicht mit Kleinteilen spielen lassen., "}
+{"text":" Falls vorhanden, die Kindersicherung nutzen. Nie Kinder mit dem Gerät spielen oder es bedienen lassen. "}
+{"text":"  Kinder können sich im Gerät einsperren und in Lebensgefahr geraten., "}
+{"text":"safety-  Bei ausgedienten Geräten den Netzstecker der Netzanschlussleitung ziehen, danach die Netzanschlussleitung durchtrennen und das Schloss der Gerätetür so weit zerstören, dass die Gerätetür nicht mehr schließt. "}
+{"text":"  Kinder können sich bei hocheingebauten Geräten zwischen Gerätetür und darunter liegenden Schranktüren quetschen., "}
+{"text":"safety-  Beim Öffnen und Schließen der Gerätetür auf Kinder achten. "}
+{"text":"  Klarspüler und Reiniger können zu Verätzungen von Mund, Rachen und Augen führen., "}
+{"text":"safety-  Kinder von Klarspülerprodukten und Reinigerprodukten fernhalten. Kinder vom geöffneten Gerät fernhalten. Das Wasser im Spülraum ist kein Trinkwasser. Es können sich noch Reste von Reiniger und Klarspüler darin befinden. "}
+{"text":"  Kinder können sich mit ihren kleinen Fingern in den Schlitzen der Tab-Auffangschale einklemmen und verletzen., "}
+{"text":"safety-  Kinder vom geöffneten Gerät fernhalten. "}
+{"text":"  Um Sachschäden an Ihrem Gerät, Zubehör oder Küchengegenständen zu vermeiden, beachten Sie diese Hinweise., "}
+{"text":"  Beachten Sie die Hinweise, wenn Sie das Gerät installieren., "}
+{"text":" Unsachgemäße Installationen des Geräts können zu Beschädigungen führen., "}
+{"text":" Veränderte oder beschädigte Wasserschläuche können zu Sach- und Geräteschäden führen., "}
+{"text":" Ein zu geringer oder zu hoher Wasserdruck kann die Gerätefunktion beeinträchtigen. "}
+{"text":" Wenn der Geschirrspüler unter oder über anderen Haushaltsgeräten eingebaut wird, Informationen zum Einbau in Kombination mit dem Geschirrspüler in der Montageanleitung der jeweiligen Haushaltsgeräte befolgen. Liegen keine Informationen vor oder enthält die Montageanleitung keine entsprechenden Hinweise, muss beim Hersteller dieser Haushaltsgeräte nachgefragt werden, um sicherzustellen, dass der Geschirrspüler über oder unter anderen Haushaltsgeräten eingebaut werden kann. Falls keine Informationen vom Hersteller zur Verfügung stehen, darf der Geschirrspüler nicht über oder unter diesen Haushaltsgeräten eingebaut werden. Um den sicheren Betrieb aller Haushaltsgeräte zu gewährleisten, weiter"}
+{"text":"hin die Montageanleitung des Geschirrspülers beachten. Den Geschirrspüler nicht unter einem Kochfeld einbauen. Den Geschirrspüler nicht in der Nähe von Wärmequellen, z.B. Heizkörper, Wärmespeicher, Öfen oder anderen Geräten, die Wärme erzeugen, installieren., "}
+{"text":" Nie Wasserschläuche knicken, quetschen, verändern oder durchschneiden. Nur mitgelieferte Wasserschläuche oder Original-Ersatzschläuche verwenden. Nie benutzte Wasserschläuche wiederverwenden., "}
+{"text":" Sicherstellen, dass der Wasserdruck an der Wasserversorgungsanlage mindestens 50  kPa ( 0,5  bar) und maximal 1000  kPa ( 10  bar) beträgt. Wenn der Wasserdruck den angegebenen Höchstwert überschreitet, muss ein Druckminderungsventil zwischen Trinkwasseranschluss und Schlauchset des Geräts installiert werden. "}
+{"text":"  Beachten Sie die Hinweise, wenn Sie das Gerät gebrauchen., "}
+{"text":" Austretender Wasserdampf kann Einbaumöbel beschädigen., "}
+{"text":" Spezialsalz kann den Spülbehälter durch Korrosion beschädigen., "}
+{"text":" Reiniger kann die Enthärtungsanlage beschädigen., "}
+{"text":" Ungeeignete Reinigungsmittel können das Gerät beschädigen. "}
+{"text":" Das Gerät nach Programmende etwas abkühlen lassen vor dem Öffnen der Gerätetür., "}
+{"text":" Damit übergelaufenes Spezialsalz aus dem Spülbehälter gespült wird, das Spezialsalz unmittelbar vor dem Programmstart in den Vorratsbehälter für Spezialsalz füllen., "}
+{"text":" Nur mit Spezialsalz für Geschirrspüler den Vorratsbehälter der Enhärtungsanlage füllen., "}
+{"text":" Keinen Dampfreiniger verwenden. Um die Geräteoberfläche nicht zu zerkratzen, keine Schwämme mit rauer Oberfläche sowie keine scheuernden Reinigungsmittel verwenden. Um Korrosion zu vermeiden, bei Geschirrspülern mit Edelstahlfront keine Schwammtücher verwenden oder diese vor dem ersten Gebrauch mehrmals gründlich ausspülen. "}
+{"text":"  Lernen Sie die Komponenten und Funktionen Ihres Geräts kennen., "}
+{"text":"  Lernen Sie die Bestandteile Ihres Geräts kennen., "}
+{"text":"  Hier finden Sie eine Übersicht über die Bestandteile Ihres Geräts., "}
+{"text":"  Über das Bedienfeld stellen Sie alle Funktionen Ihres Geräts ein und erhalten Informationen zum Betriebszustand., "}
+{"text":"  Hier erhalten Sie einen Überblick über die mögliche Ausstattung Ihres Geräts und dessen Verwendung., "}
+{"text":"p  Die Ausstattung ist abhängig von Ihrer Gerätevariante., "}
+{"text":"  Um große Geschirrteile in den Geschirrkörben zu spülen, stellen Sie die Einschubhöhe des oberen Geschirrkorbs ein., "}
+{"text":" Den oberen Geschirrkorb herausziehen., "}
+{"text":" Um ein ruckartiges nach unten fallen des Geschirrkorbs zu vermeiden, den Geschirrkorb seitlich am oberen Rand festhalten., "}
+{"text":" Die Hebel links und rechts auf der Geschirrkorbaußenseite nach innen drücken. Der Geschirrkorb kann sich leicht absenken., "}
+{"text":"  Um mehr Platz für höhere und breitere Besteckteile zu erhalten, können Sie die seitlichen Ablagen herunterklappen und die vorderen Stachelreihen umklappen., "}
+{"text":" Wenn Sie die Besteckschublade in die Originalstellung bringen wollen, klappen Sie die seitliche Ablage nach oben, bis diese hörbar einrastet., "}
+{"text":" Um die seitliche Ablage herunterzuklappen, den Hebel nach vorn drücken und die seitliche Ablage herunterklappen ., "}
+{"text":" Um die vorderen Stachelreihen umzuklappen, den Hebel nach vorne drücken und die Klappstacheln umklappen ., "}
+{"text":"  Wenn Sie die Klappstacheln nicht benötigen, klappen Sie diese um., "}
+{"text":" Den Hebel nach vorn drücken und die Klappstacheln umklappen ., "}
+{"text":" Den oberen Geschirrkorb herausziehen., "}
+{"text":" Den Schieber auf ON oder OFF stellen., "}
+{"text":"  Kalk und Verunreinigungen aus dem Spülwasser können die Düsen verstopfen., "}
+{"text":"hint  Betreiben Sie das Gerät immer mit montierter Extra Clean Zone., "}
+{"text":" Den oberen Geschirrkorb herausziehen., "}
+{"text":" Die Lasche an der Extra Clean Zone nach oben ziehen und nach vorne abziehen ., "}
+{"text":"  Stellen Sie die Geschirrkörbe auf die passende Höhe ein., "}
+{"text":"  Zahlen und Fakten zu Ihrem Gerät finden Sie hier., "}
+{"text":" Dieses Produkt enthält Lichtquellen der Energie-Effizienzklasse G. Die Lichtquellen sind als Ersatzteil verfügbar und nur durch dafür geschultes Fachpersonal auszutauschen., "}
+{"text":"  Dieses Produkt enthält Software-Komponenten, die von den Urheberrechtsinhabern als freie oder Open Source-Software lizenziert sind., "}
+{"text":" Der Quellcode wird auf Anforderung zur Verfügung gestellt., "}
+{"text":" Betreff „OSSREQUEST“, "}
+{"text":" Die Kosten für die Bearbeitung Ihrer Anforderung werden Ihnen in Rechnung gestellt. Dieses Angebot gilt drei Jahre ab dem Kaufdatum bzw. mindestens für den Zeitraum, in dem wir Support und Ersatzteile für das entsprechende Gerät anbieten. "}
+{"text":"  Hiermit erklärt Robert Bosch Hausgeräte GmbH , dass sich das Gerät mit Home Connect Funktionalität in Übereinstimmung mit den grundlegenden Anforderungen und den übrigen einschlägigen Bestimmungen der Richtlinie 2014/53/EU befindet., "}
+{"text":"  Hartes, kalkhaltiges Wasser hinterlässt Kalkrückstände auf dem Geschirr sowie dem Spülbehälter und kann Geräteteile verstopfen., "}
+{"text":"p  Um gute Spülergebnisse zu erhalten, können Sie Wasser mit der Enthärtungsanlage und Spezialsalz enthärten. Um Schäden am Gerät zu vermeiden, muss Wasser mit einem Härtegrad oberhalb von 7   °dH enthärtet werden., "}
+{"text":"  Hier finden Sie eine Übersicht über die einstellbaren Werte des Wasserhärtegrads., "}
+{"text":"p  Den Wasserhärtegrad können Sie beim örtlichen Wasserwerk erfragen oder mit einem Wasserhärtetester bestimmen., "}
+{"text":" Stellen Sie Ihr Gerät auf den ermittelten Wasserhärtegrad ein. Enthärtungsanlage einstellen, "}
+{"text":" Bei einem Wasserhärtegrad von 0 - 6   °dH können Sie auf Spezialsalz verzichten und die Enthärtungsanlage ausschalten. Enthärtungsanlage ausschalten, "}
+{"text":" Stellen Sie Ihr Gerät auf den ermittelten Wasserhärtegrad ein. Enthärtungsanlage einstellen, "}
+{"text":" Bei einem Wasserhärtegrad von 0 - 6   °dH können Sie auf Spezialsalz verzichten und die Enthärtungsanlage ausschalten. Enthärtungsanlage ausschalten "}
+{"text":"  Stellen Sie das Gerät auf den Wasserhärtegrad ein., "}
+{"text":" Den Wasserhärtegrad und den passenden Einstellwert ermitteln. Übersicht der Wasserhärteeinstellungen, "}
+{"text":" drücken., "}
+{"text":" Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken., "}
+{"text":" so oft drücken, bis das Display Wasserhärte zeigt., "}
+{"text":" oder so oft drücken, bis der passende Wasserhärtegrad eingestellt ist. Werksseitig ist der Wert 13 - 16 eingestellt., "}
+{"text":" Um die Einstellungen zu speichern, ca. 3 Sekunden drücken. "}
+{"text":"  Mit Spezialsalz können Sie Wasser enthärten., "}
+{"text":"  Wenn die Spezialsalznachfüllanzeige leuchtet, füllen Sie unmittelbar vor dem Programmstart Spezialsalz in den Vorratsbehälter für Spezialsalz. Die benötigte Spezialsalzmenge ist abhängig vom Wasserhärtegrad. Je höher der Wasserhärtegrad, desto höher die benötigte Spezialsalzzugabemenge., "}
+{"text":" Den Deckel vom Vorratsbehälter für Spezialsalz aufdrehen und entnehmen., "}
+{"text":" Bei der ersten Inbetriebnahme Den Vorratsbehälter komplett mit Wasser füllen., "}
+{"text":" Das Spezialsalz in den Vorratsbehälter füllen. Den Vorratsbehälter komplett mit Spezialsalz füllen. Das Wasser im Vorratsbehälter wird verdrängt und läuft ab., "}
+{"text":" Reiniger kann die Enthärtungsanlage beschädigen., "}
+{"text":" Spezialsalz kann den Spülbehälter durch Korrosion beschädigen. "}
+{"text":" Nur mit Spezialsalz für Geschirrspüler den Vorratsbehälter der Enhärtungsanlage füllen., "}
+{"text":" Damit übergelaufenes Spezialsalz aus dem Spülbehälter gespült wird, das Spezialsalz unmittelbar vor dem Programmstart in den Vorratsbehälter für Spezialsalz füllen. "}
+{"text":"  Wenn Sie die Salznachfüllanzeige stört, z. B. wenn Sie kombinierte Reiniger mit Salzersatzstoffen verwenden, können Sie die Salznachfüllanzeige ausschalten., "}
+{"text":" Der Wasserhärtegrad beträgt maximal 21   °dH und Sie verwenden einen kombinierten Reiniger mit Salzersatzstoffen. Kombinierte Reiniger mit Salzersatzstoffen können Sie laut Herstellerangaben meist nur bis zu einem Wasserhärtegrad von 21   °dH ohne die Zugabe von Spezialsalz verwenden. Der Wasserhärtegrad beträgt 0 - 6   °dH . Sie können auf Spezialsalz verzichten., "}
+{"text":" Der Wasserhärtegrad beträgt maximal 21   °dH und Sie verwenden einen kombinierten Reiniger mit Salzersatzstoffen. Kombinierte Reiniger mit Salzersatzstoffen können Sie laut Herstellerangaben meist nur bis zu einem Wasserhärtegrad von 21   °dH ohne die Zugabe von Spezialsalz verwenden. Der Wasserhärtegrad beträgt 0 - 6   °dH . Sie können auf Spezialsalz verzichten. "}
+{"text":" drücken., "}
+{"text":" Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken., "}
+{"text":" so oft drücken, bis das Display Wasserhärte zeigt., "}
+{"text":" oder so oft drücken, bis das Display 0 - 6 zeigt., "}
+{"text":" Um die Einstellungen zu speichern, ca. 3 Sekunden drücken. "}
+{"text":"  Um die störungsfreie Funktion der Enthärtungsanlage zu erhalten, führt das Gerät in regelmäßigen Abständen ein Regenerieren der Enthärtungsanlage durch., "}
+{"text":"p  Das Regenerieren der Enthärtungsanlage erfolgt in allen Programmen vor Ende des Hauptspülgangs. Es erhöhen sich die Laufzeit und die Verbrauchswerte, z. B. Wasser und Strom., "}
+{"text":"  Hier finden Sie eine Übersicht der maximal zusätzlichen Laufzeit und Verbrauchswerte beim Regenerieren der Enthärtungsanlage., "}
+{"text":"p  Die angegebenen Verbrauchswerte sind Labormesswerte nach aktuell gültigem Standard und anhand des Programms Eco 50° sowie dem werkseitig eingestellten Wert des Wasserhärtegrads 13 - 16 °dH ermittelt., "}
+{"text":"  Geschirr und Gläser können Sie mit der Klarspüleranlage sowie Klarspüler fleckenlos und klar spülen., "}
+{"text":"  Um optimale Trocknungsergebnisse zu erhalten, verwenden Sie Klarspüler., "}
+{"text":"p  Verwenden Sie nur Klarspüler für Haushaltsgeschirrspüler., "}
+{"text":"  Wenn das Display Bitte Klarspüler nachfüllen.zeigt, füllen Sie Klarspüler nach. Verwenden Sie nur Klarspüler für Haushaltsgeschirrspüler., "}
+{"text":" Die Lasche am Deckel des Vorratsbehälters für Klarspüler drücken und anheben ., "}
+{"text":"  Wenn Schlieren oder Wasserflecken auf dem Geschirr zurückbleiben, ändern Sie die Klarspülerzugabemenge., "}
+{"text":" drücken., "}
+{"text":" Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken., "}
+{"text":" so oft drücken, bis das Display Klarspülerzugabe zeigt., "}
+{"text":" oder so oft drücken, bis die passende Klarspülerzugabemenge eingestellt ist. Eine niedrige Stufe gibt dem Spülgang weniger Klarspüler zu und reduziert Schlieren auf dem Geschirr. Eine höhere Stufe gibt dem Spülgang mehr Klarspüler zu, reduziert Wasserflecken und erzeugt ein höheres Trocknungsergebnis., "}
+{"text":" Um die Einstellungen zu speichern, ca. 3 Sekunden drücken. "}
+{"text":"  Wenn Sie die Klarspülernachfüllanzeige stört, z.B. wenn Sie kombinierte Reiniger mit Klarspülerkomponente verwenden, können Sie die Klarspüleranlage ausschalten., "}
+{"text":"hint  Die Funktion des Klarspülers ist bei kombinierten Reinigern begrenzt. Wenn Sie Klarspüler verwenden, erreichen Sie meist bessere Ergebnisse., "}
+{"text":" drücken., "}
+{"text":" Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken., "}
+{"text":" so oft drücken, bis das Display Klarspülerzugabe zeigt., "}
+{"text":" oder so oft drücken, bis das Display 0 zeigt., "}
+{"text":" Um die Einstellungen zu speichern, ca. 3 Sekunden drücken. "}
+{"text":"  Hier finden Sie eine Übersicht über die einstellbaren Programme. Je nach Gerätekonfiguration sind verschiedene Programme verfügbar, welche Sie auf der Bedienblende Ihres Geräts finden., "}
+{"text":" Abhängig vom gewählten Programm kann die Laufzeit variieren. Die Laufzeit hängt von der Wassertemperatur, der Geschirrmenge, dem Verschmutzungsgrad und der gewählten Zusatzfunktion ab. Bei ausgeschalteter Klarspüleranlage oder bei Klarspülermangel verändert sich die Laufzeit., "}
+{"text":" Die Verbrauchswerte finden Sie in der Kurzanleitung. Die Verbrauchswerte beziehen sich auf Normalbedingungen und den Wasserhärtewert 13 - 16   °dH . Unterschiedliche Einflussfaktoren können zu Abweichungen führen, z. B. Wassertemperatur oder Leitungsdruck. "}
+{"text":"hint  Die vergleichsweise längere Laufzeit im Eco 50° Programm ergibt sich durch längere Einweichzeiten und Trocknungszeiten. Dies ermöglicht ein Optimum an Verbrauchswerten., "}
+{"text":"  Testinstitute erhalten die Hinweise für Vergleichsprüfungen, zum Beispiel nach EN60436., "}
+{"text":" Hierbei handelt es sich um die Bedingungen zur Durchführung der Tests, jedoch nicht um die Ergebnisse oder Verbrauchswerte., "}
+{"text":" Benötigt werden die Erzeugnisnummer (E-Nr.) und die Fertigungsnummer (FD), die sich auf dem Typenschild an der Gerätetür befinden. "}
+{"text":"  Sie können eine Kombination aus Programm und Zusatzfunktion auf der Taste speichern., "}
+{"text":" Speichern Sie das Programm über die Home Connect App oder am Gerät., "}
+{"text":" Werkseitig ist das Programm Vorspülen auf dieser Taste hinterlegt. Vorspülen ist für alle Geschirrarten geeignet. Durch kaltes Abspülen wird das Geschirr zwischengereinigt., "}
+{"text":" Bei heruntergeladenen Programmen und im Auslieferungszustand wird der Programmname in der App angezeigt. Das Display zeigt abwechselnd App-Program und die Restlaufzeit. "}
+{"text":"hint  Über die Home Connect App können Sie zusätzliche Programme herunterladen und auf der Taste speichern., "}
+{"text":" drücken., "}
+{"text":" Die passende Programmtaste drücken. Programme, "}
+{"text":" Auf die Taste der passenden Zusatzfunktion drücken. Zusatzfunktionen, "}
+{"text":" 3 Sekunden drücken. Das gewählte Programm und die Zusatzfunktion blinken. blinkt. "}
+{"text":"  Hier finden Sie eine Übersicht über die einstellbaren Zusatzfunktionen. Je nach Gerätekonfiguration sind verschiedene Zusatzfunktionen verfügbar, welche Sie auf der Bedienblende Ihres Geräts finden., "}
+{"text":"  Hier erfahren Sie alles über die Funktionen und die Bedienung Ihres Geräts., "}
+{"text":"  Einen Überblick über Tätigkeiten eines Standardbedienungsablaufs erhalten Sie hier., "}
+{"text":"precondition  Die Inbetriebnahme ist abgeschlossen. Erste Schritte, "}
+{"text":" Das Geschirr einräumen. , "}
+{"text":" Den Reiniger einfüllen., "}
+{"text":" Das Gerät einschalten., "}
+{"text":" Ein Programm einstellen., "}
+{"text":" Bei Bedarf eine Zusatzfunktion einstellen., "}
+{"text":" Das Programm starten., "}
+{"text":" Nach dem Programmende das Geschirr ausräumen. "}
+{"text":"  Hier erfahren Sie das Wesentliche zur Bedienung Ihres Geräts., "}
+{"text":"  Die Gerätetür öffnen., "}
+{"text":"  drücken. Das Programm Eco 50° ist voreingestellt. Das Eco 50° Programm ist ein besonders umweltschonendes Programm und hervorragend geeignet für normal angeschmutztes Geschirr. Es ist das effizienteste Programm in der Kombination Energieverbrauch und Wasserverbrauch für diesen Typ von Geschirr und belegt die Konformität mit der EU Ökodesign Verordnung. Wenn Sie das Gerät 10 Minuten nicht bedienen, schaltet sich das Gerät automatisch aus., "}
+{"text":"  Um den Spülgang auf die Verschmutzung des Geschirrs anzupassen, stellen Sie ein passendes Programm ein., "}
+{"text":"  Die passende Programmtaste drücken. Programme, "}
+{"text":"  Um das gewählte Spülprogramm zu ergänzen, können Sie Zusatzfunktionen einstellen., "}
+{"text":"hint  Die zuschaltbaren Zusatzfunktionen hängen vom gewählten Programm ab. Programme, "}
+{"text":"  Auf die Taste der passenden Zusatzfunktion drücken. Zusatzfunktionen Die Zusatzfunktion ist eingestellt und die Zusatzfunktionstaste blinkt., "}
+{"text":"  Sie können den Programmstart bis zu 24 Stunden verschieben., "}
+{"text":"hint  Die Zeitvorwahl deaktivieren Sie, indem Sie ca. 4 Sekunden drücken., "}
+{"text":" drücken., "}
+{"text":" oder so oft drücken, bis das Display die passende Zeit zeigt. Je nach Einstellung der Zeitanzeige wird das Programmende im Display Fertig in (zum Beispiel 3h 25min) Fertig um (zum Beispiel 1520 Uhr) angezeigt. Die Einstellung können Sie in den Grundeinstellungen ändern., "}
+{"text":" Um die Zeitvorwahl zu aktivieren, drücken. "}
+{"text":"  drücken. Das Programm ist beendet, wenn das Display Fertig anzeigt., "}
+{"text":" drücken. Das Programm wird gespeichert und das Gerät schaltet sich aus., "}
+{"text":" Um das Programm fortzusetzen, drücken. "}
+{"text":"  Um ein Programm vorzeitig zu beenden oder um ein gestartetes Programm zu wechseln, müssen Sie dieses abbrechen., "}
+{"text":"  ca. 4 Sekunden drücken., "}
+{"text":"  Sie können sich im Display Informationen zu Programmen und Zusatzfunktionen anzeigen lassen., "}
+{"text":" drücken., "}
+{"text":" Die Programmtaste oder Zusatzfunktion drücken. "}
+{"text":" Die Hinweise zum sicheren Gebrauch beachten., "}
+{"text":" drücken. "}
+{"text":"  Sie können Ihr Gerät auf Ihre Bedürfnisse einstellen., "}
+{"text":"  Die Grundeinstellungen sind von der Ausstattung Ihres Geräts abhängig., "}
+{"text":" drücken., "}
+{"text":" Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken., "}
+{"text":" so oft drücken, bis das Display die gewünschte Einstellung zeigt., "}
+{"text":" oder so oft drücken, bis das Display den passenden Wert zeigt. Sie können mehrere Einstellungen ändern., "}
+{"text":" Um die Einstellungen zu speichern, ca. 3 Sekunden drücken. "}
+{"text":" Um die Grundeinstellungen zu öffnen, ca. 3 Sekunden drücken., "}
+{"text":" so oft drücken, bis das Display Uhrzeiteinstellung zeigt., "}
+{"text":" oder so oft drücken, bis das Display die gewünschte Uhrzeit zeigt. Durch längeres Drücken von und ändern sich die Einstellwerte in 10-Minuten-Schritten., "}
+{"text":" Um die Einstellungen zu speichern, ca. 3 Sekunden drücken. "}
+{"text":"  Dieses Gerät ist netzwerkfähig. Verbinden Sie Ihr Gerät mit einem mobilen Endgerät, um Funktionen über die Home Connect App zu bedienen., "}
+{"text":" Die Home Connect Dienste sind nicht in jedem Land verfügbar. Die Verfügbarkeit der Home Connect Funktion ist abhängig von der Verfügbarkeit der Home Connect Dienste in Ihrem Land. Informationen dazu finden Sie auf ., "}
+{"text":" Um Home Connect nutzen zu können, richten Sie zunächst die Verbindung zum WLAN-Heimnetzwerk (Wi-Fi ) und zur Home Connect App ein., "}
+{"text":" Die Home Connect App leitet Sie durch den gesamten Anmeldeprozess. Folgen Sie den Anweisungen in der Home Connect App, um die Einstellungen vorzunehmen. "}
+{"text":" Beachten Sie die mitgelieferten Unterlagen von Home Connect ., "}
+{"text":" Beachten Sie auch die Hinweise in der Home Connect App., "}
+{"text":" Beachten Sie die Sicherheitshinweise dieser Gebrauchsanleitung und stellen Sie sicher, dass diese auch dann eingehalten werden, wenn Sie das Gerät über die Home Connect App bedienen. Sicherheit "}
+{"text":"  Verbinden Sie Ihr Gerät schnell und unkompliziert mit einem mobilen Endgerät., "}
+{"text":" Home Connect App auf dem mobilen Endgerät installieren., "}
+{"text":" Mit Hilfe der Home Connect App den QR-Code scannen., "}
+{"text":"  Passen Sie Home Connect Ihren Bedürfnissen an., "}
+{"text":"p  Sie finden die Home Connect Einstellungen in den Grundeinstellungen Ihres Geräts. Welche Einstellungen das Display zeigt, hängt davon ab, ob Home Connect eingerichtet ist und ob das Gerät mit dem Heimnetzwerk verbunden ist., "}
+{"text":"  Über die Home Connect App können Sie mit Ihrem mobilen Endgerät das Gerät starten., "}
+{"text":"hint  Wenn Sie in den Grundeinstellungen dieser Funktion Dauerhaft einstellen, ist die Funktion dauerhaft aktiviert und Sie können ihr Gerät jederzeit mit einem mobilen Endgerät starten., "}
+{"text":"  Wenn Sie in den Grundeinstellungen dieser Funktion Manuell eingestellt haben, aktivieren Sie die Funktion an Ihrem Gerät., "}
+{"text":"hint  Um die Funktion zu deaktivieren, drücken., "}
+{"text":" Das Gerät ist mit Ihrem WLAN-Heimnetzwerk verbunden., "}
+{"text":" Das Gerät ist mit der Home Connect App verbunden., "}
+{"text":" In den Grundeinstellungen dieser Funktion ist Manuell eingestellt., "}
+{"text":" Ein Programm ist gewählt. "}
+{"text":"  drücken. Wenn Sie die Gerätetür öffnen, ist die Funktion automatisch deaktiviert., "}
+{"text":"  Der Kundendienst kann über die Ferndiagnose auf Ihr Gerät zugreifen, wenn Sie sich mit dem entsprechenden Wunsch an den Kundendienst wenden, Ihr Gerät mit dem Home Connect Server verbunden ist und die Ferndiagnose in dem Land, in dem Sie das Gerät verwenden, verfügbar ist., "}
+{"text":"hint  Weitere Informationen sowie Hinweise zur Verfügbarkeit der Ferndiagnose in Ihrem Land finden Sie im Service/Support-Bereich der lokalen Webseite, "}
+{"text":"  Mit dieser Funktion können Sie die Software Ihres Geräts aktualisieren, z. B. für Optimierungen, Fehlerbehebungen oder sicherheitsrelevante Updates., "}
+{"text":"p  Die Home Connect App informiert Sie über verfügbare Software Updates., "}
+{"text":"  Beachten Sie die Hinweise zum Datenschutz., "}
+{"text":"p  Diese Erstregistrierung bereitet die Nutzung der Home Connect Funktionalitäten vor und ist erst zu dem Zeitpunkt erforderlich, zu dem Sie Home Connect Funktionalitäten erstmals nutzen möchten., "}
+{"text":"hint  Beachten Sie, dass die Home Connect Funktionalitäten nur in Verbindung mit der Home Connect App nutzbar sind. Informationen zum Datenschutz können in der Home Connect App abgerufen werden., "}
+{"text":"  Erfahren Sie, welche Reiniger für Ihr Gerät geeignet sind., "}
+{"text":"  Verwenden Sie nur Reiniger, der für Geschirrspüler geeignet ist. Geeignet sind sowohl Solo-Reiniger als auch kombinierte Reiniger., "}
+{"text":" Um optimale Spülergebnisse und Trockungsergebnisse zu erzielen, verwenden Sie Solo-Reiniger in Verbindung mit getrennter Anwendung von Spezialsalz und Klarspüler ., "}
+{"text":" Moderne, leistungsfähige Reiniger verwenden überwiegend eine niederalkalische Rezeptur mit Enzymen. Enzyme bauen Stärke ab und lösen Eiweiß. Zur Entfernung farbiger Flecken werden meist Bleichmittel auf Sauerstoffbasis verwendet, z. B. für Tee oder Ketchup. "}
+{"text":" Beachten Sie bei jedem Reiniger die Herstellerhinweise., "}
+{"text":" Geeignete Reinigungsmittel können online über unsere Internetseite oder über den Kundendienst bezogen werden. "}
+{"text":"  Solo-Reiniger sind Produkte, die neben dem Reiniger keine weiteren Komponenten enthalten, z. B. Pulverreiniger oder Flüssigreiniger., "}
+{"text":" Mit Pulverreiniger und Flüssigreiniger kann die Dosierung an den Verschmutzungsgrad des Geschirrs individuell angepasst werden., "}
+{"text":" Um ein besseres Spülergebnis und Trocknungsergebnis zu erhalten und um Geräteschäden zu vermeiden, verwenden Sie zusätzlich Spezialsalz und Klarspüler . "}
+{"text":"  Neben herkömmlichen Solo-Reinigern werden eine Reihe von Produkten mit zusätzlichen Funktionen angeboten. Diese Produkte enthalten neben dem Reiniger auch Klarspüler und Salzersatzstoffe (3in1) und je nach Kombination (4in1, 5in1, ...) zusätzliche Komponenten, wie z. B. Glasschutz oder Edelstahlglanz., "}
+{"text":"p  Kombinierte Reiniger funktionieren laut Herstellerangabe in der Regel nur bis zu einem Wasserhärtegrad von 21   °dH . Über einem Wasserhärtegrad von 21   °dH müssen Sie Spezialsalz und Klarspüler zugeben. Für beste Spülergebnisse und Trocknungsergebnisse empfehlen wir ab einem Wasserhärtegrad von 14   °dH die Verwendung von Spezialsalz und Klarspüler. Wenn Sie kombinierte Reiniger verwenden, passt sich das Spülprogramm automatisch an, um das bestmögliche Spülergebnis und Trocknungsergebnis zu erhalten., "}
+{"text":"  Verwenden Sie keine Reiniger, die Geräteschäden verursachen können oder die Gesundheit gefährden., "}
+{"text":"  Beachten Sie die Hinweise zu Reinigern im täglichen Gebrauch., "}
+{"text":" Um die Reinigerkammer zu öffnen, den Verschlussriegel drücken., "}
+{"text":" Reiniger in die trockene Reinigerkammer füllen. Wenn Sie Tabs verwenden, genügt eine Tablette. Tabs quer einlegen. Wenn Sie Pulverreiniger oder Flüssigreiniger verwenden, beachten Sie die Dosierungshinweise des Herstellers und die Dosierungseinteilung der Reinigerkammer. Bei normaler Verschmutzung genügen 20 ml – 25 ml Reiniger. Bei wenig verschmutztem Geschirr genügt eine etwas geringere als die angegebene Reinigermenge., "}
+{"text":" Den Deckel der Reinigerkammer schließen. Der Deckel rastet hörbar ein. Die Reinigerkammer öffnet sich programmabhängig automatisch zum optimalen Zeitpunkt während des Programmablaufs. Pulverreiniger oder Flüssigreiniger verteilen sich im Spülbehälter und werden aufgelöst. Tabs fallen in die Tab-Auffangschale und lösen sich dosiert auf. Legen Sie keine Gegenstände in die Tab-Auffangschale, damit sich das Tab gleichmäßig auflösen kann. "}
+{"text":"  Spülen Sie nur Geschirr, das für die Spülmaschine geeignet ist., "}
+{"text":"hint  Aufglasdekore, Aluminiumteile und Silberteile können beim Spülen verblassen oder sich verfärben. Empfindliche Glassorten können nach einigen Spülgängen trüb werden., "}
+{"text":"  Vermeiden Sie Glasschäden und Geschirrschäden., "}
+{"text":"  Räumen Sie das Geschirr richtig ein, um das Spülergebnis zu optimieren und Schäden an Geschirr sowie dem Gerät zu vermeiden., "}
+{"text":" Wenn Sie das Gerät nutzen, sparen Sie Energie und Wasser im Vergleich zur Handwäsche., "}
+{"text":" Auf unserer Internetseite finden Sie kostenlose Beispiele, wie Sie Ihr Gerät effizient einräumen können., "}
+{"text":" Um Energie und Wasser zu sparen, beladen Sie das Gerät bis zur angegeben Anzahl der Maßgedecke. Technische Daten, "}
+{"text":" Um bessere Spülergebnisse und Trocknungsergebnisse zu erhalten, stellen Sie Teile mit Wölbungen und Vertiefungen schräg, damit Wasser ablaufen kann. "}
+{"text":" Grobe Speisereste vom Geschirr entfernen. Um Ressourcen zu sparen, das Geschirr nicht unter fließendem Wasser vorspülen., "}
+{"text":" Das Geschirr einräumen und dabei Folgendes beachten Räumen Sie stark verschmutztes Geschirr in den unteren Geschirrkorb ein, z. B. Töpfe. Aufgrund des stärkeren Sprühstrahls erhalten Sie ein besseres Spülergebnis. Um Geschirrschäden zu vermeiden, räumen Sie Geschirr mit einem sicheren und kippfesten Stand ein. Um Verletzungen zu vermeiden, räumen Sie Besteck mit der spitzen und scharfen Seite nach unten ein. Stellen Sie Gefäße mit Öffnungen nach unten, damit sich kein Wasser im Gefäß ansammelt. Blockieren Sie nicht die Sprüharme, damit sich diese drehen können. Legen Sie keine Kleinteile in die Tab-Auffangschale und versperren Sie diese nicht mit Geschirr, um den Deckel der Reinigerkammer "}
+{"text":"nicht zu blockieren. "}
+{"text":" Um herabfallende Wassertropfen auf dem Geschirr zu vermeiden, das Geschirr von unten nach oben ausräumen., "}
+{"text":" Den Spülbehälter und das Zubehör auf Verschmutzungen prüfen und gegebenenfalls reinigen. Reinigen und Pflegen "}
+{"text":"  Heißes Geschirr kann Verbrennungen auf der Haut verursachen. Heißes Geschirr ist stoßempfindlich, kann zerbrechen und zu Verletzungen führen., "}
+{"text":"safety-  Geschirr nach Programmende noch etwas abkühlen lassen und dann erst ausräumen. "}
+{"text":"  Damit Ihr Gerät lange funktionsfähig bleibt, reinigen und pflegen Sie es sorgfältig., "}
+{"text":" Grobe Verunreinigungen im Innenraum mit einem feuchten Tuch entfernen., "}
+{"text":" Reiniger in die Reinigerkammer füllen., "}
+{"text":" Programm mit höchster Temperatur wählen. Programme, "}
+{"text":" Das Programm ohne Geschirr starten. "}
+{"text":"  Die Verwendung von chlorhaltigen Reinigern kann zu Gesundheitsschäden führen., "}
+{"text":"safety-  Nie chlorhaltige Reiniger verwenden. "}
+{"text":"  Verwenden Sie nur geeignete Reinigungsmittel für die Gerätereinigung., "}
+{"text":"p  Sicherer Gebrauch, "}
+{"text":"  Beachten Sie die Tipps zur Gerätepflege, um die Funktion Ihres Geräts dauerhaft zu erhalten., "}
+{"text":"  Ablagerungen können zu Störungen an Ihrem Gerät führen, z. B. durch Speiserückstände und Kalk. Um Störungen zu vermeiden und die Geruchsbildung zu reduzieren, reinigen Sie das Gerät in regelmäßigen Abständen., "}
+{"text":" Maschinenpflege ist in Verbindung mit Maschinenpflegemitteln und Maschinenreinigern das geeignete Programm zur Pflege Ihres Geräts., "}
+{"text":" Maschinenpflege ist ein Programm, das in einem Spülgang unterschiedliche Ablagerungen entfernt. Die Reinigung erfolgt in zwei Phasen, "}
+{"text":" Für die optimale Reinigungsleistung dosiert das Programm die Reiniger getrennt voneinander in der entsprechenden Reinigungsphase. Hierfür ist die richtige Platzierung der Reiniger erforderlich., "}
+{"text":" Wenn die Anzeige für Maschinenpflege in der Bedienblende leuchtet oder das Display dazu rät, führen Sie die Maschinenpflege ohne Geschirr durch. Nachdem Sie die Maschinenpflege durchgeführt haben, erlischt die Anzeige. Wenn Ihr Gerät keine Erinnerungsfunktion besitzt, empfehlen wir, die Maschinenpflege alle 2 Monate durchzuführen. "}
+{"text":"hint  Unseren getesteten und freigegebenen Maschinenpfleger und Maschinenreiniger für Geschirrspülmaschinen erhalten Sie im Internet unter oder über den Kundendienst., "}
+{"text":"  Wenn die Anzeige für Maschinenpflege in der Bedienblende leuchtet oder das Display dazu rät, führen Sie das Programm Maschinenpflege durch., "}
+{"text":" Führen Sie das Programm Maschinenpflege ohne eingeräumtes Geschirr durch., "}
+{"text":" Verwenden Sie nur speziell für Geschirrspüler geeignete Maschinenpflegemittel und Maschinenreiniger., "}
+{"text":" Achten Sie darauf, dass sich keine Aluminiumteile, z. B. Fettfilter von Dunstabzugshauben oder Aluminium-Töpfe, im Spülraum des Geräts befinden., "}
+{"text":" Wenn Sie die Maschinenpflege nach 3 Spülgängen nicht durchgeführt haben, erlischt die Anzeige für Maschinenpflege automatisch., "}
+{"text":" Um die optimale Reinigungsleistung zu erhalten, achten Sie auf die korrekte Platzierung der Reiniger., "}
+{"text":" Beachten Sie die Sicherheitshinweise auf den Verpackungen von Maschinenpflegemitteln und Maschinenreinigern., "}
+{"text":" Schalten Sie die Funktion Extra Clean Zone zu. "}
+{"text":" Grobe Verunreinigungen im Innenraum mit einem feuchten Tuch entfernen., "}
+{"text":" Die Siebe reinigen., "}
+{"text":" Das Maschinenpflegemittel im Innenraum des Geräts platzieren. Verwenden Sie nur speziell für Geschirrspüler geeignete Maschinenpflegemittel., "}
+{"text":" Den Maschinenreiniger in die Reinigerkammer füllen bis diese vollständig gefüllt ist. Keinen Maschinenreiniger zusätzlich in den Innenraum des Geräts geben., "}
+{"text":" drücken., "}
+{"text":" drücken. "}
+{"text":"  Das Siebsystem filtert grobe Verunreinigungen aus dem Spülkreislauf., "}
+{"text":"  Verunreinigungen aus dem Spülwasser können die Siebe verstopfen., "}
+{"text":" Nach jedem Spülen die Siebe auf Rückstände kontrollieren., "}
+{"text":" Das Grobsieb gegen den Uhrzeigersinn drehen und das Siebsystem herausnehmen . Darauf achten, dass keine Fremdkörper in den Pumpentopf fallen., "}
+{"text":" Das Mikrosieb nach unten abziehen., "}
+{"text":" Die Rastnasen zusammendrücken und das Grobsieb nach oben herausnehmen ., "}
+{"text":" Unter fließendem Wasser die Siebelemente reinigen. Den Schmutzrand zwischen Grobsieb und Feinsieb sorgfältig reinigen., "}
+{"text":" Das Siebsystem zusammenbauen. Beachten Sie, dass am Grobsieb die Rastnasen eingerastet sind., "}
+{"text":" Das Siebsystem in das Gerät einsetzen und das Grobsieb im Uhrzeigersinn drehen. Beachten Sie, dass sich die Pfeilmarkierungen gegenüberstehen. "}
+{"text":"  Kalk und Verunreinigungen aus dem Spülwasser können die Düsen und Lagerungen der Sprüharme blockieren. Reinigen Sie die Sprüharme regelmäßig., "}
+{"text":" Den oberen Sprüharm abschrauben und nach unten abziehen ., "}
+{"text":" Den unteren Sprüharm nach oben abziehen., "}
+{"text":" Unter fließendem Wasser die Austrittsdüsen der Sprüharme auf Verstopfungen prüfen und gegebenenfalls Fremdkörper entfernen., "}
+{"text":" Den unteren Sprüharm einsetzen. Der Sprüharm rastet hörbar ein., "}
+{"text":" Den oberen Sprüharm einsetzen und festschrauben. "}
+{"text":"  Erfahren Sie hier, wie Sie bei Störungen an Ihrem Gerät vorgehen können, "}
+{"text":"  Kleinere Störungen an Ihrem Gerät können Sie selbst beheben. Nutzen Sie die Informationen zur Störungsbehebung, bevor Sie den Kundendienst kontaktieren. So vermeiden Sie unnötige Kosten., "}
+{"text":"  Unsachgemäße Reparaturen sind gefährlich., "}
+{"text":"safety-  Nur dafür geschultes Fachpersonal darf Reparaturen am Gerät durchführen. Nur Original-Ersatzteile dürfen zur Reparatur des Geräts verwendet werden. Wenn die Netzanschlussleitung dieses Geräts beschädigt wird, muss sie durch eine besondere Anschlussleitung ersetzt werden, die beim Hersteller oder bei seinem Kundendienst erhältlich ist. "}
+{"text":"  Aktivieren Sie die automatische Türöffnung. Übersicht der Grundeinstellungen, "}
+{"text":"  Stellen Sie die Gerätetür mit Hilfe der Montageanleitung richtig ein. Der Türspalt muss mindestens 70 mm bis 100 mm betragen., "}
+{"text":"  Reinigen Sie die Gerätetür und die Türdichtung mit einem feuchten Tuch und etwas Spülmittel., "}
+{"text":"  Verwenden Sie zum Einstellen des Türspalts die Schrauben in der Größe 4X30. Die Schrauben sind im Lieferumfang enthalten. Wenn Sie zu lange Schrauben verwenden, kann das die Funktion der automatischen Türöffnung deaktivieren., "}
+{"text":"  Rufen Sie den Kundendienst., "}
+{"text":"  Stellen Sie die Gerätetür mit Hilfe der Montageanleitung richtig ein. Der Türspalt muss mindestens 70 mm bis 100 mm betragen., "}
+{"text":"  Verwenden Sie zum Einstellen des Türspalts die Schrauben in der Größe 4X30. Die Schrauben sind im Lieferumfang enthalten. Wenn Sie zu lange Schrauben verwenden, kann das die Funktion der automatischen Türöffnung deaktivieren., "}
+{"text":"  Räumen Sie die Geschirrteile so in das Gerät, dass die Ansaugöffnung des Zeolith-Behälters frei ist., "}
+{"text":" Entkalken Sie das Gerät., "}
+{"text":" Betreiben Sie das Gerät mit der . "}
+{"text":" Schließen Sie den Wasserhahn., "}
+{"text":" Rufen Sie den Kundendienst . "}
+{"text":" Schließen Sie den Wasserhahn., "}
+{"text":" Rufen Sie den Kundendienst . "}
+{"text":" Schließen Sie den Wasserhahn., "}
+{"text":" Rufen Sie den Kundendienst . "}
+{"text":"  Verlegen Sie den Zulaufschlauch knickfrei., "}
+{"text":"  Öffnen Sie den Wasserhahn., "}
+{"text":"  Öffnen Sie den Wasserhahn. Die Durchflussmenge muss bei geöffnetem Wasserzulauf mindestens 10 l/min betragen., "}
+{"text":" Schalten Sie das Gerät aus., "}
+{"text":" Ziehen Sie den Netzstecker., "}
+{"text":" Drehen Sie den Wasserhahn zu., "}
+{"text":" Schrauben Sie den Wasseranschluss ab., "}
+{"text":" Nehmen Sie das Sieb aus dem Zulaufschlauch, "}
+{"text":"  Reinigen Sie die Siebe. Siebe reinigen, "}
+{"text":" Verlegen Sie den Abwasserschlauch knickfrei., "}
+{"text":" Entfernen Sie Rückstände. "}
+{"text":"  Prüfen Sie den Anschluss am Siphon und öffnen Sie diesen bei Bedarf., "}
+{"text":"  Rasten Sie die Abdeckung der Abwasserpumpe richtig ein., "}
+{"text":"  Reinigen Sie die Abwasserpumpe. Abwasserpumpe reinigen, "}
+{"text":"  Rasten Sie die Abdeckung der Abwasserpumpe richtig ein., "}
+{"text":"  Es liegt kein Gerätefehler vor., "}
+{"text":" Rufen Sie einen Elektriker., "}
+{"text":" Lassen Sie die Netzspannung und die Elektroinstallation durch den Elektriker prüfen. "}
+{"text":" Drücken Sie ., "}
+{"text":" Ziehen Sie den Netzstecker des Geräts oder schalten Sie die Sicherung aus., "}
+{"text":" Warten Sie mindestens 2 Minuten., "}
+{"text":" Den Netzstecker des Geräts in eine Steckdose stecken oder die Sicherung einschalten., "}
+{"text":" Schalten Sie das Gerät ein., "}
+{"text":" Wenn das Problem erneut auftritt Drücken Sie . Schließen Sie den Wasserhahn. Ziehen Sie den Netzstecker. Kontaktieren Sie den Kundendienst und nennen Sie den Fehlercode. "}
+{"text":" Füllen Sie Klarspüler ein., "}
+{"text":" Stellen Sie die Klarspülerzugabemenge ein. Klarspülerzugabemenge einstellen "}
+{"text":"  Wählen Sie ein Programm mit Trocknung, z. B. Intensiv-, Stark- oder ECO Programm. Einige Optionstasten verringern das Trockenergebnis, z. B. Variospeed., "}
+{"text":" Räumen Sie Geschirr möglichst schräg ein., "}
+{"text":" Verwenden Sie Klarspüler um die Trocknungsleistung zu erhöhen., "}
+{"text":" Verwenden Sie einen anderen kombinierten Reiniger mit einer besseren Trocknungsleistung. "}
+{"text":"  Aktivieren Sie Extratrocknen ., "}
+{"text":" Warten Sie das Programmende ab., "}
+{"text":" Entnehmen Sie das Geschirr erst 30 Minuten nach Programmende. "}
+{"text":"  Verwenden Sie Markenklarspüler. Öko-Produkte können eine eingeschränkte Wirkungsleistung aufweisen., "}
+{"text":"  Stellen Sie die Gerätetür mit Hilfe der Montageanleitung richtig ein. Der Türspalt muss mindestens 70 mm bis 100 mm betragen., "}
+{"text":"  Keine Abhilfe möglich., "}
+{"text":"  An den Anlagestellen des Bestecks können sich Tropfen bilden., "}
+{"text":" Räumen Sie das Besteck nach Möglichkeit vereinzelt ein. , "}
+{"text":" Vermeiden Sie Anlagestellen. "}
+{"text":"  Keine Handlung notwendig., "}
+{"text":" Räumen Sie das Geschirr mit ausreichend Freiraum ein. Die Sprühstrahlen müssen die Geschirroberfläche erreichen., "}
+{"text":" Vermeiden Sie Anlagestellen. "}
+{"text":"  Räumen Sie das Geschirr so ein, dass das Geschirr die Sprüharmdrehung nicht behindert., "}
+{"text":"  Reinigen Sie die Sprüharme ., "}
+{"text":"  Reinigen Sie die Siebe. Siebe reinigen, "}
+{"text":" Setzen Sie die Siebe richtig ein. Siebsystem, "}
+{"text":" Verrasten Sie die Siebe. "}
+{"text":"  Wählen Sie ein stärkeres Spülprogramm. Programme, "}
+{"text":"  Passen Sie die Empfindlichkeit der Sensorik an. Sensoren, "}
+{"text":"  Entfernen Sie nur grobe Speisereste und spülen Sie das Geschirr nicht vor., "}
+{"text":"  Passen Sie die Empfindlichkeit der Sensorik an. Sensoren, "}
+{"text":"  Räumen Sie hohe, schmale Gefäße nicht zu schräg und nicht im Eckbereich ein., "}
+{"text":"  Oberen Geschirrkorb links und rechts auf die gleiche Höhe einstellen., "}
+{"text":" Räumen Sie Geschirr im oberen Geschirrkorb so ein, dass die Tab-Auffangschale nicht durch Geschirr versperrt wird. Geschirr einräumen Die Geschirrteile blockieren den Reinigerdeckel., "}
+{"text":" Platzieren Sie kein Geschirr und keine Duftspender in der Tab-Auffangschale. "}
+{"text":"  Legen Sie den Tab quer in die Reinigerkammer und nicht hochkant., "}
+{"text":"  Wählen Sie ein stärkeres Programm oder verwenden Sie Pulverreiniger ., "}
+{"text":"  Wechseln Sie den Reiniger ., "}
+{"text":"  Stärkeres Programm wählen. Programme, "}
+{"text":"  Räumen Sie das Geschirr schräg ein. Geschirr einräumen, "}
+{"text":"  Verwenden Sie Klarspüler. Klarspüler , "}
+{"text":"  Stellen Sie die Enthärtungsanlage höher ein., "}
+{"text":"  Wechseln Sie den Reiniger ., "}
+{"text":"  Reinigen Sie das Gerät mechanisch., "}
+{"text":" Stellen Sie die Enthärtungsanlage richtig ein. In den meisten Fällen müssen Sie die Einstellung erhöhen., "}
+{"text":" Wechseln Sie bei Bedarf den Reiniger. "}
+{"text":"  Drehen Sie den Spezialsalzbehälter zu., "}
+{"text":"  Wechseln Sie den Reiniger ., "}
+{"text":"  Reinigen Sie das Gerät mechanisch., "}
+{"text":"  Stellen Sie die auf die Wasserhärte ein oder füllen Sie Spezialsalz nach., "}
+{"text":"  Stellen Sie die auf die Wasserhärte ein und verwenden Sie getrennte Mittel (Markenreiniger, Spezialsalz, Klarspüler)., "}
+{"text":"  Erhöhen Sie die Dosierung des Reinigers oder wechseln Sie den Reiniger ., "}
+{"text":"  Wählen Sie ein stärkeres Spülprogramm. Programme, "}
+{"text":"  Passen Sie die Empfindlichkeit der Sensorik an. Sensoren, "}
+{"text":"  Wählen Sie ein Programm mit höherer Spültemperatur. Programme , "}
+{"text":"  Verwenden Sie einen geeigneten Reiniger und dosieren Sie diesen nach den Herstellerangaben., "}
+{"text":"  Entfernen Sie nur grobe Speisereste und spülen Sie das Geschirr nicht vor., "}
+{"text":"  Passen Sie die Empfindlichkeit der Sensorik an. Sensoren, "}
+{"text":"  Reinigen Sie das Gerät. Sie können die Beläge mit einer mechanischen Reinigung oder einem Maschinenreiniger entfernen. Die Beläge sind nicht immer vollständig entfernbar, jedoch gesundheitlich unbedenklich., "}
+{"text":"  Reinigen Sie das Gerät. Sie können die Beläge mit einer mechanischen Reinigung oder einem Maschinenreiniger entfernen. Die Beläge sind nicht immer vollständig entfernbar, jedoch gesundheitlich unbedenklich., "}
+{"text":" Prüfen Sie die Einstellung der Enthärtungsanlage., "}
+{"text":" Füllen Sie Spezialsalz ein. Spezialsalz einfüllen, "}
+{"text":" Wenn Sie kombinierte Reiniger verwenden (Tabs), aktivieren Sie die Enthärtungsanlage. Beachten Sie die Hinweise zu Reinigern . Hinweise zu Reinigern "}
+{"text":"  Verfärbungen können auftreten und beeinträchtigen nicht die Funktion des Geräts., "}
+{"text":"  Wählen Sie ein Programm mit höherer Spültemperatur. Programme , "}
+{"text":"  Entfernen Sie nur grobe Speisereste und spülen Sie das Geschirr nicht vor., "}
+{"text":"  Passen Sie die Empfindlichkeit der Sensorik an. Sensoren, "}
+{"text":"  Stellen Sie die Klarspüleranlage auf eine niedrigere Stufe., "}
+{"text":"  Klarspüler einfüllen , "}
+{"text":" Räumen Sie Geschirr im oberen Geschirrkorb so ein, dass die Tab-Auffangschale nicht durch Geschirr versperrt wird. Geschirr einräumen Die Geschirrteile blockieren den Reinigerdeckel., "}
+{"text":" Platzieren Sie kein Geschirr und keine Duftspender in der Tab-Auffangschale. "}
+{"text":"  Entfernen Sie nur grobe Speisereste und spülen Sie das Geschirr nicht vor., "}
+{"text":"  Passen Sie die Empfindlichkeit der Sensorik an. Sensoren, "}
+{"text":"  Verwenden Sie spülmaschinenfeste Gläser. Gläser sind meist nur spülmaschinengeeignet, d.h. mit Langzeitverschleiß oder Langzeitveränderungen muss gerechnet werden., "}
+{"text":"  Vermeiden Sie eine lange Dampfphase (Standzeit) nach dem Spülgangende., "}
+{"text":"  Verwenden Sie ein Programm mit niedrigerer Temperatur. Programme , "}
+{"text":"  Stellen Sie die Enthärtungsanlage auf den Wasserhärtegrad ein., "}
+{"text":"  Verwenden Sie einen Reiniger mit Glasschutzkomponente., "}
+{"text":"  Verwenden Sie rostbeständiges Geschirr., "}
+{"text":"  Spülen Sie keine rostenden Teile., "}
+{"text":" Entfernen Sie verschüttetes Spezialsalz aus dem Spülbehälter., "}
+{"text":" Drehen Sie den Verschluss des Spezialsalzbehälters fest zu. "}
+{"text":"  Stellen Sie sicher, dass die Sprüharme nicht blockiert sind und sich frei drehen können., "}
+{"text":"  Füllen Sie Reiniger nur in eine trockene Reinigerkammer., "}
+{"text":"  Füllen Sie umgehend Klarspüler in den Vorratsbehälter. Klarspüler einfüllen , "}
+{"text":"  Entfernen Sie den Klarspüler mit einem Tuch., "}
+{"text":"  Wechseln Sie die Reinigermarke., "}
+{"text":"  Prüfen Sie die drathlose Netzwerkverbindung Ihres Routers., "}
+{"text":"  Aktivieren Sie die drahtlose Netzwerkverbindung an Ihrem Router., "}
+{"text":"  Beachten Sie die für Home Connect mitgelieferten Unterlagen., "}
+{"text":"  Beachten Sie die Supportangaben bei den für Home Connect mitgelieferten Unterlagen., "}
+{"text":"  Füllen Sie Spezialsalz ein., "}
+{"text":"  Verwenden Sie keine Spezialsalztabletten., "}
+{"text":"  Führen Sie weitere Spülgänge durch, bis die Nachfüllanzeige für Spezialsalz leuchtet., "}
+{"text":" Füllen Sie Klarspüler ein., "}
+{"text":" Stellen Sie die Klarspülerzugabemenge ein. Klarspülerzugabemenge einstellen "}
+{"text":"  Klarspülerzugabemenge einstellen., "}
+{"text":"  Führen Sie weitere Spülgänge durch, bis die Nachfüllanzeige für Klarspüler leuchtet., "}
+{"text":" Reinigen Sie die Siebe ., "}
+{"text":" Reinigen Sie die Abwasserpumpe . "}
+{"text":"  Warten Sie das Programmende ab oder brechen Sie das Programm mit ab., "}
+{"text":"  Programm abbrechen , "}
+{"text":"  Warten Sie, bis das Software-Update abgeschlossen ist., "}
+{"text":" Ziehen Sie den Netzstecker oder schalten Sie die Sicherung aus., "}
+{"text":" Warten Sie mindestens 2 Minuten., "}
+{"text":" Schließen Sie das Gerät an das Stromnetz an., "}
+{"text":" Schalten Sie das Gerät ein. "}
+{"text":"  Prüfen Sie die Sicherung im Haus., "}
+{"text":" Prüfen Sie, ob die Steckdose funktioniert., "}
+{"text":" Prüfen Sie, ob das Netzkabel vollständig in die Steckdose und an der Geräterückseite eingesteckt ist. "}
+{"text":"  Schließen Sie die Gerätetür., "}
+{"text":"  Programm abbrechen , "}
+{"text":"  Schließen Sie die Gerätetür., "}
+{"text":" Prüfen Sie die Stromzufuhr., "}
+{"text":" Prüfen Sie die Wasserzufuhr. "}
+{"text":"  Prüfen, ob die Geräterückwand durch eine Steckdose oder nicht demontierten Schlauchhalter eingedrückt wird., "}
+{"text":"  Räumen Sie Geschirr so ein, dass keine Geschirrteile über den Geschirrkorb ragen und die sichere Schließung der Gerätetür verhindern., "}
+{"text":"  Schließen Sie die Gerätetür mit erhöhtem Kraftaufwand., "}
+{"text":"  Prüfen Sie, ob das Gerät richtig eingebaut wurde. Die Gerätetür, das Türdekor oder die Anbauteile dürfen beim Schließen nicht an den Nachbarschränken und der Arbeitsplatte anstoßen., "}
+{"text":"  Entfernen Sie Reinigerreste., "}
+{"text":"  Abhilfe nur in der Hausinstallation möglich., "}
+{"text":"  Räumen Sie Geschirr so ein, dass die Sprüharme nicht am Geschirr anschlagen., "}
+{"text":"  Verteilen Sie das Geschirr gleichmäßig., "}
+{"text":"  Laden Sie mehr Geschirr in das Gerät., "}
+{"text":"  Räumen Sie leichtes Geschirr standsicher ein., "}
+{"text":"  Grobe Speisereste oder Fremdkörper können die Abwasserpumpe blockieren. Sobald das Spülwasser nicht mehr richtig abläuft, müssen Sie die Abwasserpumpe reinigen., "}
+{"text":" Das Gerät vom Stromnetz trennen., "}
+{"text":" Den oberen und unteren Geschirrkorb entnehmen., "}
+{"text":" Das Siebsystem entnehmen., "}
+{"text":" Vorhandenes Wasser ausschöpfen. Gegebenenfalls einen Schwamm zu Hilfe nehmen., "}
+{"text":" Die Pumpenabdeckung mit Hilfe eines Löffels aushebeln und am Steg fassen., "}
+{"text":"  Scharfe und spitze Gegenstände wie Glasscherben können die Abwasserpumpe blockieren und zu Verletzungen führen., "}
+{"text":"safety-  Fremkörper vorsichtig entfernen. "}
+{"text":"  Wenn Sie Fragen haben, eine Störung am Gerät nicht selbst beheben können oder das Gerät repariert werden muss, wenden Sie sich an unseren Kundendienst., "}
+{"text":" Viele Probleme können Sie durch die Information zur Störungsbehebung in dieser Anleitung oder auf unserer Webseite selbst beheben. Falls dies nicht der Fall ist, wenden Sie sich an unseren Kundendienst., "}
+{"text":" Wir finden immer eine passende Lösung und versuchen unnötige Besuche der Kundendiensttechniker zu vermeiden., "}
+{"text":" Wir stellen sicher, dass Ihr Gerät mit Original-Ersatzteilen von geschultem Kundendienstpersonal im Garantiefall und nach Ablauf der Herstellergarantie repariert wird., "}
+{"text":" Aus Sicherheitsgründen darf nur geschultes Fachpersonal Reparaturen am Gerät durchführen. Der Garantieanspruch erlischt, wenn Reparaturen oder Eingriffe von Personen vorgenommen werden, die hierzu von uns nicht ermächtigt sind, oder wenn unsere Geräte mit Ersatzteilen, Ergänzungs- oder Zubehörteilen versehen werden, die keine Originalteile sind und dadurch ein Defekt verursacht wird., "}
+{"text":" Funktionsrelevante Original-Ersatzteile gemäß der entsprechenden Ökodesign-Verordnung erhalten Sie bei unserem Kundendienst für die Dauer von mindestens 10 Jahren ab dem Inverkehrbringen Ihres Geräts innerhalb des Europäischen Wirtschaftsraums., "}
+{"text":" Detaillierte Informationen über die Garantiezeit und die Garantiebedingungen in Ihrem Land erhalten Sie bei unserem Kundendienst, Ihrem Händler oder auf unserer Webseite., "}
+{"text":" Wenn Sie den Kundendienst kontaktieren, benötigen Sie die Erzeugnisnummer (E-Nr.), die Fertigungsnummer (FD) und die Zählnummer (Z-Nr.) Ihres Geräts., "}
+{"text":" Die Kontaktdaten des Kundendiensts finden Sie im beiliegenden Kundendienstverzeichnis oder auf unserer Webseite. "}
+{"text":"hint  Der Einsatz des Kundendiensts ist im Rahmen der Herstellergarantiebedingungen kostenfrei., "}
+{"text":"  Die Erzeugnisnummer (E-Nr.), die Fertigungsnummer (FD) und die Zählnummer (Z-Nr.) finden Sie auf dem Typenschild des Geräts., "}
+{"text":" Das Typenschild finden Sie auf der Innenseite der Gerätetür., "}
+{"text":" Um Ihre Gerätedaten und die Kundendienst-Telefonnummer schnell wiederzufinden, können Sie die Daten notieren. "}
+{"text":"  Zusätzlich zu Gewährleistungsansprüchen gegen den Verkäufer aus dem Kaufvertrag und zusätzlich zu unserer Herstellergarantie leisten wir Ersatz zu folgenden Bedingungen., "}
+{"text":"  Erfahren Sie hier, wie Sie die Umwelt schonen, "}
+{"text":"  Schonen Sie die Umwelt, indem Sie Ihr Gerät ressourcenschonend gebrauchen und wiederverwendbare Materialien richtig entsorgen., "}
+{"text":"  Die Verpackungsmaterialien sind umweltverträglich und wiederverwertbar., "}
+{"text":"  Die einzelnen Bestandteile getrennt nach Sorten entsorgen., "}
+{"text":"  Wenn Sie diese Hinweise beachten, verbraucht Ihr Gerät weniger Strom und Wasser., "}
+{"text":"  Das Gerät ist mit einem Zeolith-Behälter ausgestattet. Mit der Zeolith-Trocknung kann Energie gespart werden., "}
+{"text":" Zeolith ist ein Mineral, das Feuchtigkeit und Wärmeenergie speichern und wieder abgeben kann., "}
+{"text":" Im Reinigungsschritt wird Wärmeenergie genutzt, um das Spülwasser aufzuheizen und das Mineral zu trocknen., "}
+{"text":" Während der Trocknungsphase wird Feuchtigkeit aus dem Spülraum im Mineral gespeichert und Wärmeenergie freigesetzt. Die Wärmeenergie wird in den Spülraum mit trockener Luft ausgeblasen. Dadurch ist eine schnelle und verbesserte Trocknung möglich., "}
+{"text":" Die Zeolith-Trocknung ist somit sehr energiesparend. "}
+{"text":" Um die Funktionsfähigkeit der Zeolith-Trocknung nicht zu beeinträchtigen, stellen Sie keine Geschirrteile direkt vor die Ansaugöffnung und Ausblasöffnung des Zeolith-Behälters., "}
+{"text":" Stellen Sie keine temperaturempfindlichen Geschirrteile direkt vor die Ausblasöffnung des Zeolith-Behälters. Gerät, "}
+{"text":" Um die Funktionsfähigkeit der Zeolith-Trocknung nicht zu beeinträchtigen, stellen Sie keine Geschirrteile direkt vor die Ansaugöffnung und Ausblasöffnung des Zeolith-Behälters., "}
+{"text":" Stellen Sie keine temperaturempfindlichen Geschirrteile direkt vor die Ausblasöffnung des Zeolith-Behälters. Gerät "}
+{"text":"  Der Aquasensor ist eine optische Messeinrichtung (Lichtschranke), mit der die Trübung des Spülwassers gemessen wird. Mit dem Aquasensor kann Wasser gespart werden., "}
+{"text":"p  Der Einsatz des Aquasensors erfolgt programmspezifisch. Ist die Verschmutzung stark, wird das Spülwasser abgepumpt und durch Frischwasser ersetzt. Ist die Verschmutzung geringer, wird das Spülwasser in den nächsten Spülgang übernommen und der Wasserverbrauch kann um 3-6 Liter gesenkt werden. In den Automatikprogrammen werden zusätzlich Temperatur und Laufzeit dem Verschmutzungsgrad angepasst., "}
+{"text":"  Die Sensorik passt den Programmablauf und die Programmstärke in den Auto-Programmen je nach Schmutzmenge und Schmutzart an., "}
+{"text":"p  Die Sensorik hat verschiedene Empfindlichkeitsstufen, die Sie in den Grundeinstellungen ändern können. Grundeinstellungen ändern, "}
+{"text":"  Die Gerätetür öffnet sich während der Trocknungsphase automatisch. Dadurch wird eine besonders ökonomische Trocknung erreicht., "}
+{"text":" Für beste Trocknungsergebnisse warten Sie das Programmende ab, bevor Sie das Geschirr ausräumen. Das Programm ist beendet, wenn das Display Fertig zeigt., "}
+{"text":" Wenn die automatische Türöffnung deaktiviert ist, erhöht sich der Energieverbrauch und die Trocknungsphase wird meist verkürzt., "}
+{"text":" Übersicht der Grundeinstellungen "}
+{"text":"  Erfahren Sie hier, wie Sie Ihr Gerät für den Transport und die Lagerung vorbereiten. Außerdem erfahren Sie, wie sie Altgeräte entsorgen., "}
+{"text":" Das Gerät vom Stromnetz trennen., "}
+{"text":" Den Wasserhahn zudrehen., "}
+{"text":" Den Abwasseranschluss lösen., "}
+{"text":" Den Trinkwasseranschluss lösen., "}
+{"text":" Wenn vorhanden, die Befestigungsschrauben zu den Möbelteilen lösen., "}
+{"text":" Wenn vorhanden, das Sockelbrett demontieren., "}
+{"text":" Das Gerät vorsichtig herausziehen und den Schlauch nachziehen. "}
+{"text":"  Wenn das Gerät in einem frostgefährdeten Raum steht, z. B. in einem Ferienhaus, entleeren Sie das Gerät vollständig., "}
+{"text":"  Das Gerät entleeren. , "}
+{"text":"  Um Geräteschäden zu vermeiden, entleeren Sie das Gerät vor dem Transport., "}
+{"text":"hint  Damit kein Restwasser in die Maschinensteuerung gelangt und zu Geräteschäden führt, das Gerät nur aufrecht transportieren., "}
+{"text":" Geschirr aus dem Gerät entnehmen., "}
+{"text":" Lose Teile sichern., "}
+{"text":" Das Gerät einschalten., "}
+{"text":" Das Programm mit der höchsten Temperatur wählen. Programme, "}
+{"text":" Das Programm starten., "}
+{"text":" Um das Gerät zu entleeren, das Programm nach ca. 4 Minuten abbrechen. Programm abbrechen, "}
+{"text":" Das Gerät ausschalten., "}
+{"text":" Den Wasserhahn schließen., "}
+{"text":" Um das Restwasser aus dem Gerät zu entleeren, den Zulaufschlauch lösen und auslaufen lassen. "}
+{"text":"  Durch umweltgerechte Entsorgung können wertvolle Rohstoffe wiederverwendet werden., "}
+{"text":" Den Netzstecker der Netzanschlussleitung ziehen., "}
+{"text":" Die Netzanschlussleitung durchtrennen., "}
+{"text":" Das Gerät umweltgerecht entsorgen. "}
+{"text":"  Kinder können sich im Gerät einsperren und in Lebensgefahr geraten., "}
+{"text":"safety-  Bei ausgedienten Geräten den Netzstecker der Netzanschlussleitung ziehen, danach die Netzanschlussleitung durchtrennen und das Schloss der Gerätetür so weit zerstören, dass die Gerätetür nicht mehr schließt. "}

@@ -1,1335 +1,1242 @@
 {
-    "@file-name": "147492235.html",
-    "@class": "Reference",
+    "@file-name": "1558106891.html",
+    "@class": "Concept",
     "@type": "TextNode",
-    "@base-id": "147492235",
+    "@base-id": "1558106891",
     "@chapternumbering": "yes",
     "@showintoc": "yes",
     "@aspect-name": "de",
     "@specific-culture": "de-DE",
     "@format": "standard",
-    "@id": "99079191949643147-11",
-    "@icon-name": "productdescription",
+    "@id": "108086392614998795-11",
     "@is-page": "true",
-    "@childrencount": "0",
+    "@childrencount": "3",
     "@is-distributor": "false",
     "@level": "3",
     "@timestamp": "20210303102313000529",
-    "title": {"$": "Gerät"},
-    "shortdesc":     {
-        "@class": "TextModule2",
-        "@base-id": "183780619",
-        "@chapternumbering": "yes",
-        "@showintoc": "yes",
-        "@linkid": "793488652",
-        "@fragment-element": "shortdesc",
-        "@aspect-name": "de",
-        "@specific-culture": "de-DE",
-        "@ref": "9007199438521611",
-        "@title": "shortdesc_Appliance",
-        "@id": "9007199438521611-11",
-        "$": "Hier finden Sie eine Übersicht über die Bestandteile Ihres Geräts."
-    },
-    "image-container":     {
-        "@type": "img_original",
-        "@image-page": "true-imageInReferenceNode",
-        "calloutMap": {"BSHCollectionOfElements":         [
-            {"callout":             {
-                "@legend-number": "2",
-                "@hotspot-id": "AP_rk"
-            }},
-            {"callout": ""},
-            {"callout":             {
-                "@legend-number": "1",
-                "@hotspot-id": "AP_ty"
-            }},
-            {"callout":             {
-                "@legend-number": "3",
-                "@hotspot-id": "AP_uk"
-            }},
-            {"callout":             {
-                "@legend-number": "4",
-                "@hotspot-id": "AP_vs"
-            }},
-            {"callout":             {
-                "@legend-number": "5",
-                "@hotspot-id": "AP_us"
-            }},
-            {"callout":             {
-                "@legend-number": "6",
-                "@hotspot-id": "AP_ta"
-            }},
-            {"callout":             {
-                "@legend-number": "7",
-                "@hotspot-id": "AP_ok"
-            }},
-            {"callout":             {
-                "@legend-number": "8",
-                "@hotspot-id": "AP_bs"
-            }},
-            {"callout": ""},
-            {"callout":             {
-                "@legend-number": "9",
-                "@hotspot-id": "AP_ib"
-            }},
-            {"callout":             {
-                "@legend-number": "10",
-                "@hotspot-id": "AP_et"
-            }},
-            {"callout":             {
-                "@legend-number": "11",
-                "@hotspot-id": "AP_os"
-            }},
-            {"callout":             {
-                "@legend-number": "12",
-                "@hotspot-id": "AP_ao"
-            }},
-            {"callout":             {
-                "@legend-number": "13",
-                "@hotspot-id": "AP_zb"
-            }},
-            {"callout":             {
-                "@legend-number": "14",
-                "@hotspot-id": "AP_si"
-            }},
-            {"callout":             {
-                "@legend-number": "15",
-                "@hotspot-id": "AP_vk"
-            }}
-        ]},
-        "img":         {
-            "@src": "700095628",
-            "@id": "3672552459",
-            "@name": "AP_3-Bel_Innenbeleuchtung_Zeolith_01-15_ref_R_1186",
-            "@type": "st4-svg",
-            "@class": "VectorGraphics",
-            "@link-id": "99079192502246540",
-            "@label": "700095628",
-            "@width": "4252",
-            "@height": "4252",
-            "@dpi": "900",
-            "@aspect": "de",
-            "@source-aspect": "All",
-            "@width-cm": "12.00008888888889",
-            "@height-cm": "12.00008888888889",
-            "@href": "Images/svg/3672552459__sq__Original.svg"
-        },
-        "properties":         {
-            "@flipTable": "false",
-            "@presentation": "table",
-            "@propertie-count": "3",
-            "@relcolwidth": "10 35 55",
-            "@hsdl-percent": "10% 35% 55%",
-            "property":             [
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359469835",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "39DDD906-88A5-473D-B7BE-0F80CC31A4FE",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868951819",
-                    "@title": "property_rating plate",
-                    "@id": "18014398868951819-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_ty",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/1.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Typenschild"
-                    }},
-                    "propdesc": {"p":                     [
-                                                {
-                            "@context": "Cond",
-                            "$":                             [
-                                "Typenschild mit",
-                                {"link":                                 {
-                                    "@BSH-Linktype": "Kurzlink",
-                                    "@source-id": "18014398868951819-11",
-                                    "@target-id": "108086391239533067-11",
-                                    "@use": "grab",
-                                    "@target": "Erzeugnisnummer (E-Nr.) und Fertigungsnummer (FD)",
-                                    "@name": "RelatedTopic",
-                                    "@id": "18014398932307212",
-                                    "@source": "property_rating plate",
-                                    "@target-base-id": "182641163",
-                                    "@external": "0",
-                                    "@linkid": "422825228",
-                                    "@arrow": "after",
-                                    "$": "E-Nummer und FD-Nummer"
-                                }},
-                                "."
-                            ]
-                        },
-                                                {
-                            "@context": "Cond",
-                            "$":                             [
-                                "Die Daten benötigen Sie für den",
-                                {"link":                                 {
-                                    "@BSH-Linktype": "Kurzlink",
-                                    "@source-id": "18014398868951819-11",
-                                    "@target-id": "144115188258262923-11",
-                                    "@use": "grab",
-                                    "@target": "Kundendienst",
-                                    "@name": "RelatedTopic",
-                                    "@id": "18014398869000588",
-                                    "@source": "property_rating plate",
-                                    "@target-base-id": "182407051",
-                                    "@external": "0",
-                                    "@linkid": "359518604",
-                                    "@arrow": "after",
-                                    "$": "Kundendienst"
-                                }},
-                                "."
-                            ]
-                        }
-                    ]}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359468043",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "D7AB5478-C62C-43A3-AAE8-0BC11EB76AC8",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868950027",
-                    "@title": "property_detergent dispenser",
-                    "@id": "18014398868950027-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_rk",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/2.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Reinigerkammer"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@context": "Cond",
-                        "$":                         [
-                            "In die Reinigerkammer füllen Sie",
-                            {"link":                             {
-                                "@BSH-Linktype": "Kurzlink",
-                                "@source-id": "18014398868950027-11",
-                                "@target-id": "90071992694546315-11",
-                                "@use": "grab",
-                                "@target": "Reiniger",
-                                "@name": "RelatedTopic",
-                                "@id": "18014398868998540",
-                                "@source": "property_detergent dispenser",
-                                "@target-base-id": "147136395",
-                                "@external": "0",
-                                "@linkid": "359516556",
-                                "@arrow": "after",
-                                "$": "Reiniger"
-                            }},
-                            "."
-                        ]
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359464459",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "1B8AA0BE-0F57-4CB9-BF87-C6A176DCC8FB",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868946443",
-                    "@title": "property_lower basket",
-                    "@id": "18014398868946443-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_uk",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/3.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Unterer Geschirrkorb"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@class": "TextModule2",
-                        "@base-id": "2307067531",
-                        "@chapternumbering": "yes",
-                        "@showintoc": "yes",
-                        "@linkid": "E0C2E51D-716D-42CD-B935-F2CE88FC0979",
-                        "@fragment-element": "p",
-                        "@aspect-name": "de",
-                        "@specific-culture": "de-DE",
-                        "@ref": "2307067531",
-                        "@title": "p_lower basket",
-                        "@id": "2307067531-11",
-                        "@context": "Cond",
-                        "$": {"link":                         {
-                            "@BSH-Linktype": "Kurzlink",
-                            "@source-id": "2307067531-11",
-                            "@target-id": "45035996774449803-11",
-                            "@use": "grab",
-                            "@target": "Unterer Geschirrkorb",
-                            "@name": "RelatedTopic",
-                            "@id": "2307070348",
-                            "@source": "p_lower basket",
-                            "@target-base-id": "500744843",
-                            "@external": "0",
-                            "@linkid": "2307070348",
-                            "@arrow": "after",
-                            "$": "Unterer Geschirrkorb"
-                        }}
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359395083",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "AA028A01-79DF-48D4-A56E-46D3BBBAB7BF",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868877067",
-                    "@title": "property_dispenser for special salt",
-                    "@id": "18014398868877067-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_vs",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/4.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Vorratsbehälter für Spezialsalz"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@context": "Cond",
-                        "$":                         [
-                            "In den Vorratsbehälter für Spezialsalz füllen Sie Spezialsalz.",
-                            {"link":                             {
-                                "@BSH-Linktype": "Langlink in Properties",
-                                "@source-id": "18014398868877067-11",
-                                "@target-id": "135107990378074379-11",
-                                "@use": "grab",
-                                "@target": "Enthärtungsanlage",
-                                "@name": "RelatedTopic",
-                                "@id": "3559498124",
-                                "@source": "property_dispenser for special salt",
-                                "@target-base-id": "1556959499",
-                                "@external": "0",
-                                "@linkid": "3559498124",
-                                "@dynamic": "true",
-                                "@arrow": "before",
-                                "$": "Enthärtungsanlage"
-                            }}
-                        ]
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359393291",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "6562C793-3863-4870-88DF-720CBE357E9F",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868875275",
-                    "@title": "property_lower spray arm",
-                    "@id": "18014398868875275-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_us",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/5.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Unterer Sprüharm"
-                    }},
-                    "propdesc": {"p":                     [
-                                                {
-                            "@context": "Cond",
-                            "$": "Der untere Sprüharm reinigt das Geschirr im unteren Geschirrkorb."
-                        },
-                                                {
-                            "@context": "Cond",
-                            "$":                             [
-                                "Wenn das Geschirr nicht optimal gereinigt wird, reinigen Sie die Sprüharme.",
-                                {"link":                                 {
-                                    "@BSH-Linktype": "Langlink in Properties",
-                                    "@source-id": "18014398868875275-11",
-                                    "@target-id": "27021597911507339-11",
-                                    "@use": "grab",
-                                    "@target": "Sprüharme reinigen",
-                                    "@name": "RelatedTopic",
-                                    "@id": "18014398869000972",
-                                    "@source": "property_lower spray arm",
-                                    "@target-base-id": "147284363",
-                                    "@external": "0",
-                                    "@linkid": "359518988",
-                                    "@dynamic": "true",
-                                    "@arrow": "before",
-                                    "$": "Sprüharme reinigen"
-                                }}
-                            ]
-                        }
-                    ]}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359387915",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "DAAD26B8-E88F-413F-AE40-EBBE0F89BF9B",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "27021598123610891",
-                    "@title": "property_tablet collecting tray",
-                    "@id": "27021598123610891-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_ta",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/6.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Tab-Auffangschale"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Tabs fallen während des Spülgangs automatisch von der Reinigerkammer in die Tab-Auffangschale, wo diese sich optimal auflösen können."
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359384331",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "C5CD59E6-B118-4187-941C-8045315E5B76",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868866315",
-                    "@title": "property_upper basket",
-                    "@id": "18014398868866315-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_ok",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/7.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Oberer Geschirrkorb"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@class": "TextModule2",
-                        "@base-id": "2307201547",
-                        "@chapternumbering": "yes",
-                        "@showintoc": "yes",
-                        "@linkid": "DE32F7B5-E185-4930-89F4-B6849598F5ED",
-                        "@fragment-element": "p",
-                        "@aspect-name": "de",
-                        "@specific-culture": "de-DE",
-                        "@ref": "2307201547",
-                        "@title": "p_upper basket",
-                        "@id": "2307201547-11",
-                        "@context": "Cond",
-                        "$": {"targetless_link": {"$": "Oberer Geschirrkorb"}}
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "3559523083",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "9A039896-65AC-4BA7-BA51-39C996A9A232",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "9007202814264075",
-                    "@title": "property_cutlery drawer",
-                    "@id": "9007202814264075-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_bs",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/8.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Besteckschublade"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@context": "Cond",
-                        "$": {"link":                         {
-                            "@BSH-Linktype": "Kurzlink",
-                            "@source-id": "9007202814264075-11",
-                            "@target-id": "27021598304940683-11",
-                            "@use": "grab",
-                            "@target": "Besteckschublade",
-                            "@name": "RelatedTopic",
-                            "@id": "9007202814266636",
-                            "@source": "property_cutlery drawer",
-                            "@target-base-id": "540717707",
-                            "@external": "0",
-                            "@linkid": "3559525644",
-                            "@arrow": "after",
-                            "$": "Besteckschublade"
-                        }}
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "3559781259",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "29750D00-AA17-4E8C-B95D-ABE486DDCE30",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "3559781259",
-                    "@title": "property_interior light",
-                    "@id": "3559781259-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_ib",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/9.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "EmotionLight"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@context": "Cond",
-                        "$":                         [
-                            "Innenbeleuchtung des Geräts.",
-                            {"link":                             {
-                                "@BSH-Linktype": "Langlink in Properties",
-                                "@source-id": "3559781259-11",
-                                "@target-id": "117093590458818571-11",
-                                "@use": "grab",
-                                "@target": "Übersicht der Grundeinstellungen",
-                                "@name": "RelatedTopic",
-                                "@id": "3583265804",
-                                "@source": "property_interior light",
-                                "@target-base-id": "147185675",
-                                "@external": "0",
-                                "@linkid": "3583265804",
-                                "@dynamic": "true",
-                                "@arrow": "before",
-                                "$": "Übersicht der Grundeinstellungen"
-                            }}
-                        ]
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "545822987",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "FB93E286-5DBA-4AAF-9748-264F5A8185A2",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "36028797564786955",
-                    "@title": "property_etagere",
-                    "@id": "36028797564786955-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_et",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/10.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$":                         [
-                            "Etagere",
-                            {"footnote":                             {
-                                "@BSH-Linktype": "Langlink in Properties",
-                                "@source-id": "36028797564786955-11",
-                                "@target-id": "9007199438288139-11",
-                                "@use": "grab",
-                                "@name": "RelatedTopic",
-                                "@id": "9007204289979916",
-                                "@source": "property_etagere",
-                                "@target-base-id": "183547147",
-                                "@external": "0",
-                                "@linkid": "5035238924",
-                                "@dynamic": "true",
-                                "@arrow": "before",
-                                "tooltip": {"$": "Je nach Geräteausstattung"}
-                            }}
-                        ]
-                    }},
-                    "propdesc": {"p":                     {
-                        "@context": "Cond",
-                        "$": {"link":                         {
-                            "@BSH-Linktype": "Kurzlink",
-                            "@source-id": "36028797564786955-11",
-                            "@target-id": "18014399050205323-11",
-                            "@use": "grab",
-                            "@target": "Etagere",
-                            "@name": "RelatedTopic",
-                            "@id": "36028797564790284",
-                            "@source": "property_etagere",
-                            "@target-base-id": "540723339",
-                            "@external": "0",
-                            "@linkid": "545826316",
-                            "@arrow": "after",
-                            "$": "Etagere"
-                        }}
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359386123",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "318C6A44-1366-427C-895B-A42C4D6B71EE",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868868107",
-                    "@title": "property_upper spray arm",
-                    "@id": "18014398868868107-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_os",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/11.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Oberer Spüharm"
-                    }},
-                    "propdesc": {"p":                     [
-                                                {
-                            "@context": "Cond",
-                            "$": "Der obere Sprüharm reinigt das Geschirr im oberen Geschirrkorb."
-                        },
-                                                {
-                            "@context": "Cond",
-                            "$":                             [
-                                "Wenn das Geschirr nicht optimal gereinigt wird, reinigen Sie die Sprüharme.",
-                                {"link":                                 {
-                                    "@BSH-Linktype": "Langlink in Properties",
-                                    "@source-id": "18014398868868107-11",
-                                    "@target-id": "27021597911507339-11",
-                                    "@use": "grab",
-                                    "@target": "Sprüharme reinigen",
-                                    "@name": "RelatedTopic",
-                                    "@id": "18014398869000460",
-                                    "@source": "property_upper spray arm",
-                                    "@target-base-id": "147284363",
-                                    "@external": "0",
-                                    "@linkid": "359518476",
-                                    "@dynamic": "true",
-                                    "@arrow": "before",
-                                    "$": "Sprüharme reinigen"
-                                }}
-                            ]
-                        }
-                    ]}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359389707",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "6D3D7BB4-3290-4112-9D5E-79D4D9D3DF41",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868871691",
-                    "@title": "property_intake opening",
-                    "@id": "18014398868871691-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_ao",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/12.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Ansaugöffnung des Zeolith-Behälters"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@context": "Cond",
-                        "$":                         [
-                            "Die Ansaugöffnung wird für die",
-                            {"link":                             {
-                                "@BSH-Linktype": "Kurzlink",
-                                "@source-id": "18014398868871691-11",
-                                "@target-id": "147406091-11",
-                                "@use": "grab",
-                                "@target": "Zeolith-Trocknung",
-                                "@name": "RelatedTopic",
-                                "@id": "18014398868997772",
-                                "@source": "property_intake opening",
-                                "@target-base-id": "147406091",
-                                "@external": "0",
-                                "@linkid": "359515788",
-                                "@arrow": "after",
-                                "$": "Zeolith-Trocknung"
-                            }},
-                            "benötigt."
-                        ]
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359391499",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "FCD0389A-CF1F-4975-A418-107694CD6ED7",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868873483",
-                    "@title": "property_blow opening",
-                    "@id": "18014398868873483-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_zb",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/13.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Ausblasöffnung des Zeolith-Behälters"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@context": "Cond",
-                        "$":                         [
-                            "Die Ausblasöffnung wird für die",
-                            {"link":                             {
-                                "@BSH-Linktype": "Kurzlink",
-                                "@source-id": "18014398868873483-11",
-                                "@target-id": "147406091-11",
-                                "@use": "grab",
-                                "@target": "Zeolith-Trocknung",
-                                "@name": "RelatedTopic",
-                                "@id": "18014398868999308",
-                                "@source": "property_blow opening",
-                                "@target-base-id": "147406091",
-                                "@external": "0",
-                                "@linkid": "359517324",
-                                "@arrow": "after",
-                                "$": "Zeolith-Trocknung"
-                            }},
-                            "benötigt."
-                        ]
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359460875",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "364870BF-E244-4B54-81D5-3C990CA3A6BE",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868942859",
-                    "@title": "property_filter system",
-                    "@id": "18014398868942859-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_si",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/14.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Siebsystem"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@context": "Cond",
-                        "$": {"link":                         {
-                            "@BSH-Linktype": "Kurzlink",
-                            "@source-id": "18014398868942859-11",
-                            "@target-id": "27021597911495179-11",
-                            "@use": "grab",
-                            "@target": "Siebsystem",
-                            "@name": "RelatedTopic",
-                            "@id": "18014398868998028",
-                            "@source": "property_filter system",
-                            "@target-base-id": "147272203",
-                            "@external": "0",
-                            "@linkid": "359516044",
-                            "@arrow": "after",
-                            "$": "Siebsystem"
-                        }}
-                    }}
-                },
-                                {
-                    "@class": "TextModule2",
-                    "@base-id": "359466251",
-                    "@chapternumbering": "yes",
-                    "@showintoc": "yes",
-                    "@linkid": "C8D19EFE-64ED-497A-B1D3-D437C15CF522",
-                    "@fragment-element": "property",
-                    "@aspect-name": "de",
-                    "@specific-culture": "de-DE",
-                    "@ref": "18014398868948235",
-                    "@title": "property_dispenser for rinse aid",
-                    "@id": "18014398868948235-11",
-                    "proptype": {"p":                     {
-                        "@hotspot-id": "AP_vk",
-                        "@context": "Cond",
-                        "$": {"img": {"@href": "assets/img/hotspot/15.svg"}}
-                    }},
-                    "propvalue": {"p":                     {
-                        "@context": "Cond",
-                        "$": "Vorratsbehälter für Klarspüler"
-                    }},
-                    "propdesc": {"p":                     {
-                        "@context": "Cond",
-                        "$":                         [
-                            "In den Vorratsbehälter für Klarspüler füllen Sie Klarspüler.",
-                            {"link":                             {
-                                "@BSH-Linktype": "Langlink in Properties",
-                                "@source-id": "18014398868948235-11",
-                                "@target-id": "108086392614998795-11",
-                                "@use": "grab",
-                                "@target": "Klarspüleranlage",
-                                "@name": "RelatedTopic",
-                                "@id": "3557588364",
-                                "@source": "property_dispenser for rinse aid",
-                                "@target-base-id": "1558106891",
-                                "@external": "0",
-                                "@linkid": "3557588364",
-                                "@dynamic": "true",
-                                "@arrow": "before",
-                                "$": "Klarspüleranlage"
-                            }}
-                        ]
-                    }}
-                }
-            ]
-        }
-    },
+    "title": {"$": "Klarspüleranlage"},
+    "shortdesc": {"$": "Geschirr und Gläser können Sie mit der Klarspüleranlage sowie Klarspüler fleckenlos und klar spülen."},
     "linklist": {"BSHCollectionOfElements":     [
         {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "36028797564786955-11",
-            "@label": "FB93E286-5DBA-4AAF-9748-264F5A8185A2",
+            "@source-id": "108086392614998795-11",
+            "@target-id": "36028797165809803-11",
+            "@label": "9597021708",
             "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "18014408015675404",
-            "@source": "Gerät",
-            "@target-base-id": "545822987",
+            "@target": "Klarspüler",
+            "@name": "InformationLink",
+            "@id": "9007208851762700",
+            "@source": "Klarspüleranlage",
+            "@target-base-id": "146845835",
             "@external": "0"
         }},
         {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "135107990378074379-11",
-            "@label": "2036325260",
-            "@use": "copy",
-            "@target": "Enthärtungsanlage",
-            "@name": "RelatedTopic",
-            "@id": "72057596074253196",
-            "@source": "Gerät",
-            "@target-base-id": "1556959499",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "108086392614998795-11",
-            "@label": "2036325388",
-            "@use": "copy",
-            "@target": "Klarspüleranlage",
-            "@name": "RelatedTopic",
-            "@id": "72057596074253324",
-            "@source": "Gerät",
-            "@target-base-id": "1558106891",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868873483-11",
-            "@label": "FCD0389A-CF1F-4975-A418-107694CD6ED7",
+            "@source-id": "108086392614998795-11",
+            "@target-id": "90071994105719563-11",
+            "@label": "1558306700",
             "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "72057597510969996",
-            "@source": "Gerät",
-            "@target-base-id": "359391499",
+            "@target": "Klarspülerzugabemenge einstellen",
+            "@name": "InformationLink",
+            "@id": "9007208851758476",
+            "@source": "Klarspüleranlage",
+            "@target-base-id": "1558309643",
             "@external": "0"
         }},
         {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868871691-11",
-            "@label": "6D3D7BB4-3290-4112-9D5E-79D4D9D3DF41",
+            "@source-id": "108086392614998795-11",
+            "@target-id": "81064794851030795-11",
+            "@label": "1558358924",
             "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "72057597511041036",
-            "@source": "Gerät",
-            "@target-base-id": "359389707",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "9007202814264075-11",
-            "@label": "9A039896-65AC-4BA7-BA51-39C996A9A232",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "72057597597441804",
-            "@source": "Gerät",
-            "@target-base-id": "3559523083",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "3559781259-11",
-            "@label": "29750D00-AA17-4E8C-B95D-ABE486DDCE30",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "72057597597458828",
-            "@source": "Gerät",
-            "@target-base-id": "3559781259",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868866315-11",
-            "@label": "C5CD59E6-B118-4187-941C-8045315E5B76",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "99079192161535372",
-            "@source": "Gerät",
-            "@target-base-id": "359384331",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868868107-11",
-            "@label": "318C6A44-1366-427C-895B-A42C4D6B71EE",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "99079192161537164",
-            "@source": "Gerät",
-            "@target-base-id": "359386123",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "27021598123610891-11",
-            "@label": "DAAD26B8-E88F-413F-AE40-EBBE0F89BF9B",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "99079192161538956",
-            "@source": "Gerät",
-            "@target-base-id": "359387915",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868875275-11",
-            "@label": "6562C793-3863-4870-88DF-720CBE357E9F",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "99079192161544332",
-            "@source": "Gerät",
-            "@target-base-id": "359393291",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868877067-11",
-            "@label": "AA028A01-79DF-48D4-A56E-46D3BBBAB7BF",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "99079192161546124",
-            "@source": "Gerät",
-            "@target-base-id": "359395083",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868942859-11",
-            "@label": "364870BF-E244-4B54-81D5-3C990CA3A6BE",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "99079192161611916",
-            "@source": "Gerät",
-            "@target-base-id": "359460875",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868946443-11",
-            "@label": "1B8AA0BE-0F57-4CB9-BF87-C6A176DCC8FB",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "99079192161615500",
-            "@source": "Gerät",
-            "@target-base-id": "359464459",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868948235-11",
-            "@label": "C8D19EFE-64ED-497A-B1D3-D437C15CF522",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "99079192161617292",
-            "@source": "Gerät",
-            "@target-base-id": "359466251",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868950027-11",
-            "@label": "D7AB5478-C62C-43A3-AAE8-0BC11EB76AC8",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "99079192161619084",
-            "@source": "Gerät",
-            "@target-base-id": "359468043",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "18014398868951819-11",
-            "@label": "39DDD906-88A5-473D-B7BE-0F80CC31A4FE",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "99079192161620876",
-            "@source": "Gerät",
-            "@target-base-id": "359469835",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "99079191949643147-11",
-            "@target-id": "9007199438521611-11",
-            "@label": "793488652",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleLink",
-            "@id": "99079192595639564",
-            "@source": "Gerät",
-            "@target-base-id": "183780619",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868866315-11",
-            "@target-id": "2307201547-11",
-            "@label": "DE32F7B5-E185-4930-89F4-B6849598F5ED",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "2308310796",
-            "@source": "property_upper basket",
-            "@target-base-id": "2307201547",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868868107-11",
-            "@target-id": "27021597911507339-11",
-            "@label": "359518476",
-            "@use": "grab",
-            "@target": "Sprüharme reinigen",
-            "@name": "RelatedTopic",
-            "@id": "18014398869000460",
-            "@source": "property_upper spray arm",
-            "@target-base-id": "147284363",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868875275-11",
-            "@target-id": "27021597911507339-11",
-            "@label": "359518988",
-            "@use": "grab",
-            "@target": "Sprüharme reinigen",
-            "@name": "RelatedTopic",
-            "@id": "18014398869000972",
-            "@source": "property_lower spray arm",
-            "@target-base-id": "147284363",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868877067-11",
-            "@target-id": "135107990378074379-11",
-            "@label": "3559498124",
-            "@use": "grab",
-            "@target": "Enthärtungsanlage",
-            "@name": "RelatedTopic",
-            "@id": "3559498124",
-            "@source": "property_dispenser for special salt",
-            "@target-base-id": "1556959499",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868942859-11",
-            "@target-id": "27021597911495179-11",
-            "@label": "359516044",
-            "@use": "grab",
-            "@target": "Siebsystem",
-            "@name": "RelatedTopic",
-            "@id": "18014398868998028",
-            "@source": "property_filter system",
-            "@target-base-id": "147272203",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868946443-11",
-            "@target-id": "2307067531-11",
-            "@label": "E0C2E51D-716D-42CD-B935-F2CE88FC0979",
-            "@use": "grab",
-            "@target": "Gerät",
-            "@name": "TextModuleHierarchy",
-            "@id": "2307075980",
-            "@source": "property_lower basket",
-            "@target-base-id": "2307067531",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "2307067531-11",
-            "@target-id": "45035996774449803-11",
-            "@label": "2307070348",
-            "@use": "grab",
-            "@target": "Unterer Geschirrkorb",
-            "@name": "RelatedTopic",
-            "@id": "2307070348",
-            "@source": "p_lower basket",
-            "@target-base-id": "500744843",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868948235-11",
-            "@target-id": "108086392614998795-11",
-            "@label": "3557588364",
-            "@use": "grab",
-            "@target": "Klarspüleranlage",
-            "@name": "RelatedTopic",
-            "@id": "3557588364",
-            "@source": "property_dispenser for rinse aid",
-            "@target-base-id": "1558106891",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868950027-11",
-            "@target-id": "90071992694546315-11",
-            "@label": "359516556",
-            "@use": "grab",
-            "@target": "Reiniger",
-            "@name": "RelatedTopic",
-            "@id": "18014398868998540",
-            "@source": "property_detergent dispenser",
-            "@target-base-id": "147136395",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868951819-11",
-            "@target-id": "144115188258262923-11",
-            "@label": "359518604",
-            "@use": "grab",
-            "@target": "Kundendienst",
-            "@name": "RelatedTopic",
-            "@id": "18014398869000588",
-            "@source": "property_rating plate",
-            "@target-base-id": "182407051",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868951819-11",
-            "@target-id": "108086391239533067-11",
-            "@label": "422825228",
-            "@use": "grab",
-            "@target": "Erzeugnisnummer (E-Nr.) und Fertigungsnummer (FD)",
-            "@name": "RelatedTopic",
-            "@id": "18014398932307212",
-            "@source": "property_rating plate",
-            "@target-base-id": "182641163",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868873483-11",
-            "@target-id": "147406091-11",
-            "@label": "3473024140",
-            "@use": "copy",
-            "@target": "Zeolith-Trocknung",
-            "@name": "RelatedTopic",
-            "@id": "3473024140",
-            "@source": "property_blow opening",
-            "@target-base-id": "147406091",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868873483-11",
-            "@target-id": "147406091-11",
-            "@label": "359517324",
-            "@use": "grab",
-            "@target": "Zeolith-Trocknung",
-            "@name": "RelatedTopic",
-            "@id": "18014398868999308",
-            "@source": "property_blow opening",
-            "@target-base-id": "147406091",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868871691-11",
-            "@target-id": "147406091-11",
-            "@label": "3473024012",
-            "@use": "copy",
-            "@target": "Zeolith-Trocknung",
-            "@name": "RelatedTopic",
-            "@id": "3473024012",
-            "@source": "property_intake opening",
-            "@target-base-id": "147406091",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "18014398868871691-11",
-            "@target-id": "147406091-11",
-            "@label": "359515788",
-            "@use": "grab",
-            "@target": "Zeolith-Trocknung",
-            "@name": "RelatedTopic",
-            "@id": "18014398868997772",
-            "@source": "property_intake opening",
-            "@target-base-id": "147406091",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "9007202814264075-11",
-            "@target-id": "27021598304940683-11",
-            "@label": "3559525644",
-            "@use": "grab",
-            "@target": "Besteckschublade",
-            "@name": "RelatedTopic",
-            "@id": "9007202814266636",
-            "@source": "property_cutlery drawer",
-            "@target-base-id": "540717707",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "3559781259-11",
-            "@target-id": "117093590458818571-11",
-            "@label": "3583265804",
-            "@use": "grab",
-            "@target": "Übersicht der Grundeinstellungen",
-            "@name": "RelatedTopic",
-            "@id": "3583265804",
-            "@source": "property_interior light",
-            "@target-base-id": "147185675",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "36028797564786955-11",
-            "@target-id": "9007199438288139-11",
-            "@label": "5035238924",
-            "@use": "grab",
-            "@name": "RelatedTopic",
-            "@id": "9007204289979916",
-            "@source": "property_etagere",
-            "@target-base-id": "183547147",
-            "@external": "0"
-        }},
-        {"link":         {
-            "@source-id": "36028797564786955-11",
-            "@target-id": "18014399050205323-11",
-            "@label": "545826316",
-            "@use": "grab",
-            "@target": "Etagere",
-            "@name": "RelatedTopic",
-            "@id": "36028797564790284",
-            "@source": "property_etagere",
-            "@target-base-id": "540723339",
+            "@target": "Klarspüleranlage ausschalten",
+            "@name": "InformationLink",
+            "@id": "9007208851759116",
+            "@source": "Klarspüleranlage",
+            "@target-base-id": "1558361867",
             "@external": "0"
         }}
     ]},
-    "image":     {
-        "@id": "3672552459",
-        "@name": "AP_3-Bel_Innenbeleuchtung_Zeolith_01-15_ref_R_1186",
-        "@type": "st4-svg",
-        "@href": "Images/svg/3672552459__de__Original.svg",
-        "@class": "VectorGraphics",
-        "@link-id": "99079192502246540",
-        "@label": "700095628",
-        "@width": "4252",
-        "@height": "4252",
-        "@dpi": "900",
-        "@aspect": "de",
-        "@source-aspect": "All",
-        "@width-cm": "12.00008888888889",
-        "@height-cm": "12.00008888888889",
-        "calloutMap": {"BSHCollectionOfElements":         [
-            {"callout":             {
-                "@legend-number": "2",
-                "@hotspot-id": "AP_rk"
+    "BSHCollectionOfElements":     [
+        {"node":         {
+            "@file-name": "1558106891.html#!/Togglebox=146845835/scrollto=146845835/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "146845835",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "de",
+            "@specific-culture": "de-DE",
+            "@format": "standard",
+            "@id": "36028797165809803-11",
+            "@is-page": "false",
+            "@childrencount": "1",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Klarspüler"},
+            "shortdesc": {"$": "Um optimale Trocknungsergebnisse zu erhalten, verwenden Sie Klarspüler."},
+            "p": {"$": "Verwenden Sie nur Klarspüler für Haushaltsgeschirrspüler."},
+            "linklist": {"link":             {
+                "@source-id": "36028797165809803-11",
+                "@target-id": "36028797165838091-11",
+                "@label": "254773004",
+                "@use": "grab",
+                "@target": "Klarspüler einfüllen",
+                "@name": "InformationHierarchy",
+                "@id": "36028797165838220",
+                "@source": "Klarspüler",
+                "@target-base-id": "146874123",
+                "@external": "0"
             }},
-            {"callout": ""},
-            {"callout":             {
-                "@legend-number": "1",
-                "@hotspot-id": "AP_ty"
-            }},
-            {"callout":             {
-                "@legend-number": "3",
-                "@hotspot-id": "AP_uk"
-            }},
-            {"callout":             {
-                "@legend-number": "4",
-                "@hotspot-id": "AP_vs"
-            }},
-            {"callout":             {
-                "@legend-number": "5",
-                "@hotspot-id": "AP_us"
-            }},
-            {"callout":             {
-                "@legend-number": "6",
-                "@hotspot-id": "AP_ta"
-            }},
-            {"callout":             {
-                "@legend-number": "7",
-                "@hotspot-id": "AP_ok"
-            }},
-            {"callout":             {
-                "@legend-number": "8",
-                "@hotspot-id": "AP_bs"
-            }},
-            {"callout": ""},
-            {"callout":             {
-                "@legend-number": "9",
-                "@hotspot-id": "AP_ib"
-            }},
-            {"callout":             {
-                "@legend-number": "10",
-                "@hotspot-id": "AP_et"
-            }},
-            {"callout":             {
-                "@legend-number": "11",
-                "@hotspot-id": "AP_os"
-            }},
-            {"callout":             {
-                "@legend-number": "12",
-                "@hotspot-id": "AP_ao"
-            }},
-            {"callout":             {
-                "@legend-number": "13",
-                "@hotspot-id": "AP_zb"
-            }},
-            {"callout":             {
-                "@legend-number": "14",
-                "@hotspot-id": "AP_si"
-            }},
-            {"callout":             {
-                "@legend-number": "15",
-                "@hotspot-id": "AP_vk"
-            }}
-        ]}
-    }
+            "node":             {
+                "@file-name": "1558106891.html#!/Togglebox=146845835/scrollto=146874123/",
+                "@class": "UMTask",
+                "@type": "TextNode",
+                "@base-id": "146874123",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@comment": "Fragmentieren für K-GA",
+                "@aspect-name": "de",
+                "@specific-culture": "de-DE",
+                "@format": "standard",
+                "@id": "36028797165838091-11",
+                "@is-page": "false",
+                "@childrencount": "0",
+                "@is-distributor": "false",
+                "@level": "5",
+                "title": {"$": "Klarspüler einfüllen"},
+                "shortdesc":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "780513675",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "DB888D4E-0295-46C5-AA76-FCF6D6E8E9E2",
+                    "@fragment-element": "shortdesc",
+                    "@aspect-name": "de",
+                    "@specific-culture": "de-DE",
+                    "@ref": "36028797799477643",
+                    "@title": "shortdesc_rinse aid refill indicator",
+                    "@id": "36028797799477643-11",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Wenn das Display"},
+                        {"variable":                         {
+                            "@linkid": "1271204620",
+                            "@name": "1061",
+                            "@detailed-topic-type": "Display text",
+                            "@variableType": "Standard",
+                            "@variable": "Bitte Klarspüler nachfüllen. ",
+                            "@variableName": "Klarspüler nachfüllen  ",
+                            "@variant": "1001",
+                            "@variantName": "Bosch - TFT Display",
+                            "$": "\"Bitte Klarspüler nachfüllen. \""
+                        }},
+                        {"$": "zeigt, füllen Sie Klarspüler nach. Verwenden Sie nur Klarspüler für Haushaltsgeschirrspüler."}
+                    ]
+                },
+                "instructions": {"BSHCollectionOfElements":                 [
+                    {"instruction":                     {
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Die Lasche am Deckel des Vorratsbehälters für Klarspüler drücken"},
+                                {"img":                                 {
+                                    "@src": "816501772",
+                                    "@name": "SY_step 1",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/9007199461243915__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028797835465740",
+                                    "@label": "816501772",
+                                    "@dpi": "720",
+                                    "@aspect": "de",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5538611111111111",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5538611111111111",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "und anheben"},
+                                {"img":                                 {
+                                    "@src": "816501900",
+                                    "@name": "SY_step 2",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/9007199461246731__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028797835465868",
+                                    "@label": "816501900",
+                                    "@dpi": "720",
+                                    "@aspect": "de",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5538611111111111",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5538611111111111",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "."}
+                            ]
+                        },
+                        "image-container":                         {
+                            "@type": "img_original",
+                            "@image-page": "true-imageInUMTaskNode",
+                            "img":                             {
+                                "@src": "411395852",
+                                "@name": "OP_R_1004_Zugabe_Klarspueler_Bild1",
+                                "@type": "svg",
+                                "@href": "Images/svg/410266891__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028797430359820",
+                                "@label": "411395852",
+                                "@dpi": "720",
+                                "@aspect": "de",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "6.078361111111111",
+                                "@st4-height-cm": "4.370916666666666",
+                                "@width-cm": "6.078361111111111",
+                                "@height-cm": "4.370916666666666"
+                            }
+                        }
+                    }},
+                    {"instruction":                     {
+                        "p":                         {
+                            "@context": "instructions",
+                            "$": "Den Klarspüler bis zur Markierung max einfüllen."
+                        },
+                        "image-container":                         {
+                            "@type": "img_original",
+                            "@image-page": "true-imageInUMTaskNode",
+                            "img":                             {
+                                "@src": "411395980",
+                                "@name": "OP_R_1005_Klarspueler_einfuellen_Bild2",
+                                "@type": "svg",
+                                "@href": "Images/svg/410268811__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028797430359948",
+                                "@label": "411395980",
+                                "@dpi": "720",
+                                "@aspect": "de",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "6.078361111111111",
+                                "@st4-height-cm": "4.370916666666666",
+                                "@width-cm": "6.078361111111111",
+                                "@height-cm": "4.370916666666666"
+                            }
+                        }
+                    }},
+                    {"instruction":                     {
+                        "p":                         {
+                            "@context": "instructions",
+                            "$": "Wenn Klarspüler übergelaufen ist, diesen aus dem Spülbehälter entfernen."
+                        },
+                        "instruction-info": {"p":                         {
+                            "@context": "instructions",
+                            "$": "Übergelaufener Klarspüler kann zu übermäßiger Schaumbildung beim Spülgang führen."
+                        }}
+                    }},
+                    {"instruction":                     {
+                        "p":                         {
+                            "@context": "instructions",
+                            "$": "Den Deckel des Vorratsbehälters für Klarspüler schließen."
+                        },
+                        "results": {"result": {"p":                         {
+                            "@context": "instructions",
+                            "$": "Der Deckel rastet hörbar ein."
+                        }}}
+                    }}
+                ]},
+                "linklist": {"link":                 {
+                    "@source-id": "36028797165838091-11",
+                    "@target-id": "36028797799477643-11",
+                    "@label": "DB888D4E-0295-46C5-AA76-FCF6D6E8E9E2",
+                    "@use": "grab",
+                    "@target": "Klarspüler einfüllen",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "36028797165846028",
+                    "@source": "Klarspüler einfüllen",
+                    "@target-base-id": "780513675",
+                    "@external": "0"
+                }},
+                "BSHCollectionOfElements":                 [
+                    {"image":                     {
+                        "@name": "OP_R_1004_Zugabe_Klarspueler_Bild1",
+                        "@type": "svg",
+                        "@href": "Images/svg/410266891__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028797430359820",
+                        "@label": "411395852",
+                        "@dpi": "720",
+                        "@aspect": "de",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "6.078361111111111",
+                        "@st4-height-cm": "4.370916666666666",
+                        "@width-cm": "6.078361111111111",
+                        "@height-cm": "4.370916666666666"
+                    }},
+                    {"image":                     {
+                        "@name": "OP_R_1005_Klarspueler_einfuellen_Bild2",
+                        "@type": "svg",
+                        "@href": "Images/svg/410268811__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028797430359948",
+                        "@label": "411395980",
+                        "@dpi": "720",
+                        "@aspect": "de",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "6.078361111111111",
+                        "@st4-height-cm": "4.370916666666666",
+                        "@width-cm": "6.078361111111111",
+                        "@height-cm": "4.370916666666666"
+                    }},
+                    {"image":                     {
+                        "@name": "SY_step 1",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007199461243915__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028797835465740",
+                        "@label": "816501772",
+                        "@dpi": "720",
+                        "@aspect": "de",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5538611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5538611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"image":                     {
+                        "@name": "SY_step 2",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007199461246731__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028797835465868",
+                        "@label": "816501900",
+                        "@dpi": "720",
+                        "@aspect": "de",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5538611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5538611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }}
+                ]
+            }
+        }},
+        {"node":         {
+            "@file-name": "1558106891.html#!/Togglebox=1558309643/scrollto=1558309643/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "1558309643",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "de",
+            "@specific-culture": "de-DE",
+            "@format": "standard",
+            "@id": "90071994105719563-11",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Klarspülerzugabemenge einstellen"},
+            "shortdesc":             {
+                "@class": "TextModule2",
+                "@base-id": "1376958603",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1558313868",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "de",
+                "@specific-culture": "de-DE",
+                "@ref": "1376958603",
+                "@title": "shortdesk_rinse aid",
+                "@id": "1376958603-11",
+                "$": "Wenn Schlieren oder Wasserflecken auf dem Geschirr zurückbleiben, ändern Sie die Klarspülerzugabemenge."
+            },
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1316875403",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "2055740940",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "de",
+                    "@specific-culture": "de-DE",
+                    "@ref": "9007200571616395",
+                    "@title": "instruction_appliance on",
+                    "@id": "9007200571616395-64",
+                    "p":                     {
+                        "@context": "instructions",
+                        "img":                         {
+                            "@src": "1316876940",
+                            "@name": "SY_Hauptschalter_Standby",
+                            "@type": "svg",
+                            "@href": "Images/svg/1378070027__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "9007200571617932",
+                            "@label": "1316876940",
+                            "@dpi": "720",
+                            "@aspect": "de",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "0.5044722222222222",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "0.5044722222222222",
+                            "@height-cm": "0.5538611111111111"
+                        },
+                        "$": "drücken."
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "156685067",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1558313996",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "de",
+                    "@specific-culture": "de-DE",
+                    "@ref": "9007199411426059",
+                    "@title": "instruction_open appliance settings",
+                    "@id": "9007199411426059-63",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Um die Grundeinstellungen zu öffnen,"},
+                            {"img":                             {
+                                "@src": "640278924",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895019916",
+                                "@label": "640278924",
+                                "@dpi": "720",
+                                "@aspect": "de",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "ca. 3 Sekunden drücken."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "146868107",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1558314124",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "de",
+                    "@specific-culture": "de-DE",
+                    "@ref": "36028797165832075",
+                    "@title": "instruction_appliance settings rinse-aid addition",
+                    "@id": "36028797165832075-21",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"img":                             {
+                                "@src": "780029708",
+                                "@name": "SY_Blättern_vorwärts",
+                                "@type": "svg",
+                                "@href": "Images/svg/632245515__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028797798993676",
+                                "@label": "780029708",
+                                "@dpi": "720",
+                                "@aspect": "de",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.35630555555555554",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.35630555555555554",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "so oft drücken, bis das Display"},
+                            {"variable":                             {
+                                "@linkid": "1271197068",
+                                "@name": "1021",
+                                "@detailed-topic-type": "Display text",
+                                "@variableType": "Standard",
+                                "@variable": "Klarspülerzugabe",
+                                "@variableName": "Basic Settings - Klarspülerzugabe",
+                                "@variant": "1001",
+                                "@variantName": "Bosch - TFT Display",
+                                "$": "\"Klarspülerzugabe\""
+                            }},
+                            {"$": "zeigt."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1654691211",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1693585420",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "de",
+                    "@specific-culture": "de-DE",
+                    "@ref": "36028798673655179",
+                    "@title": "instruction_change appliance settings rinse aid",
+                    "@id": "36028798673655179-11",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"img":                             {
+                                "@src": "1654695564",
+                                "@name": "SY_Minus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632257547__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028798673659532",
+                                "@label": "1654695564",
+                                "@dpi": "720",
+                                "@aspect": "de",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5326944444444445",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5326944444444445",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "oder"},
+                            {"img":                             {
+                                "@src": "1654695692",
+                                "@name": "SY_Plus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632260363__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028798673659660",
+                                "@label": "1654695692",
+                                "@dpi": "720",
+                                "@aspect": "de",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5538611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5538611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "so oft drücken, bis die passende Klarspülerzugabemenge eingestellt ist."}
+                        ]
+                    },
+                    "instruction-info": {"ul":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "1621799947",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1654695820",
+                        "@fragment-element": "ul",
+                        "@aspect-name": "de",
+                        "@specific-culture": "de-DE",
+                        "@ref": "1621799947",
+                        "@title": "ul_rinse aid dosage info",
+                        "@id": "1621799947-11",
+                        "BSHCollectionOfElements":                         [
+                            {"li":                             {
+                                "@context": "instructions",
+                                "p":                                 {
+                                    "@context": "li",
+                                    "$": "Eine niedrige Stufe gibt dem Spülgang weniger Klarspüler zu und reduziert Schlieren auf dem Geschirr."
+                                }
+                            }},
+                            {"li":                             {
+                                "@context": "instructions",
+                                "p":                                 {
+                                    "@context": "li",
+                                    "$": "Eine höhere Stufe gibt dem Spülgang mehr Klarspüler zu, reduziert Wasserflecken und erzeugt ein höheres Trocknungsergebnis."
+                                }
+                            }}
+                        ]
+                    }}
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "146812171",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1558314508",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "de",
+                    "@specific-culture": "de-DE",
+                    "@ref": "9007199401553163",
+                    "@title": "instruction_save appliance settings",
+                    "@id": "9007199401553163-84",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Um die Einstellungen zu speichern,"},
+                            {"img":                             {
+                                "@src": "640275980",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895016972",
+                                "@label": "640275980",
+                                "@dpi": "720",
+                                "@aspect": "de",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "ca. 3 Sekunden drücken."}
+                        ]
+                    }
+                }}
+            ]},
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "90071994105719563-11",
+                    "@target-id": "1376958603-11",
+                    "@label": "1558313868",
+                    "@use": "grab",
+                    "@target": "Klarspülerzugabemenge einstellen",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994105723788",
+                    "@source": "Klarspülerzugabemenge einstellen",
+                    "@target-base-id": "1376958603",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071994105719563-11",
+                    "@target-id": "9007199411426059-63",
+                    "@label": "1558313996",
+                    "@use": "grab",
+                    "@target": "Klarspülerzugabemenge einstellen",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994105723916",
+                    "@source": "Klarspülerzugabemenge einstellen",
+                    "@target-base-id": "156685067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071994105719563-11",
+                    "@target-id": "36028797165832075-21",
+                    "@label": "1558314124",
+                    "@use": "grab",
+                    "@target": "Klarspülerzugabemenge einstellen",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994105724044",
+                    "@source": "Klarspülerzugabemenge einstellen",
+                    "@target-base-id": "146868107",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071994105719563-11",
+                    "@target-id": "9007199401553163-84",
+                    "@label": "1558314508",
+                    "@use": "grab",
+                    "@target": "Klarspülerzugabemenge einstellen",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994105724428",
+                    "@source": "Klarspülerzugabemenge einstellen",
+                    "@target-base-id": "146812171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071994105719563-11",
+                    "@target-id": "36028798673655179-11",
+                    "@label": "1693585420",
+                    "@use": "grab",
+                    "@target": "Klarspülerzugabemenge einstellen",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994240995340",
+                    "@source": "Klarspülerzugabemenge einstellen",
+                    "@target-base-id": "1654691211",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071994105719563-11",
+                    "@target-id": "9007200571616395-64",
+                    "@label": "2055740940",
+                    "@use": "grab",
+                    "@target": "Klarspülerzugabemenge einstellen",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994603150860",
+                    "@source": "Klarspülerzugabemenge einstellen",
+                    "@target-base-id": "1316875403",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028798673655179-11",
+                    "@target-id": "1621799947-11",
+                    "@label": "1654695820",
+                    "@use": "grab",
+                    "@target": "Klarspülerzugabemenge einstellen",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798673659788",
+                    "@source": "instruction_change appliance settings rinse aid",
+                    "@target-base-id": "1621799947",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895019916",
+                    "@label": "640278924",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Blättern_vorwärts",
+                    "@type": "svg",
+                    "@href": "Images/svg/632245515__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028797798993676",
+                    "@label": "780029708",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.35630555555555554",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.35630555555555554",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895016972",
+                    "@label": "640275980",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Minus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632257547__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028798673659532",
+                    "@label": "1654695564",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5326944444444445",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5326944444444445",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Plus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632260363__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028798673659660",
+                    "@label": "1654695692",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Hauptschalter_Standby",
+                    "@type": "svg",
+                    "@href": "Images/svg/1378070027__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007200571617932",
+                    "@label": "1316876940",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5044722222222222",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5044722222222222",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "1558106891.html#!/Togglebox=1558361867/scrollto=1558361867/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "1558361867",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "de",
+            "@specific-culture": "de-DE",
+            "@format": "standard",
+            "@id": "81064794851030795-11",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Klarspüleranlage ausschalten"},
+            "shortdesc":             {
+                "@class": "TextModule2",
+                "@base-id": "1387342603",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1558365580",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "de",
+                "@specific-culture": "de-DE",
+                "@ref": "1387342603",
+                "@title": "shortdesc_rinse aid turn off",
+                "@id": "1387342603-11",
+                "$": "Wenn Sie die Klarspülernachfüllanzeige stört, z.B. wenn Sie kombinierte Reiniger mit Klarspülerkomponente verwenden, können Sie die Klarspüleranlage ausschalten."
+            },
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "user-oriented",
+                "@class": "TextModule2",
+                "@base-id": "1375862283",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1558365708",
+                "@fragment-element": "hint",
+                "@aspect-name": "de",
+                "@specific-culture": "de-DE",
+                "@ref": "1375862283",
+                "@title": "hint - function rinse aid",
+                "@id": "1375862283-11",
+                "b": {"$": "Tipp:"},
+                "p":                 {
+                    "@context": "hint",
+                    "$": "Die Funktion des Klarspülers ist bei kombinierten Reinigern begrenzt. Wenn Sie Klarspüler verwenden, erreichen Sie meist bessere Ergebnisse."
+                }
+            },
+            "instructions":             {
+                "BSHCollectionOfElements":                 [
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "1316875403",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "2055766796",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "de",
+                        "@specific-culture": "de-DE",
+                        "@ref": "9007200571616395",
+                        "@title": "instruction_appliance on",
+                        "@id": "9007200571616395-65",
+                        "p":                         {
+                            "@context": "instructions",
+                            "img":                             {
+                                "@src": "1316876940",
+                                "@name": "SY_Hauptschalter_Standby",
+                                "@type": "svg",
+                                "@href": "Images/svg/1378070027__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007200571617932",
+                                "@label": "1316876940",
+                                "@dpi": "720",
+                                "@aspect": "de",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5044722222222222",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5044722222222222",
+                                "@height-cm": "0.5538611111111111"
+                            },
+                            "$": "drücken."
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "156685067",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1558365836",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "de",
+                        "@specific-culture": "de-DE",
+                        "@ref": "9007199411426059",
+                        "@title": "instruction_open appliance settings",
+                        "@id": "9007199411426059-64",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Um die Grundeinstellungen zu öffnen,"},
+                                {"img":                                 {
+                                    "@src": "640278924",
+                                    "@name": "SY_Infotaste",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632558347__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9007199895019916",
+                                    "@label": "640278924",
+                                    "@dpi": "720",
+                                    "@aspect": "de",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.79375",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.79375",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "ca. 3 Sekunden drücken."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "146868107",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1558365964",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "de",
+                        "@specific-culture": "de-DE",
+                        "@ref": "36028797165832075",
+                        "@title": "instruction_appliance settings rinse-aid addition",
+                        "@id": "36028797165832075-22",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"img":                                 {
+                                    "@src": "780029708",
+                                    "@name": "SY_Blättern_vorwärts",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632245515__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028797798993676",
+                                    "@label": "780029708",
+                                    "@dpi": "720",
+                                    "@aspect": "de",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.35630555555555554",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.35630555555555554",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "so oft drücken, bis das Display"},
+                                {"variable":                                 {
+                                    "@linkid": "1271197068",
+                                    "@name": "1021",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Klarspülerzugabe",
+                                    "@variableName": "Basic Settings - Klarspülerzugabe",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Klarspülerzugabe\""
+                                }},
+                                {"$": "zeigt."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "1654742667",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1695766028",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "de",
+                        "@specific-culture": "de-DE",
+                        "@ref": "36028798673706635",
+                        "@title": "instruction_change appliance settings rinse aid off",
+                        "@id": "36028798673706635-11",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"img":                                 {
+                                    "@src": "1654772620",
+                                    "@name": "SY_Minus",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632257547__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028798673736588",
+                                    "@label": "1654772620",
+                                    "@dpi": "720",
+                                    "@aspect": "de",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5326944444444445",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5326944444444445",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "oder"},
+                                {"img":                                 {
+                                    "@src": "1654772748",
+                                    "@name": "SY_Plus",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632260363__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028798673736716",
+                                    "@label": "1654772748",
+                                    "@dpi": "720",
+                                    "@aspect": "de",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5538611111111111",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5538611111111111",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "so oft drücken, bis das Display"},
+                                {"variable":                                 {
+                                    "@linkid": "1654772876",
+                                    "@name": "1031",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "0",
+                                    "@variableName": "Klarspüler aus",
+                                    "@variant": "1051",
+                                    "@variantName": "GV6xx P5_A3 EU",
+                                    "$": "0"
+                                }},
+                                {"$": "zeigt."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "146812171",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1558366348",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "de",
+                        "@specific-culture": "de-DE",
+                        "@ref": "9007199401553163",
+                        "@title": "instruction_save appliance settings",
+                        "@id": "9007199401553163-85",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Um die Einstellungen zu speichern,"},
+                                {"img":                                 {
+                                    "@src": "640275980",
+                                    "@name": "SY_Infotaste",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632558347__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9007199895016972",
+                                    "@label": "640275980",
+                                    "@dpi": "720",
+                                    "@aspect": "de",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.79375",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.79375",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "ca. 3 Sekunden drücken."}
+                            ]
+                        }
+                    }}
+                ],
+                "results": {"result":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "780037515",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1558366476",
+                    "@fragment-element": "result",
+                    "@aspect-name": "de",
+                    "@specific-culture": "de-DE",
+                    "@ref": "780037515",
+                    "@title": "result_rinse aid unit and rinse aid refill indicator off",
+                    "@id": "780037515-11",
+                    "p":                     {
+                        "@context": "instructions",
+                        "$": "Die Klarspüleranlage ist ausgeschaltet und die Klarspülernachfüllanzeige ist deaktiviert."
+                    }
+                }}
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "81064794851030795-11",
+                    "@target-id": "1387342603-11",
+                    "@label": "1558365580",
+                    "@use": "grab",
+                    "@target": "Klarspüleranlage ausschalten",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851034508",
+                    "@source": "Klarspüleranlage ausschalten",
+                    "@target-base-id": "1387342603",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-11",
+                    "@target-id": "1375862283-11",
+                    "@label": "1558365708",
+                    "@use": "grab",
+                    "@target": "Klarspüleranlage ausschalten",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851034636",
+                    "@source": "Klarspüleranlage ausschalten",
+                    "@target-base-id": "1375862283",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-11",
+                    "@target-id": "9007199411426059-64",
+                    "@label": "1558365836",
+                    "@use": "grab",
+                    "@target": "Klarspüleranlage ausschalten",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851034764",
+                    "@source": "Klarspüleranlage ausschalten",
+                    "@target-base-id": "156685067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-11",
+                    "@target-id": "36028797165832075-22",
+                    "@label": "1558365964",
+                    "@use": "grab",
+                    "@target": "Klarspüleranlage ausschalten",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851034892",
+                    "@source": "Klarspüleranlage ausschalten",
+                    "@target-base-id": "146868107",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-11",
+                    "@target-id": "9007199401553163-85",
+                    "@label": "1558366348",
+                    "@use": "grab",
+                    "@target": "Klarspüleranlage ausschalten",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851035276",
+                    "@source": "Klarspüleranlage ausschalten",
+                    "@target-base-id": "146812171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-11",
+                    "@target-id": "780037515-11",
+                    "@label": "1558366476",
+                    "@use": "grab",
+                    "@target": "Klarspüleranlage ausschalten",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851035404",
+                    "@source": "Klarspüleranlage ausschalten",
+                    "@target-base-id": "780037515",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-11",
+                    "@target-id": "36028798673706635-11",
+                    "@label": "1695766028",
+                    "@use": "grab",
+                    "@target": "Klarspüleranlage ausschalten",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794988434956",
+                    "@source": "Klarspüleranlage ausschalten",
+                    "@target-base-id": "1654742667",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-11",
+                    "@target-id": "9007200571616395-65",
+                    "@label": "2055766796",
+                    "@use": "grab",
+                    "@target": "Klarspüleranlage ausschalten",
+                    "@name": "TextModuleLink",
+                    "@id": "81064795348435724",
+                    "@source": "Klarspüleranlage ausschalten",
+                    "@target-base-id": "1316875403",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895019916",
+                    "@label": "640278924",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Blättern_vorwärts",
+                    "@type": "svg",
+                    "@href": "Images/svg/632245515__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028797798993676",
+                    "@label": "780029708",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.35630555555555554",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.35630555555555554",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895016972",
+                    "@label": "640275980",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Minus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632257547__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028798673736588",
+                    "@label": "1654772620",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5326944444444445",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5326944444444445",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Plus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632260363__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028798673736716",
+                    "@label": "1654772748",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Hauptschalter_Standby",
+                    "@type": "svg",
+                    "@href": "Images/svg/1378070027__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007200571617932",
+                    "@label": "1316876940",
+                    "@dpi": "720",
+                    "@aspect": "de",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5044722222222222",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5044722222222222",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }}
+    ]
 }
