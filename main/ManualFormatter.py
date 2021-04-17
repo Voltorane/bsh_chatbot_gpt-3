@@ -40,8 +40,11 @@ class ManualFormatter:
                 texts.append(text)
         return texts
 
-    def convert_json_manual(self, manual):
-        manuals = []
+    # def convert_json_manual(self, manual):
+    #     with open(self.PATH + "/" + manual, 'rb') as f:
+    #         json_file = json.load(f.read)
+    #         print(json_file)
+    #     json_file = json.
         
     
     def format_manuals(self):
@@ -53,6 +56,7 @@ class ManualFormatter:
                 with open(self.PATH + '/' + manual, 'r') as f:
                     texts = f.readlines()
                     f_texts = []
+                    bool1 = False
                     for text in texts:
                         text = text.replace("\n", ' ')
                         text = text.replace("\\\"", "\"")
@@ -60,7 +64,11 @@ class ManualFormatter:
                         text = text.replace("  ", "")
                         text.encode('ascii', 'ignore')
                         text_lowercase = text.lower()
-                        if text_lowercase.islower() and not text.__contains__("@") and text.__contains__("$"):
+                        if text.__contains__("instruction") or text.__contains__("shortdesc"):
+                            bool1 = True
+                        if text.__contains__('label') or text.__contains__("title"):
+                            bool1 = False
+                        if text_lowercase.islower() and not text.__contains__("@") and text.__contains__("$") and bool1:
                             f_texts.append(text)
                     jsonl_texts.append(f_texts)
             elif manual.endswith(".txt"):
