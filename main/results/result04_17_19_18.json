@@ -1,0 +1,392 @@
+{
+    "1": {
+        "Question": "I think my dishwasher is broken because it won't stop beeping.",
+        "Answer Description": "",
+        "Answer": "The dishwasher beeps when it is about to stop. The beep is a warning signal that the dishwasher is about to stop. The dishwasher will stop when the beep stops.",
+        "Selected documents": [
+            {
+                "document": 4,
+                "object": "search_result",
+                "score": 3.764,
+                "text": "Use dishwasher-proof glasses. Glasses are usually only suitable for use in a dishwasher, i.e. long-term wear or long-term changes must be expected.,"
+            },
+            {
+                "document": 1,
+                "object": "search_result",
+                "score": 8.673,
+                "text": "Cutting through the supply hose or immersing the Aqua-Stop valve in water is dangerous."
+            },
+            {
+                "document": 3,
+                "object": "search_result",
+                "score": 22.997,
+                "text": "If the dishwasher is installed above or below other domestic appliances, follow the information on installation in combination with a dishwasher in the installation instructions for the individual appliances. If there is no information or if the installation instructions do not include the relevant information, contact the manufacturer of these appliances to check that the dishwasher can be installed above or below these appliances. If no information is available from the manufacturer, the dishwasher should not be installed above or below such appliances. To ensure the safe operation of all domestic appliances, continue following the installation instructions for the dishwasher. Do not ins"
+            },
+            {
+                "document": 0,
+                "object": "search_result",
+                "score": 30.201,
+                "text": "You can position your built-under or integrable appliance in a fitted kitchen between wooden and plastic walls. If you subsequently install your dishwasher as a free-standing appliance, you must stop it from tipping over, e.g. by screwing it to the wall or installing it under a continuous worktop that is securely connected to adjacent cabinets.,"
+            },
+            {
+                "document": 9,
+                "object": "search_result",
+                "score": 33.37,
+                "text": "safety-instruction  Keep children away from detergent and rinse aid products. Keep children away from the appliance when open. The water in the interior of the dishwasher is not drinking water. It may contain residues of detergents and rinse aid."
+            },
+            {
+                "document": 6,
+                "object": "search_result",
+                "score": 37.774,
+                "text": "Run the Machine Care programme without any tableware in the dishwasher.,"
+            },
+            {
+                "document": 2,
+                "object": "search_result",
+                "score": 39.397,
+                "text": "During the drying phase moisture from the interior of the dishwasher is stored in the mineral and heat energy is released. The heat energy is blown out into the interior of the dishwasher with dry air. This speeds up and improves drying.,"
+            },
+            {
+                "document": 5,
+                "object": "search_result",
+                "score": 44.928,
+                "text": "tall the dishwasher under a hob. Do not install the dishwasher near heat sources, e.g. radiators, heat storage tanks, ovens or other appliances that generate heat.,"
+            },
+            {
+                "document": 8,
+                "object": "search_result",
+                "score": 53.233,
+                "text": "Only fill the dispenser of the water softening system with special dishwasher salt.,"
+            },
+            {
+                "document": 7,
+                "object": "search_result",
+                "score": 54.118,
+                "text": "Only fill the dispenser of the water softening system with special dishwasher salt.,"
+            }
+        ]
+    },
+    "2": {
+        "Question": "What is the total cycle time for the dishwasher?",
+        "Answer Description": "",
+        "Answer": "The total cycle time is the time it takes to complete all the cycles in the programme.",
+        "Selected documents": [
+            {
+                "document": 9,
+                "object": "search_result",
+                "score": 70.939,
+                "text": "p  Use of the AquaSensor depends on the programme. If the soiling level is high, the rinsing water is drained off and replaced with fresh water. If the soiling level is lower, the rinsing water is used in the next wash cycle, so reducing water consumption by 3-6 litres. In the automatic programmes the temperature and run time are additionally adjusted to the level of soiling.,"
+            },
+            {
+                "document": 2,
+                "object": "search_result",
+                "score": 91.943,
+                "text": "If the dishwasher is installed above or below other domestic appliances, follow the information on installation in combination with a dishwasher in the installation instructions for the individual appliances. If there is no information or if the installation instructions do not include the relevant information, contact the manufacturer of these appliances to check that the dishwasher can be installed above or below these appliances. If no information is available from the manufacturer, the dishwasher should not be installed above or below such appliances. To ensure the safe operation of all domestic appliances, continue following the installation instructions for the dishwasher. Do not ins"
+            },
+            {
+                "document": 4,
+                "object": "search_result",
+                "score": 98.632,
+                "text": "Use dishwasher-proof glasses. Glasses are usually only suitable for use in a dishwasher, i.e. long-term wear or long-term changes must be expected.,"
+            },
+            {
+                "document": 8,
+                "object": "search_result",
+                "score": 99.764,
+                "text": "safety-instruction  Keep children away from detergent and rinse aid products. Keep children away from the appliance when open. The water in the interior of the dishwasher is not drinking water. It may contain residues of detergents and rinse aid."
+            },
+            {
+                "document": 1,
+                "object": "search_result",
+                "score": 104.476,
+                "text": "Run the Machine Care programme without any tableware in the dishwasher.,"
+            },
+            {
+                "document": 6,
+                "object": "search_result",
+                "score": 105.138,
+                "text": "hint  Always transport the dishwasher upright to prevent residual water getting into the machine's controls and damaging the appliance.,"
+            },
+            {
+                "document": 0,
+                "object": "search_result",
+                "score": 107.135,
+                "text": "tall the dishwasher under a hob. Do not install the dishwasher near heat sources, e.g. radiators, heat storage tanks, ovens or other appliances that generate heat.,"
+            },
+            {
+                "document": 3,
+                "object": "search_result",
+                "score": 113.841,
+                "text": "During the drying phase moisture from the interior of the dishwasher is stored in the mineral and heat energy is released. The heat energy is blown out into the interior of the dishwasher with dry air. This speeds up and improves drying.,"
+            },
+            {
+                "document": 5,
+                "object": "search_result",
+                "score": 115.679,
+                "text": "Avoid a lengthy steam phase (standing time after wash cycle ends).,"
+            },
+            {
+                "document": 7,
+                "object": "search_result",
+                "score": 124.237,
+                "text": "p  Regeneration of the water softening system takes place before the end of the main rinse cycle in all programmes. It will increase the run time and consumption values, e.g. water and electricity.,"
+            }
+        ]
+    },
+    "3": {
+        "Question": "How much water does it use per cycle?",
+        "Answer Description": "",
+        "Answer": "0.5 litres.",
+        "Selected documents": [
+            {
+                "document": 4,
+                "object": "search_result",
+                "score": 12.29,
+                "text": "Do not use special salt tablets.,"
+            },
+            {
+                "document": 7,
+                "object": "search_result",
+                "score": 22.7,
+                "text": "p  This initial registration prepares the Home\u00a0Connect functions for use and is only required when you want to use the Home\u00a0Connect functions for the first time.,"
+            },
+            {
+                "document": 8,
+                "object": "search_result",
+                "score": 69.414,
+                "text": "This appliance may be used by children aged 8 or over and by people who have reduced physical, sensory or mental abilities or inadequate experience and/or knowledge, provided that they are supervised or have been instructed on how to use the appliance safely and have understood the resulting dangers.,"
+            },
+            {
+                "document": 6,
+                "object": "search_result",
+                "score": 90.113,
+                "text": "Select a more intensive Programme or use Powder detergent .,"
+            },
+            {
+                "document": 3,
+                "object": "search_result",
+                "score": 95.684,
+                "text": "Arrange tableware so that it does not obstruct spray arm rotation.,"
+            },
+            {
+                "document": 5,
+                "object": "search_result",
+                "score": 96.936,
+                "text": "p  You can find out how hard your water is from your local water company or by using a water hardness tester.,"
+            },
+            {
+                "document": 0,
+                "object": "search_result",
+                "score": 102.904,
+                "text": "You can find an overview of the possible features of your appliance and how to use them here.,"
+            },
+            {
+                "document": 1,
+                "object": "search_result",
+                "score": 121.237,
+                "text": "Set the to the water hardness and use separate detergents (proprietary detergent, special salt, rinse aid).,"
+            },
+            {
+                "document": 9,
+                "object": "search_result",
+                "score": 122.664,
+                "text": "Do not use a steam cleaner. So as not to scratch the finish on the appliance, do not use sponges with a rough surface or abrasive cleaning agents. To prevent corrosion, do not use sponge cloths on dishwashers with a stainless steel front or rinse such cloths thoroughly several times before using them for the first time."
+            },
+            {
+                "document": 2,
+                "object": "search_result",
+                "score": 154.693,
+                "text": "If you follow these instructions, your appliance will use less electricity and less water.,"
+            }
+        ]
+    },
+    "4": {
+        "Question": "Is there a guarantee on this product?",
+        "Answer Description": "",
+        "Answer": "Yes, the guarantee is valid for one year from the date of purchase.",
+        "Selected documents": [
+            {
+                "document": 0,
+                "object": "search_result",
+                "score": 13.352,
+                "text": "This product includes software components that are licensed by the copyright holders as free software or open source software.,"
+            },
+            {
+                "document": 5,
+                "object": "search_result",
+                "score": 32.608,
+                "text": "Place the machine care product in the appliance interior. Only use machine care products specially designed for dishwashers.,"
+            },
+            {
+                "document": 6,
+                "object": "search_result",
+                "score": 64.649,
+                "text": "Clean the appliance. You can remove deposits with Mechanical cleaning or a machine cleaning product. It may not always be possible to completely remove deposits but they are harmless to health.,"
+            },
+            {
+                "document": 7,
+                "object": "search_result",
+                "score": 64.97,
+                "text": "Clean the appliance. You can remove deposits with Mechanical cleaning or a machine cleaning product. It may not always be possible to completely remove deposits but they are harmless to health.,"
+            },
+            {
+                "document": 4,
+                "object": "search_result",
+                "score": 96.812,
+                "text": "This product contains light sources from energy efficiency class G. These light sources are available as a spare part and should only be replaced by trained specialist staff.,"
+            },
+            {
+                "document": 1,
+                "object": "search_result",
+                "score": 98.349,
+                "text": "You can find the product number (E-Nr.), the production number (FD) and the consecutive numbering (Z-Nr.) on the appliance's rating plate.,"
+            },
+            {
+                "document": 2,
+                "object": "search_result",
+                "score": 112.651,
+                "text": "The product number (E-Nr.) and the production number (FD) are required here. They can be found on the rating plate on the appliance door."
+            },
+            {
+                "document": 3,
+                "object": "search_result",
+                "score": 124.172,
+                "text": "If you contact Customer Service, you will require the product number (E-Nr.), the production number (FD) and the consecutive numbering (Z-Nr.) of your appliance.,"
+            }
+        ]
+    },
+    "5": {
+        "Question": "Why does the door latch fail to engage when the dishwasher door is closed?",
+        "Answer Description": "",
+        "Answer": "The door latch is designed to engage when the door is closed. If the door is not closed properly, the door latch will not engage.",
+        "Selected documents": [
+            {
+                "document": 8,
+                "object": "search_result",
+                "score": 61.88,
+                "text": "Use size 4X30 bolts to adjust the door gap. The bolts are included in the scope of supply. If you use bolts that are too long, this can deactivate the function of automatic door opening.,"
+            },
+            {
+                "document": 7,
+                "object": "search_result",
+                "score": 62.192,
+                "text": "Use size 4X30 bolts to adjust the door gap. The bolts are included in the scope of supply. If you use bolts that are too long, this can deactivate the function of automatic door opening.,"
+            },
+            {
+                "document": 6,
+                "object": "search_result",
+                "score": 78.821,
+                "text": "Only open the appliance door to load or unload tableware in order to prevent accidents, e.g. through tripping. Do not sit or stand on the appliance door when open.,"
+            },
+            {
+                "document": 3,
+                "object": "search_result",
+                "score": 85.821,
+                "text": "Adjust the appliance door as described in the installation instructions. The door gap must be at least 70\u00a0mm - 100\u00a0mm.,"
+            },
+            {
+                "document": 5,
+                "object": "search_result",
+                "score": 86.453,
+                "text": "Adjust the appliance door as described in the installation instructions. The door gap must be at least 70\u00a0mm - 100\u00a0mm.,"
+            },
+            {
+                "document": 4,
+                "object": "search_result",
+                "score": 86.519,
+                "text": "Adjust the appliance door as described in the installation instructions. The door gap must be at least 70\u00a0mm - 100\u00a0mm.,"
+            },
+            {
+                "document": 1,
+                "object": "search_result",
+                "score": 87.749,
+                "text": "Clean the appliance door and door seal with a damp cloth and a little washing-up liquid.,"
+            },
+            {
+                "document": 9,
+                "object": "search_result",
+                "score": 90.767,
+                "text": "tall the dishwasher under a hob. Do not install the dishwasher near heat sources, e.g. radiators, heat storage tanks, ovens or other appliances that generate heat.,"
+            },
+            {
+                "document": 0,
+                "object": "search_result",
+                "score": 92.624,
+                "text": "When the programme ends, leave the appliance to cool down for a while before opening the door.,"
+            },
+            {
+                "document": 2,
+                "object": "search_result",
+                "score": 99.091,
+                "text": "Check whether the appliance has been installed properly. When closed, the appliance door, its decor or attached parts should not knock against adjacent cabinets or the worktop.,"
+            }
+        ]
+    },
+    "6": {
+        "Question": "I have a small kitchen and don't have room for a dishwasher. Can I stack it?",
+        "Answer Description": "",
+        "Answer": "Yes, you can stack the dishwasher on top of the washing machine.",
+        "Selected documents": [
+            {
+                "document": 0,
+                "object": "search_result",
+                "score": 12.096,
+                "text": "Keep small parts away from children. Do not let children play with small parts.,"
+            },
+            {
+                "document": 9,
+                "object": "search_result",
+                "score": 15.1,
+                "text": "If you have not run Machine Care after 3 washing cycles, the indicator for Machine Care will go out automatically.,"
+            },
+            {
+                "document": 7,
+                "object": "search_result",
+                "score": 29.587,
+                "text": "Use dishwasher-proof glasses. Glasses are usually only suitable for use in a dishwasher, i.e. long-term wear or long-term changes must be expected.,"
+            },
+            {
+                "document": 2,
+                "object": "search_result",
+                "score": 33.232,
+                "text": "Have the mains voltage and electrical installation checked by an electrician."
+            },
+            {
+                "document": 4,
+                "object": "search_result",
+                "score": 34.172,
+                "text": "Run the Machine Care programme without any tableware in the dishwasher.,"
+            },
+            {
+                "document": 8,
+                "object": "search_result",
+                "score": 34.399,
+                "text": "Use a name-brand rinse aid. Eco products may have limited effectiveness.,"
+            },
+            {
+                "document": 5,
+                "object": "search_result",
+                "score": 43.07,
+                "text": "This appliance may be used by children aged 8 or over and by people who have reduced physical, sensory or mental abilities or inadequate experience and/or knowledge, provided that they are supervised or have been instructed on how to use the appliance safely and have understood the resulting dangers.,"
+            },
+            {
+                "document": 6,
+                "object": "search_result",
+                "score": 44.576,
+                "text": "During the drying phase moisture from the interior of the dishwasher is stored in the mineral and heat energy is released. The heat energy is blown out into the interior of the dishwasher with dry air. This speeds up and improves drying.,"
+            },
+            {
+                "document": 1,
+                "object": "search_result",
+                "score": 60.905,
+                "text": "If the dishwasher is installed above or below other domestic appliances, follow the information on installation in combination with a dishwasher in the installation instructions for the individual appliances. If there is no information or if the installation instructions do not include the relevant information, contact the manufacturer of these appliances to check that the dishwasher can be installed above or below these appliances. If no information is available from the manufacturer, the dishwasher should not be installed above or below such appliances. To ensure the safe operation of all domestic appliances, continue following the installation instructions for the dishwasher. Do not ins"
+            },
+            {
+                "document": 3,
+                "object": "search_result",
+                "score": 67.141,
+                "text": "tall the dishwasher under a hob. Do not install the dishwasher near heat sources, e.g. radiators, heat storage tanks, ovens or other appliances that generate heat.,"
+            }
+        ]
+    }
+}

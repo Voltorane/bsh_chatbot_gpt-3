@@ -10,7 +10,7 @@ class Bot:
 
     def __init__(self):
         with open("resources/api_v.txt", 'r') as f:
-            self.api_key = f.readline()
+            openai.api_key = f.readline()
     
     def create_questions(self, furniture_type, times):
         question_set = []
@@ -50,21 +50,38 @@ class Bot:
                         model="curie",
                         question=question,
                         file=file_id,
-                        examples_context="In 2017, U.S. life expectancy was 78.6 years.",
-                        examples=[["What is human life expectancy in the United States?", "78 years."]],
-                        max_rerank=10,
+                        examples_context="If the dishwasher is installed above or below other domestic appliances, follow the information on installation in combination with"
+                        + "a dishwasher in the installation instructions for the individual appliances. If there is no information or if the installation instructions do not"
+                        + "include the relevant information, contact the manufacturer of these appliances to check that the dishwasher can be installed above or below these"
+                        + "appliances. If no information is available from the manufacturer, the dishwasher should not be installed above or below such appliances. To ensure"
+                        + "the safe operation of all domestic appliances, continue following the installation instructions for the dishwasher. Do not ins"
+                        + "tall the dishwasher under a hob. Do not install the dishwasher near heat sources, e.g. radiators, heat storage tanks, ovens or other appliances that generate heat.,",
+                        examples=[["I have a small kitchen and don't have room for a dishwasher. Can I stack it?", "No. The dishwasher must be installed on a level surface"]],
+                        max_rerank=20,
                         max_tokens=200,
                         stop=["\n", "<|endoftext|>"]
                     )
                     qa_dict[i] = {}
-                    answer = response['answers'][0]
+                    answer = response['answers']
                     qa_dict[i]['Question'] = question
                     if answer == "":
                         qa_dict[i]['Answer Description'] = "Did not found any result in manual :("
                     else:
-                        qa_dict[i]['Answer Description'] = ""
+                        gpt3_response = openai.Completion.create(
+                                        engine="davinci",
+                                        prompt="Answer the question if it is about dishwashers. Respond with n/a if the question is not about dishwashers or nonsense.\n###\nQ: How can I clean the dishwasher?\nA: Wipe down door seals with a damp, soft cloth.\n###\nQ: What is the square root of banana?\nA: n/a\n###\nQ: what's the square root of 3?\nA:  n/a\n###\nQ: Why does the door latch fail to engage when the dishwasher door is closed?\nA: The door latch is designed to engage when the door is closed. If the door is not closed properly, the door latch may not engage.\n###\nQ:{}\nA:".format(question),
+                                        temperature=0.3,
+                                        max_tokens=50,
+                                        top_p=1,
+                                        frequency_penalty=0,
+                                        presence_penalty=0,
+                                        stop=["\n"]
+                                        )
+                        print(gpt3_response)
+                        
+                        qa_dict[i]['Answer Description'] = "Answer found in the user manual"
                     qa_dict[i]['Answer'] = answer
-                    qa_dict[i]['Selected documents'] = response['selected_documents']
+                    # qa_dict[i]['Selected documents'] = response['selected_documents']
                     # print(str(i) + ")" + "Question: " + question)
                     # print(str(i) + ")" + "Answer: " + response['answers'][0] + "\n______________________________________________________________\n")
                     # print(response)
@@ -78,14 +95,9 @@ class Bot:
     
 b = Bot()
 
-openai.api_key = b.api_key
+# openai.api_key = b.api_key
+qa_dict = b.create_answers(b.create_questions("dishwasher", 2))
 
-sample_question_set = [["I think my dishwasher is broken because it won't stop beeping.",
- "What is the total cycle time for the dishwasher?", "How much water does it use per cycle?", "Is there a guarantee on this product?",
- "Why does the door latch fail to engage when the dishwasher door is closed?", "I have a small kitchen and don't have room for a dishwasher. Can I stack it?"]]
-
-# qa_dict = b.create_answers(b.create_questions("dishwasher", 1))
-qa_dict = b.create_answers(sample_question_set)
 t = time.localtime()
 current_time = time.strftime("%m_%d_%H_%M", t)
 print(current_time)

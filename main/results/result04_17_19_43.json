@@ -1,0 +1,57 @@
+{
+    "1": {
+        "Question": " How do I load the dishwasher?",
+        "Answer Description": "Did not found any result in manual :(",
+        "Answer": ""
+    },
+    "2": {
+        "Question": "2: What is the proper way to load the dishwasher?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": "The dishwasher must be installed on a level surface"
+    },
+    "3": {
+        "Question": "3: Why does my dishwasher run forever?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": "The dishwasher is not running."
+    },
+    "4": {
+        "Question": "4: Why does my dishwasher not run at all?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": "The dishwasher is not connected to the mains electricity supply."
+    },
+    "5": {
+        "Question": "5: Why does my water come out black and dirty?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": "The water coming out of your tap is not dirty. It is just the way it is."
+    },
+    "6": {
+        "Question": "6: How do I clean the filters on my dishwasher?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": "The filters are located in the bottom of the dishwasher."
+    },
+    "8": {
+        "Question": "Six users contact customer support regarding dishwasher. The users have problems. Create a list of six specific questions they have:",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": "The dishwasher is not working properly."
+    },
+    "9": {
+        "Question": "2:00 pm",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": "The dishwasher will not run."
+    },
+    "10": {
+        "Question": "Six users contact customer support regarding dishwasher. The users have problems. Create a list of six specific questions they have:",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": "The dishwasher is not working properly."
+    },
+    "11": {
+        "Question": "3:00 pm",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": "The dishwasher is not running."
+    },
+    "12": {
+        "Question": "Six users contact customer support regarding dishwasher. The users have problems. Create a list of six specific questions they have:",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": "The dishwasher is not working properly."
+    }
+}
