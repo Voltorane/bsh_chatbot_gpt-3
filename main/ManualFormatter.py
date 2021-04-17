@@ -5,26 +5,18 @@ import jsonlines
 import json
 import xmltodict
 from nltk import tokenize
+from tqdm import tqdm
 
 
-class ManualFormatter:
-    PATH = "resources/manuals"
+class Formatter:
+    PATH = "resources"
     manuals = []
 
     def __init__(self):
         for manual in os.listdir(self.PATH):
-            # adds only pdf files to convert
-            if os.path.isfile(os.path.join(self.PATH, manual)):
+            if os.path.isfile(os.path.join(self.PATH, manual)) and manual != "temp.jsonl" and manual != "api.txt":
                 self.manuals.append(manual)
 
-
-    def get_pdf_manuals(self):
-        manuals = []
-        for manual in os.listdir(self.PATH):
-            # adds only pdf files to convert
-            if os.path.isfile(os.path.join(self.PATH, manual)) and manual.endswith(".pdf") and not manuals.__contains__(manual):
-                manuals.append(manual)
-        return manuals
     
     def convert_pdf_manual(self, manual):
         texts = []
@@ -39,25 +31,20 @@ class ManualFormatter:
 
                 texts.append(text)
         return texts
-
-    # def convert_json_manual(self, manual):
-    #     with open(self.PATH + "/" + manual, 'rb') as f:
-    #         json_file = json.load(f.read)
-    #         print(json_file)
-    #     json_file = json.
         
     
     def format_manuals(self):
         jsonl_texts = []
+        print("Formatting manuals:")
         for manual in self.manuals:
             if manual.endswith(".pdf"):
                 jsonl_texts.append(self.convert_pdf_manual(manual))
-            elif manual.endswith(".json"):
+            elif manual.endswith(".json") or manual.endswith(".txt"):
                 with open(self.PATH + '/' + manual, 'r') as f:
                     texts = f.readlines()
                     f_texts = []
                     bool1 = False
-                    bool_title = False
+                    prev_text = ""
                     for text in texts:
                         text = text.replace("\n", ' ')
                         text = text.replace("\\\"", "")
@@ -70,53 +57,31 @@ class ManualFormatter:
                         if text.__contains__('label'):
                             bool1 = False
                         if text_lowercase.islower() and not text.__contains__("@") and text.__contains__("$") and bool1:
-                            text = text.replace("{", "")
-                            text = text.replace("}", "")
-                            text = text.replace("$", "")
-                            text = text.replace(":", "")
-                            text = text.replace("[", "")
-                            text = text.replace("]", "")
-                            text = text.replace("$", "")
-                            text = text.replace("\\\"instruction\\\"", "")
-                            text = text.replace("\\\"shortdesc\\\"", "")
-                            text = text.replace("\\\"cause\\\"", "")
-                            text = text.replace("\\\"", "")
+                            text = text.replace("{", "").replace("}", "").replace("$", "").replace(":", "").replace("[", "").replace("]", "").replace("\\\"instruction\\\"", "").replace("\\\"shortdesc\\\"", "").replace("\\\"cause\\\"", "").replace("\\\"", "")
+                            if len(prev_text) + len(text) <= 1500:
+                                prev_text += text
+                                continue
+                            else:
+                                f_texts.append(prev_text)
+                                prev_text = text
+                                continue
                             f_texts.append(text)
+                    if prev_text != "":
+                        f_texts.append(prev_text)
                     jsonl_texts.append(f_texts)
-            elif manual.endswith(".txt"):
-                with open(self.PATH + '/' + manual, 'r') as f:
-                    jsonl_texts.append(f.readlines())
-            # elif manual.endswith(".xml"):
-            #     with open(self.PATH + '/' + manual, 'rb') as f:
-            #         x = xmltodict.parse(f.read)
-            #         j = json.dumps(x)
-            #         unformatted_texts.append(j)
             elif manual.endswith(".jsonl"):
                 with open(self.PATH + '/' + manual, 'r') as f:
-                    jsonl_texts.append(f.readlines())
-                    
+                    jsonl_texts.append(f.readlines())   
             else:
-                pass
-                # raise RuntimeError('Incorrect type of data')
+                print("Could not read this file: " + manual)
         
-        with open('resources/manuals/temp.jsonl', mode='w') as writer:
-            # writer.write_all(formatted_texts)
+        with open('resources/temp.jsonl', mode='w') as writer:
             for text in jsonl_texts:
-                for line in text:
+                for line in tqdm(text):
                     inserted_line = line
-                    char_limit = 700
+                    char_limit = 1500
                     while len(inserted_line) >= char_limit:
                         writer.write("{\"text\":\"" + inserted_line[:char_limit-1]+ "\"}\n")
                         inserted_line = inserted_line[char_limit-1:]
-                    writer.write("{\"text\":\"" + inserted_line + "\"}\n")
-                    # while len(inserted_line) >= char_limit:
-                    #     writer.write(inserted_line[:char_limit-1])
-                    #     inserted_line = inserted_line[char_limit-1:]
-                    # writer.write(inserted_line)
-                    # writer.write(line)
-
-
-        
-
-m = ManualFormatter()
-m.format_manuals()
+                    if inserted_line != "":
+                        writer.write("{\"text\":\"" + inserted_line + "\"}\n")

@@ -1,0 +1,86 @@
+{
+    "1": {
+        "Question": "\u00a0 What are the dimensions of the product?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "The dimensions of the product are:"
+        ]
+    },
+    "2": {
+        "Question": "2:\u00a0 What are the energy consumption ratings for this product?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "The energy consumption ratings for this product are as follows: \u00a0Bosch Security Systems | 2007-10 | PLE-2MA120-EU,  PLE-2MA240-EU en Plena Mixer Amplifier | Installation and User Instructions | Energy consumption \u00a0en | 4Energy consumption \u00a0The energy consumption ratings for this product are as follows: \u00a0Bosch Security Systems | 2007-10 | PLE-2MA120-EU,  PLE-2MA240-EU en Plena Mixer Amplifier | Installation and User Instructions | Energy consumption \u00a0en | 4.1.1DC supply (battery) ...................................................................................................... ..................................................4 4.1.2Priority microphone (input 1) ............................................................................................ ...........................................4 4.1.3Secondary microphone (input 2) .......................... ............................................................... .............................................4 4.2.1Zone 1 and 2 ................................................................................................"
+        ]
+    },
+    "3": {
+        "Question": "3:\u00a0 What is the cubic feet per cycle for this product?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "The cubic feet per cycle is the amount of air that is moved through the unit in one second."
+        ]
+    },
+    "4": {
+        "Question": "4:\u00a0 Does this dishwasher have a stainless steel interior or plastic tub?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "The interior is stainless steel."
+        ]
+    },
+    "5": {
+        "Question": "5:\u00a0 Are there any known issues with leaking on your model, and if so, how do I fix it?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "No. The Plena is a sealed unit."
+        ]
+    },
+    "6": {
+        "Question": "6:\u00a0 How much does it cost to repair a broken door latch or broken control panel for",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            ""
+        ]
+    },
+    "7": {
+        "Question": " Why does the dishwasher not drain water?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "The dishwasher is not draining because the water level is too high."
+        ]
+    },
+    "8": {
+        "Question": "2: Why is the sound so loud?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "The sound is loud because the volume control is set to maximum."
+        ]
+    },
+    "9": {
+        "Question": "3: Why does it take so long to complete a cycle?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "The dishwasher is designed to complete a cycle in approximately 30 minutes. This is the time it takes to complete a cycle with the door open. The time it takes to complete a cycle with the door closed is approximately 10 minutes."
+        ]
+    },
+    "10": {
+        "Question": "4: Why is there mold in the bottom of my dishwasher?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "The dishwasher is designed to be used in a dry environment. If the dishwasher is used in a wet environment, the dishwasher will not be able to dry the dishes properly. The mold will grow in the dishwasher and will cause the dishwasher to smell."
+        ]
+    },
+    "11": {
+        "Question": "5: Why does my dishes not come out clean?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "The dishwasher is not draining properly."
+        ]
+    },
+    "12": {
+        "Question": "6: Why is there an odor in my dishwasher?",
+        "Answer Description": "Answer found in the user manual",
+        "Answer": [
+            "The dishwasher is designed to release a small amount of water vapor during the cleaning cycle. This is normal and is not harmful."
+        ]
+    }
+}

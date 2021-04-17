@@ -4,44 +4,51 @@ import openai
 import json
 import time
 import re
+from tqdm import tqdm
+from ManualFormatter import Formatter
 
 class Bot:
-    api_key = ""
+    furniture_type = ""
 
-    def __init__(self):
-        with open("resources/api_v.txt", 'r') as f:
+    def __init__(self, furniture_type):
+        self.furniture_type = furniture_type
+        with open("resources/api.txt", 'r') as f:
             openai.api_key = f.readline()
     
-    def create_questions(self, furniture_type, times):
+    def create_questions(self, times):
         question_set = []
-
-        for i in range(times):
-            questions = []
-            response = openai.Completion.create(
-            engine="davinci",
-            prompt="Six users contact customer support regarding " + furniture_type +". The users have problems. Create a list of six specific questions they have:\n1:",
-            temperature=0.8,
-            max_tokens=100,
-            top_p=0.75,
-            frequency_penalty=0.75,
-            presence_penalty=0.0,
-            )
-            questions = (response['choices'][0]['text'].split("\n"))
-            regex = re.compile(r'^\d$\:')
-            new_questions = []
-            for question in questions:
-                if question != "":
-                    new_question = re.sub(regex, "", question)
-                    new_questions.append(new_question)
-            question_set.append(new_questions)
+        try:
+            print("Generating questions")
+            for i in tqdm(range(int(times))):
+                questions = []
+                response = openai.Completion.create(
+                engine="davinci",
+                prompt="Six users contact customer support regarding " + self.furniture_type +". The users have problems. Create a list of six specific questions they have:\n1:",
+                temperature=0.8,
+                max_tokens=100,
+                top_p=0.75,
+                frequency_penalty=0.75,
+                presence_penalty=0.0,
+                )
+                questions = (response['choices'][0]['text'].split("\n"))
+                regex = re.compile(r'^\d$\:')
+                new_questions = []
+                for question in questions:
+                    if question != "":
+                        new_question = re.sub(regex, "", question)
+                        new_questions.append(new_question)
+                question_set.append(new_questions)
+        except Exception as e:
+            print(e)
         
         return question_set
     
-    def create_answers(self, question_set, file_id = "file-TWQlnW4kO5VMEKuV6Fjo9u1D"):
+    def create_answers(self, question_set, file_id = "file-3rNeRHnwyfTonykKvwClKih6"):
         qa_dict = {}
 
         i = 1
-        for questions in question_set:
+        print("Answering the questions!")
+        for questions in tqdm(question_set):
             for question in questions:
                 question = question.replace("\"", "")
                 try:
@@ -62,11 +69,10 @@ class Bot:
                         stop=["\n", "<|endoftext|>"]
                     )
                     qa_dict[i] = {}
-                    answer = response['answers']
+                    answer = response['answers'][0]
                     qa_dict[i]['Question'] = question
                     if answer == "":
-                        qa_dict[i]['Answer Description'] = "Did not found any result in manual :("
-                    else:
+                        qa_dict[i]['Answer Description'] = "Did not find any result in manual :("
                         gpt3_response = openai.Completion.create(
                                         engine="davinci",
                                         prompt="Answer the question if it is about dishwashers. Respond with n/a if the question is not about dishwashers or nonsense.\n###\nQ: How can I clean the dishwasher?\nA: Wipe down door seals with a damp, soft cloth.\n###\nQ: What is the square root of banana?\nA: n/a\n###\nQ: what's the square root of 3?\nA:  n/a\n###\nQ: Why does the door latch fail to engage when the dishwasher door is closed?\nA: The door latch is designed to engage when the door is closed. If the door is not closed properly, the door latch may not engage.\n###\nQ:{}\nA:".format(question),
@@ -77,8 +83,8 @@ class Bot:
                                         presence_penalty=0,
                                         stop=["\n"]
                                         )
-                        print(gpt3_response)
-                        
+                        answer = gpt3_response['choices'][0]['text']
+                    else:                        
                         qa_dict[i]['Answer Description'] = "Answer found in the user manual"
                     qa_dict[i]['Answer'] = answer
                     # qa_dict[i]['Selected documents'] = response['selected_documents']
@@ -90,27 +96,55 @@ class Bot:
                 i += 1
         
         return qa_dict
-
-
     
-b = Bot()
+    def save_result_json(self, qa_dict):
+        t = time.localtime()
+        current_time = time.strftime("%m_%d_%H_%M", t)
+        with open("main/results/Q&A_" + "_" + current_time + ".json", 'a+') as json_file:
+            json.dump(qa_dict, json_file)
+        print("Your Q&A is ready to use!")
+        return current_time
 
-# openai.api_key = b.api_key
-qa_dict = b.create_answers(b.create_questions("dishwasher", 2))
+    def create_file(self):
+        response = openai.File.create(
+            file=open("resources/temp.jsonl"),
+            purpose='answers'
+        )
+        return response['id']
+    
+    def save_result_txt(self, qa_dict):
+        lines = []
+        for item in qa_dict.values():
+            s = "Q: " + item["Question"] + "\n" + "A: " + item["Answer"] + "\n" + "___________________________________________________\n"
+            lines.append(s)
+        with open("main/results/Q&A_" + ".txt", 'a+') as txt_file:
+            for line in lines:
+                txt_file.write(line)
 
-t = time.localtime()
-current_time = time.strftime("%m_%d_%H_%M", t)
-print(current_time)
-with open("main/results/result" + current_time + ".json", 'a+') as json_file:
-    json.dump(qa_dict, json_file)
+
+def main():
+    print("Please upload manuals in 'manuals' folder(.pdf, .json, .txt)!")
+    name = input("Which furniture device is this manual for?\n")
+    amount = input("Chose an amount of 6x question sets to generate:\n")
+    m = Formatter()
+    m.format_manuals()
+    print("Manuals are ready to use!")
+    print("Connecting to GPT-3")
+    b = Bot("name")
+    file_id = b.create_file()
+    questions = b.create_questions(amount)
+    qa_dict = b.create_answers(questions, file_id=file_id)
+    b.save_result_json(qa_dict)
+    b.save_result_txt(qa_dict)
+    input()
+
+main()
+
 
 # for el in openai.File.list()['data']:
 #     openai.File.delete(el['id'])
 
-# response = openai.File.create(
-#   file=open("resources/manuals/temp.jsonl"),
-#   purpose='answers'
-# )
+
 
 # print(response)
 
@@ -118,17 +152,7 @@ with open("main/results/result" + current_time + ".json", 'a+') as json_file:
 
 # print(openai.File.list())
 
-# response = openai.Answer.create(
-#     search_model="davinci",
-#     model="curie",
-#     question="Which electrical device is this text about?",
-#     file="file-TWQlnW4kO5VMEKuV6Fjo9u1D",
-#     examples_context="Bosch Security Systems | 2007-10 | PLE-2MA120-EU, PLE-2MA240-EU en Plena Mixer Amplifier | Installation and User Instructions | Installation en | 13 3Installation 3.1 Unpack unit 1Remove the unit from the box, and discard the packaging material accord ing to local regulations.2Use your fingernails to carefully peel off the protective plastic film from the label holders. Do not use sharp or pointed objects. 3.2 Install unit in rack (optional) The Plena Mixer Amplifier is intended for tabletop use, but you can also mount the unit in a 19 rack (see figure 3.1).If you mount the unit in a rack, you must: •ensure that it does no t exceed the overheating temperature (55 °C ambient). •us",
-#     examples=[["Which electrical device is this text about?", "Car Amplifier"]],
-#     max_rerank=10,
-#     max_tokens=200,
-#     stop=["\n", "<|endoftext|>"]
-# )
+
 
 # print(response)
 
