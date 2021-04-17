@@ -57,6 +57,7 @@ class ManualFormatter:
                     texts = f.readlines()
                     f_texts = []
                     bool1 = False
+                    bool_title = False
                     for text in texts:
                         text = text.replace("\n", ' ')
                         text = text.replace("\\\"", "")
@@ -66,7 +67,7 @@ class ManualFormatter:
                         text_lowercase = text.lower()
                         if text.__contains__("instruction") or text.__contains__("shortdesc") or text.__contains__("cause"):
                             bool1 = True
-                        if text.__contains__('label') or text.__contains__("title"):
+                        if text.__contains__('label'):
                             bool1 = False
                         if text_lowercase.islower() and not text.__contains__("@") and text.__contains__("$") and bool1:
                             text = text.replace("{", "")
@@ -76,10 +77,10 @@ class ManualFormatter:
                             text = text.replace("[", "")
                             text = text.replace("]", "")
                             text = text.replace("$", "")
+                            text = text.replace("\\\"instruction\\\"", "")
+                            text = text.replace("\\\"shortdesc\\\"", "")
+                            text = text.replace("\\\"cause\\\"", "")
                             text = text.replace("\\\"", "")
-                            text = text.replace("instruction", "")
-                            text = text.replace("shortdesc", "")
-                            text = text.replace("cause", "")
                             f_texts.append(text)
                     jsonl_texts.append(f_texts)
             elif manual.endswith(".txt"):
