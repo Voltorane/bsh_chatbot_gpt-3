@@ -55,6 +55,7 @@ class ManualFormatter:
                     f_texts = []
                     for text in texts:
                         text = text.replace("\n", ' ')
+                        text = text.replace("\\\"", "\"")
                         text = text.replace("\"", "\\\"")
                         text = text.replace("  ", "")
                         text.encode('ascii', 'ignore')
