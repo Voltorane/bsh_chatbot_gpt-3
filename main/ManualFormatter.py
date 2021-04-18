@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 
 class Formatter:
-    PATH = "resources"
+    PATH = "resources/manuals"
     manuals = []
 
     def __init__(self):
@@ -75,7 +75,7 @@ class Formatter:
             else:
                 print("Could not read this file: " + manual)
         
-        with open('resources/temp.jsonl', mode='w') as writer:
+        with open('resources/manuals/temp.jsonl', mode='w') as writer:
             for text in jsonl_texts:
                 for line in tqdm(text):
                     inserted_line = line

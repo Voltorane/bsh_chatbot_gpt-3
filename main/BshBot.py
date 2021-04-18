@@ -8,10 +8,8 @@ from tqdm import tqdm
 from ManualFormatter import Formatter
 
 class Bot:
-    furniture_type = ""
 
-    def __init__(self, furniture_type):
-        self.furniture_type = furniture_type
+    def __init__(self):
         with open("resources/api.txt", 'r') as f:
             openai.api_key = f.readline()
     
@@ -23,7 +21,7 @@ class Bot:
                 questions = []
                 response = openai.Completion.create(
                 engine="davinci",
-                prompt="Six users contact customer support regarding " + self.furniture_type +". The users have problems. Create a list of six specific questions they have:\n1:",
+                prompt="Six users contact customer support regarding car amplifier or dishwasher. The users have problems. Create a list of six specific questions they have:\n1:",
                 temperature=0.8,
                 max_tokens=100,
                 top_p=0.75,
@@ -47,7 +45,7 @@ class Bot:
         qa_dict = {}
 
         i = 1
-        print("Answering the questions!")
+        print("Answering the question sets!")
         for questions in tqdm(question_set):
             for question in questions:
                 question = question.replace("\"", "")
@@ -100,14 +98,14 @@ class Bot:
     def save_result_json(self, qa_dict):
         t = time.localtime()
         current_time = time.strftime("%m_%d_%H_%M", t)
-        with open("main/results/Q&A_" + "_" + current_time + ".json", 'a+') as json_file:
+        with open("results/Q&A_" + "_" + current_time + ".json", 'a+') as json_file:
             json.dump(qa_dict, json_file)
         print("Your Q&A is ready to use!")
         return current_time
 
     def create_file(self):
         response = openai.File.create(
-            file=open("resources/temp.jsonl"),
+            file=open("resources/manuals/temp.jsonl"),
             purpose='answers'
         )
         return response['id']
@@ -117,28 +115,25 @@ class Bot:
         for item in qa_dict.values():
             s = "Q: " + item["Question"] + "\n" + "A: " + item["Answer"] + "\n" + "___________________________________________________\n"
             lines.append(s)
-        with open("main/results/Q&A_" + ".txt", 'a+') as txt_file:
+        with open("results/Q&A_result" + ".txt", 'a+') as txt_file:
             for line in lines:
                 txt_file.write(line)
 
 
 def main():
     print("Please upload manuals in 'manuals' folder(.pdf, .json, .txt)!")
-    name = input("Which furniture device is this manual for?\n")
     amount = input("Chose an amount of 6x question sets to generate:\n")
     m = Formatter()
     m.format_manuals()
     print("Manuals are ready to use!")
     print("Connecting to GPT-3")
-    b = Bot("name")
+    b = Bot()
     file_id = b.create_file()
     questions = b.create_questions(amount)
     qa_dict = b.create_answers(questions, file_id=file_id)
     b.save_result_json(qa_dict)
     b.save_result_txt(qa_dict)
     input()
-
-main()
 
 
 # for el in openai.File.list()['data']:
