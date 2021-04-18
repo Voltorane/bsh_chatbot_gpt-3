@@ -1,0 +1,21 @@
+Q:  My car stereo isn't working.
+A:  Check the fuse.
+___________________________________________________
+Q: 2: I am having trouble programming my dishwasher.
+A: The dishwasher is not programmed correctly.
+___________________________________________________
+Q: 3: My amplifier is not very loud.
+A: The mixer amplifier is designed to drive a maximum of 8 loudspeakers. If you want to drive more loudspeakers, you can connect additional amplifiers.
+___________________________________________________
+Q: 4: My dishwasher is leaking water.
+A: The dishwasher is leaking water.
+___________________________________________________
+Q: 5: I can't connect my iPod to my car stereo.
+A: The iPod is not compatible with the car stereo.
+___________________________________________________
+Q: 6: My DVD player won't work with my amplifier.
+A: The DVD player is not compatible with the amplifier.
+___________________________________________________
+Q: Ask your teammates for their answers and write them on the board, making sure they are numbered correctly (1 through 6).  Then, read each question aloud to
+A: The dishwasher must be installed on a level surface
+___________________________________________________
