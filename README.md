@@ -1,6 +1,6 @@
 # bsh_chatbot_gpt-3
 
-This is a program that generates Question and Answers using user manuals to support chatbot development
+This is a program that generates Question and Answers based on user manuals to support chatbot development
 
 # Instructions
 
